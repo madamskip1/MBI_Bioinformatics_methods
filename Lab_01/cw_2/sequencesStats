@@ -1,0 +1,7 @@
+sum max 100 sequences:    3027941
+sum max 500 sequences:    3252847
+sum max 1000 sequences:    3252847
+
+sum of sequences longer or equal to 100 bp:    3244212
+sum of sequences longer or equal to 1000 bp:    3203536
+sum of sequences longer or equal to 10000 bp:    2959343
