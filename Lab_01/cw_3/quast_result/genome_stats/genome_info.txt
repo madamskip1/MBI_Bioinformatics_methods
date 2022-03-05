@@ -1,0 +1,15 @@
+reference chromosomes:
+	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence (total length: 1624979 bp, maximal covered length: 1596000 bp)
+	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence (total length: 12783 bp, maximal covered length: 10891 bp)
+
+total genome size: 1637762
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+de_novo_out              | 98.11505% | 1.99972     | 31        | -         | -         | -         | -         |

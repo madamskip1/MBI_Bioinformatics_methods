@@ -1,0 +1,1413 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence]
+	Loaded [NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence]
+Loading SNPs...
+	Total Regions: 2
+	Total Region Length: 1637762
+Analyzing contigs...
+CONTIG: de_novo_out_0_3079 (3079bp)
+Best alignment score: 3079.0 (LEN: 3079, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1003341 1006419 | 1 3079 | 3079 3079 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_0_3079
+
+CONTIG: de_novo_out_1_61923 (61923bp)
+Best alignment score: 61923.0 (LEN: 61923, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1449926 1511848 | 61923 1 | 61923 61923 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_1_61923
+
+CONTIG: de_novo_out_2_2952 (2952bp)
+Best alignment score: 2952.0 (LEN: 2952, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1003478 1006429 | 2952 1 | 2952 2952 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_2_2952
+
+CONTIG: de_novo_out_3_17326 (17326bp)
+Best alignment score: 17326.0 (LEN: 17326, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1428453 1445778 | 17326 1 | 17326 17326 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_3_17326
+
+CONTIG: de_novo_out_4_22421 (22421bp)
+Best alignment score: 22421.0 (LEN: 22421, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 423305 445725 | 1 22421 | 22421 22421 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_4_22421
+
+CONTIG: de_novo_out_5_1826 (1826bp)
+Best alignment score: 1826.0 (LEN: 1826, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1167375 1169200 | 1 1826 | 1826 1826 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_5_1826
+
+CONTIG: de_novo_out_7_3748 (3748bp)
+Best alignment score: 3748.0 (LEN: 3748, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1445747 1449494 | 1 3748 | 3748 3748 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_7_3748
+
+CONTIG: de_novo_out_8_22292 (22292bp)
+Best alignment score: 22292.0 (LEN: 22292, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 423469 445760 | 22292 1 | 22292 22292 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_8_22292
+
+CONTIG: de_novo_out_9_26785 (26785bp)
+Best alignment score: 26785.0 (LEN: 26785, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 739427 766211 | 26785 1 | 26785 26785 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_9_26785
+
+CONTIG: de_novo_out_10_17161 (17161bp)
+Best alignment score: 17161.0 (LEN: 17161, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1428441 1445601 | 1 17161 | 17161 17161 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_10_17161
+
+CONTIG: de_novo_out_11_1791 (1791bp)
+Best alignment score: 1791.0 (LEN: 1791, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1167526 1169316 | 1791 1 | 1791 1791 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_11_1791
+
+CONTIG: de_novo_out_12_3710 (3710bp)
+Best alignment score: 3710.0 (LEN: 3710, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1445785 1449494 | 3710 1 | 3710 3710 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_12_3710
+
+CONTIG: de_novo_out_16_62833 (62833bp)
+Best alignment score: 62833.0 (LEN: 62833, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 360237 423069 | 62833 1 | 62833 62833 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_16_62833
+
+CONTIG: de_novo_out_18_62886 (62886bp)
+Best alignment score: 62879.7 (LEN: 62886, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 360182 423067 | 1 62886 | 62886 62886 | 99.99 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_18_62886
+
+CONTIG: de_novo_out_20_26840 (26840bp)
+Best alignment score: 26837.3 (LEN: 26840, IDY: 99.99), Total number of alignments: 1
+		One align captures most of this contig: 739372 766211 | 1 26840 | 26840 26840 | 99.99 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_20_26840
+
+CONTIG: de_novo_out_21_62009 (62009bp)
+Best alignment score: 62009.0 (LEN: 62009, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1449840 1511848 | 1 62009 | 62009 62009 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_21_62009
+
+CONTIG: de_novo_out_22_6706 (6706bp)
+Best alignment score: 6706.0 (LEN: 6706, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 951550 958255 | 6706 1 | 6706 6706 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_22_6706
+
+CONTIG: de_novo_out_27_17182 (17182bp)
+Best alignment score: 17182.0 (LEN: 17182, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1232273 1249454 | 17182 1 | 17182 17182 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_27_17182
+
+CONTIG: de_novo_out_28_13212 (13212bp)
+Best alignment score: 13212.0 (LEN: 13212, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1218881 1232092 | 13212 1 | 13212 13212 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_28_13212
+
+CONTIG: de_novo_out_36_6172 (6172bp)
+Best alignment score: 6172.0 (LEN: 6172, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 510839 510903 | 6108 6172 | 65 65 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_36_6172
+		One align captures most of this contig: 504408 510579 | 1 6172 | 6172 6172 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_36_6172
+
+CONTIG: de_novo_out_38_2121 (2121bp)
+Best alignment score: 2121.0 (LEN: 2121, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 470161 472281 | 2121 1 | 2121 2121 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_38_2121
+			Skipping alignment 873553 875673 | 1 2121 | 2121 2121 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_38_2121
+
+CONTIG: de_novo_out_39_28786 (28786bp)
+Best alignment score: 28768.7 (LEN: 28786, IDY: 99.94), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 827746 847802 | 28786 8712 | 20057 20075 | 99.91 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_39_28786
+		One align captures most of this contig: 827746 856513 | 28786 1 | 28768 28786 | 99.94 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_39_28786
+
+CONTIG: de_novo_out_42_1537 (1537bp)
+Best alignment score: 1537.0 (LEN: 1537, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1009448 1010984 | 1 1537 | 1537 1537 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_42_1537
+			Skipping alignment 1549030 1550566 | 1 1537 | 1537 1537 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_42_1537
+
+CONTIG: de_novo_out_43_29658 (29658bp)
+Best alignment score: 29658.0 (LEN: 29658, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1518641 1548298 | 29658 1 | 29658 29658 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_43_29658
+
+CONTIG: de_novo_out_44_17070 (17070bp)
+Best alignment score: 17070.0 (LEN: 17070, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 619766 636835 | 1 17070 | 17070 17070 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_44_17070
+
+CONTIG: de_novo_out_49_3521 (3521bp)
+Best alignment score: 3521.0 (LEN: 3521, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 948079 951599 | 1 3521 | 3521 3521 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_49_3521
+
+CONTIG: de_novo_out_53_74396 (74396bp)
+Best alignment score: 74366.2 (LEN: 74396, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 1550513 1624880 | 74396 1 | 74368 74396 | 99.96 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_53_74396
+
+CONTIG: de_novo_out_54_11355 (11355bp)
+Best alignment score: 11355.0 (LEN: 11355, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1417044 1428398 | 1 11355 | 11355 11355 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_54_11355
+
+CONTIG: de_novo_out_55_17082 (17082bp)
+Best alignment score: 17082.0 (LEN: 17082, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1169399 1186480 | 1 17082 | 17082 17082 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_55_17082
+
+CONTIG: de_novo_out_58_30467 (30467bp)
+Best alignment score: 30467.0 (LEN: 30467, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 958274 988740 | 1 30467 | 30467 30467 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_58_30467
+
+CONTIG: de_novo_out_64_30441 (30441bp)
+Best alignment score: 30441.0 (LEN: 30441, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 958300 988740 | 30441 1 | 30441 30441 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_64_30441
+
+CONTIG: de_novo_out_66_832 (832bp)
+Best alignment score: 832.0 (LEN: 832, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1548252 1549083 | 832 1 | 832 832 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_66_832
+
+CONTIG: de_novo_out_67_4101 (4101bp)
+Best alignment score: 4101.0 (LEN: 4101, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1011729 1015829 | 1 4101 | 4101 4101 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_67_4101
+			Skipping alignment 1383460 1387560 | 1 4101 | 4101 4101 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_67_4101
+
+CONTIG: de_novo_out_74_518 (518bp)
+Best alignment score: 518.0 (LEN: 518, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 716171 716688 | 518 1 | 518 518 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_74_518
+
+CONTIG: de_novo_out_78_46802 (46802bp)
+Best alignment score: 46802.0 (LEN: 46802, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1018774 1065575 | 1 46802 | 46802 46802 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_78_46802
+
+CONTIG: de_novo_out_79_852 (852bp)
+Best alignment score: 852.0 (LEN: 852, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1010931 1011782 | 852 1 | 852 852 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_79_852
+
+CONTIG: de_novo_out_80_4101 (4101bp)
+Best alignment score: 4101.0 (LEN: 4101, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1011729 1015829 | 4101 1 | 4101 4101 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_80_4101
+			Skipping alignment 1383460 1387560 | 4101 1 | 4101 4101 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_80_4101
+
+CONTIG: de_novo_out_81_524 (524bp)
+Best alignment score: 524.0 (LEN: 524, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1341418 1341941 | 1 524 | 524 524 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_81_524
+
+CONTIG: de_novo_out_82_2083 (2083bp)
+Best alignment score: 2083.0 (LEN: 2083, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1136355 1138437 | 1 2083 | 2083 2083 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_82_2083
+			Skipping alignment 1415015 1417097 | 1 2083 | 2083 2083 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_82_2083
+
+CONTIG: de_novo_out_83_19025 (19025bp)
+Best alignment score: 19025.0 (LEN: 19025, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1390505 1409529 | 19025 1 | 19025 19025 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_83_19025
+
+CONTIG: de_novo_out_89_1698 (1698bp)
+Best alignment score: 1698.0 (LEN: 1698, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 637677 639374 | 1 1698 | 1698 1698 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_89_1698
+
+CONTIG: de_novo_out_90_1183 (1183bp)
+Best alignment score: 1183.0 (LEN: 1183, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 930185 931367 | 1 1183 | 1183 1183 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_90_1183
+
+CONTIG: de_novo_out_94_6133 (6133bp)
+Best alignment score: 6133.0 (LEN: 6133, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 705062 711194 | 1 6133 | 6133 6133 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_94_6133
+
+CONTIG: de_novo_out_95_3004 (3004bp)
+Best alignment score: 3004.0 (LEN: 3004, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1015824 1018827 | 3004 1 | 3004 3004 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_95_3004
+			Skipping alignment 1387555 1390558 | 3004 1 | 3004 3004 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_95_3004
+
+CONTIG: de_novo_out_101_22192 (22192bp)
+Best alignment score: 22192.0 (LEN: 22192, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 717143 739334 | 1 22192 | 22192 22192 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_101_22192
+
+CONTIG: de_novo_out_103_10615 (10615bp)
+Best alignment score: 10615.0 (LEN: 10615, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 445740 456354 | 1 10615 | 10615 10615 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_103_10615
+
+CONTIG: de_novo_out_104_1112 (1112bp)
+Best alignment score: 1112.0 (LEN: 1112, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 456301 457412 | 1 1112 | 1112 1112 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_104_1112
+			Skipping alignment 929127 930238 | 1 1112 | 1112 1112 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_104_1112
+
+CONTIG: de_novo_out_105_83852 (83852bp)
+Best alignment score: 65434.5 (LEN: 65441, IDY: 99.99), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 83841.8, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 20182 between Alignment 1 and 2: 1300957 1339557 | 45260 83852 | 38601 38593 --> 1321139 1339557 | 65442 83852 | 18419 18411
+			Real Alignment 1: 1255698 1321146 | 1 65441 | 65449 65441 | 99.99 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_105_83852
+			  Indel (> 5bp) between these two alignments: insertion of length 8; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 1321139 1339557 | 65442 83852 | 18419 18411 | 99.98 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_105_83852
+
+CONTIG: de_novo_out_117_74354 (74354bp)
+Best alignment score: 74324.3 (LEN: 74354, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 1550513 1624838 | 1 74354 | 74326 74354 | 99.96 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_117_74354
+
+CONTIG: de_novo_out_121_1897 (1897bp)
+Best alignment score: 1897.0 (LEN: 1897, IDY: 100.00), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 4052 5970 | 1 1897 | 1919 1897 | 98.85 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_121_1897
+			Skipping alignment 11160 12783 | 1 1624 | 1624 1624 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_121_1897
+		One align captures most of this contig: 4052 5948 | 1 1897 | 1897 1897 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_121_1897
+
+CONTIG: de_novo_out_122_5051 (5051bp)
+Best alignment score: 5051.0 (LEN: 5051, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 5917 10967 | 5051 1 | 5051 5051 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_122_5051
+
+CONTIG: de_novo_out_138_6150 (6150bp)
+Best alignment score: 6150.0 (LEN: 6150, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 705062 711211 | 6150 1 | 6150 6150 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_138_6150
+
+CONTIG: de_novo_out_139_37557 (37557bp)
+Best alignment score: 37557.0 (LEN: 37557, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 163449 201005 | 1 37557 | 37557 37557 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_139_37557
+
+CONTIG: de_novo_out_141_11406 (11406bp)
+Best alignment score: 11406.0 (LEN: 11406, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1417044 1428449 | 11406 1 | 11406 11406 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_141_11406
+
+CONTIG: de_novo_out_142_2083 (2083bp)
+Best alignment score: 2083.0 (LEN: 2083, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1136355 1138437 | 2083 1 | 2083 2083 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_142_2083
+			Skipping alignment 1415015 1417097 | 2083 1 | 2083 2083 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_142_2083
+
+CONTIG: de_novo_out_143_68633 (68633bp)
+Best alignment score: 68633.0 (LEN: 68633, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 54474 123106 | 1 68633 | 68633 68633 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_143_68633
+
+CONTIG: de_novo_out_144_1740 (1740bp)
+Best alignment score: 1740.0 (LEN: 1740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1339597 1341336 | 1 1740 | 1740 1740 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_144_1740
+
+CONTIG: de_novo_out_146_3463 (3463bp)
+Best alignment score: 3463.0 (LEN: 3463, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 948137 951599 | 3463 1 | 3463 3463 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_146_3463
+
+CONTIG: de_novo_out_149_7948 (7948bp)
+Best alignment score: 7948.0 (LEN: 7948, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 940116 948063 | 7948 1 | 7948 7948 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_149_7948
+
+CONTIG: de_novo_out_153_21104 (21104bp)
+Best alignment score: 21104.0 (LEN: 21104, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 102003 123106 | 21104 1 | 21104 21104 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_153_21104
+
+CONTIG: de_novo_out_161_99154 (99154bp)
+Best alignment score: 99154.0 (LEN: 99154, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 260996 360149 | 99154 1 | 99154 99154 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_161_99154
+
+CONTIG: de_novo_out_164_17598 (17598bp)
+Best alignment score: 17598.0 (LEN: 17598, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 911583 929180 | 1 17598 | 17598 17598 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_164_17598
+
+CONTIG: de_novo_out_165_832 (832bp)
+Best alignment score: 832.0 (LEN: 832, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1548252 1549083 | 1 832 | 832 832 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_165_832
+
+CONTIG: de_novo_out_173_5625 (5625bp)
+Best alignment score: 5625.0 (LEN: 5625, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1250035 1255659 | 1 5625 | 5625 5625 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_173_5625
+
+CONTIG: de_novo_out_174_2121 (2121bp)
+Best alignment score: 2121.0 (LEN: 2121, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 470161 472281 | 1 2121 | 2121 2121 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_174_2121
+			Skipping alignment 873553 875673 | 2121 1 | 2121 2121 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_174_2121
+
+CONTIG: de_novo_out_175_5455 (5455bp)
+Best alignment score: 5455.0 (LEN: 5455, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1409614 1415068 | 5455 1 | 5455 5455 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_175_5455
+
+CONTIG: de_novo_out_181_28916 (28916bp)
+Best alignment score: 28898.7 (LEN: 28916, IDY: 99.94), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 827616 847802 | 1 20205 | 20187 20205 | 99.91 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_181_28916
+		One align captures most of this contig: 827616 856513 | 1 28916 | 28898 28916 | 99.94 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_181_28916
+
+CONTIG: de_novo_out_184_8819 (8819bp)
+Best alignment score: 8819.0 (LEN: 8819, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 931332 940150 | 1 8819 | 8819 8819 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_184_8819
+
+CONTIG: de_novo_out_187_1159 (1159bp)
+Best alignment score: 1159.0 (LEN: 1159, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1187130 1188288 | 1 1159 | 1159 1159 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_187_1159
+
+CONTIG: de_novo_out_190_12827 (12827bp)
+Best alignment score: 12827.0 (LEN: 12827, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1083608 1096434 | 1 12827 | 12827 12827 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_190_12827
+
+CONTIG: de_novo_out_192_1589 (1589bp)
+Best alignment score: 1589.0 (LEN: 1589, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1190239 1191827 | 1589 1 | 1589 1589 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_192_1589
+
+CONTIG: de_novo_out_198_16682 (16682bp)
+Best alignment score: 16682.0 (LEN: 16682, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1066505 1083186 | 16682 1 | 16682 16682 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_198_16682
+
+CONTIG: de_novo_out_201_35417 (35417bp)
+Best alignment score: 35223.3 (LEN: 35255, IDY: 99.91), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 512633 532882 | 35417 15135 | 20250 20283 | 99.84 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_201_35417
+		One align captures most of this contig: 512795 548016 | 35255 1 | 35222 35255 | 99.91 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_201_35417
+
+CONTIG: de_novo_out_202_12113 (12113bp)
+Best alignment score: 12113.0 (LEN: 12113, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1098793 1110905 | 12113 1 | 12113 12113 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_202_12113
+
+CONTIG: de_novo_out_206_47564 (47564bp)
+Best alignment score: 47564.0 (LEN: 47564, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 54474 102037 | 47564 1 | 47564 47564 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_206_47564
+
+CONTIG: de_novo_out_208_595 (595bp)
+Best alignment score: 595.0 (LEN: 595, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 123053 123647 | 1 595 | 595 595 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_208_595
+			Skipping alignment 124401 124995 | 1 595 | 595 595 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_208_595
+
+CONTIG: de_novo_out_211_12542 (12542bp)
+Best alignment score: 12542.0 (LEN: 12542, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 891553 904094 | 12542 1 | 12542 12542 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_211_12542
+
+CONTIG: de_novo_out_212_688 (688bp)
+Best alignment score: 688.0 (LEN: 688, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 890919 891606 | 688 1 | 688 688 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_212_688
+			Skipping alignment 1249401 1250088 | 688 1 | 688 688 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_212_688
+
+CONTIG: de_novo_out_213_7534 (7534bp)
+Best alignment score: 7534.0 (LEN: 7534, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 904102 911635 | 1 7534 | 7534 7534 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_213_7534
+
+CONTIG: de_novo_out_214_708 (708bp)
+Best alignment score: 708.0 (LEN: 708, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2001 2708 | 708 1 | 708 708 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_214_708
+
+CONTIG: de_novo_out_223_4945 (4945bp)
+Best alignment score: 4945.0 (LEN: 4945, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 610781 615725 | 4945 1 | 4945 4945 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_223_4945
+
+CONTIG: de_novo_out_226_58341 (58341bp)
+Best alignment score: 58341.0 (LEN: 58341, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 200956 259296 | 58341 1 | 58341 58341 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_226_58341
+
+CONTIG: de_novo_out_228_18082 (18082bp)
+Best alignment score: 18082.0 (LEN: 18082, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 472228 490309 | 18082 1 | 18082 18082 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_228_18082
+
+CONTIG: de_novo_out_229_6740 (6740bp)
+Best alignment score: 6740.0 (LEN: 6740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1511817 1518556 | 1 6740 | 6740 6740 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_229_6740
+
+CONTIG: de_novo_out_230_1537 (1537bp)
+Best alignment score: 1537.0 (LEN: 1537, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1009448 1010984 | 1537 1 | 1537 1537 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_230_1537
+			Skipping alignment 1549030 1550566 | 1537 1 | 1537 1537 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_230_1537
+
+CONTIG: de_novo_out_231_1847 (1847bp)
+Best alignment score: 1847.0 (LEN: 1847, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1006502 1008348 | 1 1847 | 1847 1847 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_231_1847
+
+CONTIG: de_novo_out_234_1698 (1698bp)
+Best alignment score: 1698.0 (LEN: 1698, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 637677 639374 | 1698 1 | 1698 1698 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_234_1698
+
+CONTIG: de_novo_out_237_548 (548bp)
+Best alignment score: 548.0 (LEN: 548, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 616228 616775 | 1 548 | 548 548 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_237_548
+
+CONTIG: de_novo_out_238_61236 (61236bp)
+Best alignment score: 61236.0 (LEN: 61236, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 766213 827448 | 1 61236 | 61236 61236 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_238_61236
+
+CONTIG: de_novo_out_239_10594 (10594bp)
+Best alignment score: 10594.0 (LEN: 10594, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 445761 456354 | 10594 1 | 10594 10594 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_239_10594
+
+CONTIG: de_novo_out_241_688 (688bp)
+Best alignment score: 688.0 (LEN: 688, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 890919 891606 | 1 688 | 688 688 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_241_688
+			Skipping alignment 1249401 1250088 | 1 688 | 688 688 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_241_688
+
+CONTIG: de_novo_out_242_1112 (1112bp)
+Best alignment score: 1112.0 (LEN: 1112, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 456301 457412 | 1112 1 | 1112 1112 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_242_1112
+			Skipping alignment 929127 930238 | 1112 1 | 1112 1112 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_242_1112
+
+CONTIG: de_novo_out_243_18082 (18082bp)
+Best alignment score: 18082.0 (LEN: 18082, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 472228 490309 | 1 18082 | 18082 18082 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_243_18082
+
+CONTIG: de_novo_out_245_14069 (14069bp)
+Best alignment score: 14069.0 (LEN: 14069, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 490323 504391 | 14069 1 | 14069 14069 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_245_14069
+
+CONTIG: de_novo_out_248_1924 (1924bp)
+Best alignment score: 1924.0 (LEN: 1924, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 30 1953 | 1 1924 | 1924 1924 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_248_1924
+
+CONTIG: de_novo_out_252_22661 (22661bp)
+Best alignment score: 22661.0 (LEN: 22661, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 36 22696 | 1 22661 | 22661 22661 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_252_22661
+
+CONTIG: de_novo_out_258_25538 (25538bp)
+Best alignment score: 25538.0 (LEN: 25538, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1110871 1136408 | 1 25538 | 25538 25538 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_258_25538
+
+CONTIG: de_novo_out_261_83838 (83838bp)
+Best alignment score: 65420.5 (LEN: 65427, IDY: 99.99), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 83827.8, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 20182 between Alignment 1 and 2: 1300957 1339557 | 38593 1 | 38601 38593 --> 1321139 1339557 | 18411 1 | 18419 18411
+			Real Alignment 1: 1321139 1339557 | 18411 1 | 18419 18411 | 99.98 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_261_83838
+			  Indel (> 5bp) between these two alignments: insertion of length 8; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 1255712 1321146 | 83838 18412 | 65435 65427 | 99.99 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_261_83838
+
+CONTIG: de_novo_out_262_61417 (61417bp)
+Best alignment score: 61417.0 (LEN: 61417, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 766213 827629 | 61417 1 | 61417 61417 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_262_61417
+
+CONTIG: de_novo_out_265_1740 (1740bp)
+Best alignment score: 1740.0 (LEN: 1740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1339597 1341336 | 1740 1 | 1740 1740 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_265_1740
+
+CONTIG: de_novo_out_266_5688 (5688bp)
+Best alignment score: 5688.0 (LEN: 5688, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1250035 1255722 | 5688 1 | 5688 5688 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_266_5688
+
+CONTIG: de_novo_out_267_58341 (58341bp)
+Best alignment score: 58341.0 (LEN: 58341, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 200956 259296 | 1 58341 | 58341 58341 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_267_58341
+
+CONTIG: de_novo_out_269_64826 (64826bp)
+Best alignment score: 64826.0 (LEN: 64826, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 639340 704165 | 64826 1 | 64826 64826 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_269_64826
+
+CONTIG: de_novo_out_270_1415 (1415bp)
+Best alignment score: 1415.0 (LEN: 1415, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2691 4105 | 1 1415 | 1415 1415 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_270_1415
+
+CONTIG: de_novo_out_274_22661 (22661bp)
+Best alignment score: 22661.0 (LEN: 22661, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 36 22696 | 22661 1 | 22661 22661 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_274_22661
+
+CONTIG: de_novo_out_277_35417 (35417bp)
+Best alignment score: 35223.3 (LEN: 35255, IDY: 99.91), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 512633 532882 | 1 20283 | 20250 20283 | 99.84 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_277_35417
+		One align captures most of this contig: 512795 548016 | 163 35417 | 35222 35255 | 99.91 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_277_35417
+
+CONTIG: de_novo_out_281_17082 (17082bp)
+Best alignment score: 17082.0 (LEN: 17082, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1169399 1186480 | 17082 1 | 17082 17082 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_281_17082
+
+CONTIG: de_novo_out_282_31805 (31805bp)
+Best alignment score: 31805.0 (LEN: 31805, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22668 54472 | 31805 1 | 31805 31805 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_282_31805
+
+CONTIG: de_novo_out_284_29658 (29658bp)
+Best alignment score: 29658.0 (LEN: 29658, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1518641 1548298 | 1 29658 | 29658 29658 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_284_29658
+
+CONTIG: de_novo_out_285_28953 (28953bp)
+Best alignment score: 28953.0 (LEN: 28953, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1138384 1167336 | 28953 1 | 28953 28953 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_285_28953
+
+CONTIG: de_novo_out_286_17296 (17296bp)
+Best alignment score: 17296.0 (LEN: 17296, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1232159 1249454 | 1 17296 | 17296 17296 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_286_17296
+
+CONTIG: de_novo_out_287_22220 (22220bp)
+Best alignment score: 22220.0 (LEN: 22220, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 717143 739362 | 22220 1 | 22220 22220 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_287_22220
+
+CONTIG: de_novo_out_290_5014 (5014bp)
+Best alignment score: 5014.0 (LEN: 5014, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 610712 615725 | 1 5014 | 5014 5014 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_290_5014
+
+CONTIG: de_novo_out_291_2194 (2194bp)
+Best alignment score: 2194.0 (LEN: 2194, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 617590 619783 | 2194 1 | 2194 2194 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_291_2194
+
+CONTIG: de_novo_out_293_4950 (4950bp)
+Best alignment score: 4950.0 (LEN: 4950, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 711175 716124 | 1 4950 | 4950 4950 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_293_4950
+
+CONTIG: de_novo_out_296_1589 (1589bp)
+Best alignment score: 1589.0 (LEN: 1589, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1190239 1191827 | 1 1589 | 1589 1589 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_296_1589
+
+CONTIG: de_novo_out_298_14256 (14256bp)
+Best alignment score: 14256.0 (LEN: 14256, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 989089 1003344 | 14256 1 | 14256 14256 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_298_14256
+
+CONTIG: de_novo_out_301_8673 (8673bp)
+Best alignment score: 8673.0 (LEN: 8673, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 931478 940150 | 8673 1 | 8673 8673 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_301_8673
+
+CONTIG: de_novo_out_305_15353 (15353bp)
+Best alignment score: 15353.0 (LEN: 15353, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 875620 890972 | 1 15353 | 15353 15353 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_305_15353
+
+CONTIG: de_novo_out_306_62736 (62736bp)
+Best alignment score: 62736.0 (LEN: 62736, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 547996 610731 | 62736 1 | 62736 62736 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_306_62736
+
+CONTIG: de_novo_out_307_1183 (1183bp)
+Best alignment score: 1183.0 (LEN: 1183, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 930185 931367 | 1183 1 | 1183 1183 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_307_1183
+
+CONTIG: de_novo_out_308_1321 (1321bp)
+Best alignment score: 1321.0 (LEN: 1321, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2785 4105 | 1321 1 | 1321 1321 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_308_1321
+
+CONTIG: de_novo_out_309_15353 (15353bp)
+Best alignment score: 15353.0 (LEN: 15353, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 875620 890972 | 15353 1 | 15353 15353 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_309_15353
+
+CONTIG: de_novo_out_314_13834 (13834bp)
+Best alignment score: 13834.0 (LEN: 13834, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 490323 504156 | 1 13834 | 13834 13834 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_314_13834
+
+CONTIG: de_novo_out_316_1779 (1779bp)
+Best alignment score: 1779.0 (LEN: 1779, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1006570 1008348 | 1779 1 | 1779 1779 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_316_1779
+
+CONTIG: de_novo_out_319_28843 (28843bp)
+Best alignment score: 28843.0 (LEN: 28843, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1138384 1167226 | 1 28843 | 28843 28843 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_319_28843
+
+CONTIG: de_novo_out_322_99113 (99113bp)
+Best alignment score: 99113.0 (LEN: 99113, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 260996 360108 | 1 99113 | 99113 99113 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_322_99113
+
+CONTIG: de_novo_out_323_1200 (1200bp)
+Best alignment score: 1200.0 (LEN: 1200, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1008302 1009501 | 1200 1 | 1200 1200 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_323_1200
+
+CONTIG: de_novo_out_328_3004 (3004bp)
+Best alignment score: 3004.0 (LEN: 3004, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1015824 1018827 | 1 3004 | 3004 3004 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_328_3004
+			Skipping alignment 1387555 1390558 | 1 3004 | 3004 3004 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_328_3004
+
+CONTIG: de_novo_out_329_19025 (19025bp)
+Best alignment score: 19025.0 (LEN: 19025, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1390505 1409529 | 1 19025 | 19025 19025 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_329_19025
+
+CONTIG: de_novo_out_330_41533 (41533bp)
+Best alignment score: 41533.0 (LEN: 41533, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1341981 1383513 | 41533 1 | 41533 41533 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_330_41533
+
+CONTIG: de_novo_out_332_6740 (6740bp)
+Best alignment score: 6740.0 (LEN: 6740, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1511817 1518556 | 6740 1 | 6740 6740 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_332_6740
+
+CONTIG: de_novo_out_334_4950 (4950bp)
+Best alignment score: 4950.0 (LEN: 4950, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 711175 716124 | 4950 1 | 4950 4950 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_334_4950
+
+CONTIG: de_novo_out_335_12856 (12856bp)
+Best alignment score: 12856.0 (LEN: 12856, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 457359 470214 | 1 12856 | 12856 12856 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_335_12856
+
+CONTIG: de_novo_out_340_17049 (17049bp)
+Best alignment score: 17049.0 (LEN: 17049, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 619787 636835 | 17049 1 | 17049 17049 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_340_17049
+
+CONTIG: de_novo_out_345_852 (852bp)
+Best alignment score: 852.0 (LEN: 852, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1010931 1011782 | 1 852 | 852 852 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_345_852
+
+CONTIG: de_novo_out_348_1924 (1924bp)
+Best alignment score: 1924.0 (LEN: 1924, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 30 1953 | 1924 1 | 1924 1924 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_348_1924
+
+CONTIG: de_novo_out_356_7534 (7534bp)
+Best alignment score: 7534.0 (LEN: 7534, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 904102 911635 | 7534 1 | 7534 7534 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_356_7534
+
+CONTIG: de_novo_out_357_41533 (41533bp)
+Best alignment score: 41533.0 (LEN: 41533, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1341981 1383513 | 1 41533 | 41533 41533 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_357_41533
+
+CONTIG: de_novo_out_358_37557 (37557bp)
+Best alignment score: 37557.0 (LEN: 37557, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 163449 201005 | 37557 1 | 37557 37557 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_358_37557
+
+CONTIG: de_novo_out_363_518 (518bp)
+Best alignment score: 518.0 (LEN: 518, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 716171 716688 | 1 518 | 518 518 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_363_518
+
+CONTIG: de_novo_out_365_38119 (38119bp)
+Best alignment score: 38119.0 (LEN: 38119, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 125383 163501 | 38119 1 | 38119 38119 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_365_38119
+
+CONTIG: de_novo_out_366_1200 (1200bp)
+Best alignment score: 1200.0 (LEN: 1200, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1008302 1009501 | 1 1200 | 1200 1200 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_366_1200
+
+CONTIG: de_novo_out_371_12477 (12477bp)
+Best alignment score: 12477.0 (LEN: 12477, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 891553 904029 | 1 12477 | 12477 12477 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_371_12477
+
+CONTIG: de_novo_out_372_25422 (25422bp)
+Best alignment score: 25422.0 (LEN: 25422, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1110987 1136408 | 25422 1 | 25422 25422 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_372_25422
+
+CONTIG: de_novo_out_374_595 (595bp)
+Best alignment score: 595.0 (LEN: 595, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 123053 123647 | 595 1 | 595 595 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_374_595
+			Skipping alignment 124401 124995 | 595 1 | 595 595 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_374_595
+
+CONTIG: de_novo_out_377_1025 (1025bp)
+Best alignment score: 1025.0 (LEN: 1025, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1188932 1189956 | 1 1025 | 1025 1025 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_377_1025
+
+CONTIG: de_novo_out_378_1025 (1025bp)
+Best alignment score: 1025.0 (LEN: 1025, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1188932 1189956 | 1025 1 | 1025 1025 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_378_1025
+
+CONTIG: de_novo_out_379_12020 (12020bp)
+Best alignment score: 12020.0 (LEN: 12020, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1098793 1110812 | 1 12020 | 12020 12020 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_379_12020
+
+CONTIG: de_novo_out_380_46802 (46802bp)
+Best alignment score: 46802.0 (LEN: 46802, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1018774 1065575 | 46802 1 | 46802 46802 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_380_46802
+
+CONTIG: de_novo_out_381_13212 (13212bp)
+Best alignment score: 13212.0 (LEN: 13212, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1218881 1232092 | 1 13212 | 13212 13212 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_381_13212
+
+CONTIG: de_novo_out_382_27094 (27094bp)
+Best alignment score: 27094.0 (LEN: 27094, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1191829 1218922 | 27094 1 | 27094 27094 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_382_27094
+
+CONTIG: de_novo_out_385_38119 (38119bp)
+Best alignment score: 38119.0 (LEN: 38119, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 125383 163501 | 1 38119 | 38119 38119 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_385_38119
+
+CONTIG: de_novo_out_390_1304 (1304bp)
+Best alignment score: 1304.0 (LEN: 1304, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 259263 260566 | 1304 1 | 1304 1304 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_390_1304
+
+CONTIG: de_novo_out_391_548 (548bp)
+Best alignment score: 548.0 (LEN: 548, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 616228 616775 | 548 1 | 548 548 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_391_548
+
+CONTIG: de_novo_out_392_14178 (14178bp)
+Best alignment score: 14178.0 (LEN: 14178, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 989089 1003266 | 1 14178 | 14178 14178 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_392_14178
+
+CONTIG: de_novo_out_393_17080 (17080bp)
+Best alignment score: 17080.0 (LEN: 17080, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 856527 873606 | 1 17080 | 17080 17080 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_393_17080
+
+CONTIG: de_novo_out_395_7904 (7904bp)
+Best alignment score: 7904.0 (LEN: 7904, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 940116 948019 | 1 7904 | 7904 7904 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_395_7904
+
+CONTIG: de_novo_out_396_2154 (2154bp)
+Best alignment score: 2154.0 (LEN: 2154, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 617590 619743 | 1 2154 | 2154 2154 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_396_2154
+
+CONTIG: de_novo_out_397_17598 (17598bp)
+Best alignment score: 17598.0 (LEN: 17598, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 911583 929180 | 17598 1 | 17598 17598 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_397_17598
+
+CONTIG: de_novo_out_399_17080 (17080bp)
+Best alignment score: 17080.0 (LEN: 17080, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 856527 873606 | 17080 1 | 17080 17080 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_399_17080
+
+CONTIG: de_novo_out_400_1304 (1304bp)
+Best alignment score: 1304.0 (LEN: 1304, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 259263 260566 | 1 1304 | 1304 1304 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_400_1304
+
+CONTIG: de_novo_out_407_501 (501bp)
+Best alignment score: 501.0 (LEN: 501, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1341441 1341941 | 501 1 | 501 501 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_407_501
+
+CONTIG: de_novo_out_409_6706 (6706bp)
+Best alignment score: 6706.0 (LEN: 6706, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 951550 958255 | 1 6706 | 6706 6706 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_409_6706
+
+CONTIG: de_novo_out_410_16601 (16601bp)
+Best alignment score: 16601.0 (LEN: 16601, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1066505 1083105 | 1 16601 | 16601 16601 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_410_16601
+
+CONTIG: de_novo_out_412_62537 (62537bp)
+Best alignment score: 62537.0 (LEN: 62537, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 547996 610532 | 1 62537 | 62537 62537 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_412_62537
+
+CONTIG: de_novo_out_413_31805 (31805bp)
+Best alignment score: 31805.0 (LEN: 31805, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 22668 54472 | 1 31805 | 31805 31805 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_413_31805
+
+CONTIG: de_novo_out_414_6117 (6117bp)
+Best alignment score: 6117.0 (LEN: 6117, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 510839 510903 | 65 1 | 65 65 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_414_6117
+		One align captures most of this contig: 504463 510579 | 6117 1 | 6117 6117 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_414_6117
+
+CONTIG: de_novo_out_419_1159 (1159bp)
+Best alignment score: 1159.0 (LEN: 1159, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1187130 1188288 | 1159 1 | 1159 1159 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_419_1159
+
+CONTIG: de_novo_out_421_5455 (5455bp)
+Best alignment score: 5455.0 (LEN: 5455, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1409614 1415068 | 1 5455 | 5455 5455 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_421_5455
+
+CONTIG: de_novo_out_422_27094 (27094bp)
+Best alignment score: 27094.0 (LEN: 27094, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1191829 1218922 | 1 27094 | 27094 27094 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_422_27094
+
+CONTIG: de_novo_out_426_1876 (1876bp)
+Best alignment score: 1876.0 (LEN: 1876, IDY: 100.00), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 11160 12783 | 1876 253 | 1624 1624 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_426_1876
+		One align captures most of this contig: 4052 5927 | 1876 1 | 1876 1876 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_426_1876
+
+CONTIG: de_novo_out_429_64826 (64826bp)
+Best alignment score: 64826.0 (LEN: 64826, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 639340 704165 | 1 64826 | 64826 64826 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_429_64826
+
+CONTIG: de_novo_out_430_12787 (12787bp)
+Best alignment score: 12787.0 (LEN: 12787, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1083648 1096434 | 12787 1 | 12787 12787 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_430_12787
+
+CONTIG: de_novo_out_431_12856 (12856bp)
+Best alignment score: 12856.0 (LEN: 12856, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 457359 470214 | 12856 1 | 12856 12856 | 100.0 | NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence de_novo_out_431_12856
+
+CONTIG: de_novo_out_433_5051 (5051bp)
+Best alignment score: 5051.0 (LEN: 5051, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 5917 10967 | 1 5051 | 5051 5051 | 100.0 | NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence de_novo_out_433_5051
+
+Analyzing coverage...
+Writing SNPs into /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.used_snps.gz
+	Reference NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence: 169 total alignments. 1 total regions.
+		Region: 1 to 1624979 (1624979 bp)
+			START in gap: 1 to 36 (35 bp)
+			Align 1: 36 22696 de_novo_out_252_22661 1 22661
+				The next alignment (36 22696 de_novo_out_274_22661 22661 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 22696 to 22668 (-28 bp)
+				Next Alignment: 22668 54472 de_novo_out_282_31805 31805 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 31805 to 31776.
+			Align 3: 22697 54472 de_novo_out_282_31805 31776 1
+				The next alignment (22668 54472 de_novo_out_413_31805 1 31805) is redundant. Skipping.
+				Gap between this and next alignment: 54472 to 54474 (1 bp)
+				Next Alignment: 54474 123106 de_novo_out_143_68633 1 68633
+
+			Align 5: 54474 123106 de_novo_out_143_68633 1 68633
+				The next alignment (54474 102037 de_novo_out_206_47564 47564 1) is redundant. Skipping.
+				The next alignment (102003 123106 de_novo_out_153_21104 21104 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 123106 to 123053 (-53 bp)
+				Next Alignment: 123053 123647 de_novo_out_208_595 1 595
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 8: 123107 123647 de_novo_out_208_595 55 595
+				The next alignment (123053 123647 de_novo_out_374_595 595 1) is redundant. Skipping.
+				Gap between this and next alignment: 123647 to 125383 (1735 bp)
+				Next Alignment: 125383 163501 de_novo_out_365_38119 38119 1
+
+			Align 10: 125383 163501 de_novo_out_365_38119 38119 1
+				The next alignment (125383 163501 de_novo_out_385_38119 1 38119) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 163501 to 163449 (-52 bp)
+				Next Alignment: 163449 201005 de_novo_out_139_37557 1 37557
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 54.
+			Align 12: 163502 201005 de_novo_out_139_37557 54 37557
+				The next alignment (163449 201005 de_novo_out_358_37557 37557 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 201005 to 200956 (-49 bp)
+				Next Alignment: 200956 259296 de_novo_out_226_58341 58341 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 58341 to 58291.
+			Align 14: 201006 259296 de_novo_out_226_58341 58291 1
+				The next alignment (200956 259296 de_novo_out_267_58341 1 58341) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 259296 to 259263 (-33 bp)
+				Next Alignment: 259263 260566 de_novo_out_390_1304 1304 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1304 to 1270.
+			Align 16: 259297 260566 de_novo_out_390_1304 1270 1
+				The next alignment (259263 260566 de_novo_out_400_1304 1 1304) is redundant. Skipping.
+				Gap between this and next alignment: 260566 to 260996 (429 bp)
+				Next Alignment: 260996 360149 de_novo_out_161_99154 99154 1
+
+			Align 18: 260996 360149 de_novo_out_161_99154 99154 1
+				The next alignment (260996 360108 de_novo_out_322_99113 1 99113) is redundant. Skipping.
+				Gap between this and next alignment: 360149 to 360182 (32 bp)
+				Next Alignment: 360182 423067 de_novo_out_18_62886 1 62886
+
+			Align 20: 360182 423067 de_novo_out_18_62886 1 62886
+				Negative gap (overlap) between this and next alignment: 423067 to 360237 (-62830 bp)
+				Next Alignment: 360237 423069 de_novo_out_16_62833 62833 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 62833 to 2.
+			Align 21: 423068 423069 de_novo_out_16_62833 2 1
+				Gap between this and next alignment: 423069 to 423305 (235 bp)
+				Next Alignment: 423305 445725 de_novo_out_4_22421 1 22421
+
+			Align 22: 423305 445725 de_novo_out_4_22421 1 22421
+				Negative gap (overlap) between this and next alignment: 445725 to 423469 (-22256 bp)
+				Next Alignment: 423469 445760 de_novo_out_8_22292 22292 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 22292 to 35.
+			Align 23: 445726 445760 de_novo_out_8_22292 35 1
+				Negative gap (overlap) between this and next alignment: 445760 to 445740 (-20 bp)
+				Next Alignment: 445740 456354 de_novo_out_103_10615 1 10615
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 22.
+			Align 24: 445761 456354 de_novo_out_103_10615 22 10615
+				The next alignment (445761 456354 de_novo_out_239_10594 10594 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 456354 to 456301 (-53 bp)
+				Next Alignment: 456301 457412 de_novo_out_104_1112 1 1112
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 26: 456355 457412 de_novo_out_104_1112 55 1112
+				The next alignment (456301 457412 de_novo_out_242_1112 1112 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 457412 to 457359 (-53 bp)
+				Next Alignment: 457359 470214 de_novo_out_335_12856 1 12856
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 28: 457413 470214 de_novo_out_335_12856 55 12856
+				The next alignment (457359 470214 de_novo_out_431_12856 12856 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 470214 to 470161 (-53 bp)
+				Next Alignment: 470161 472281 de_novo_out_38_2121 2121 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2121 to 2067.
+			Align 30: 470215 472281 de_novo_out_38_2121 2067 1
+				The next alignment (470161 472281 de_novo_out_174_2121 1 2121) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 472281 to 472228 (-53 bp)
+				Next Alignment: 472228 490309 de_novo_out_228_18082 18082 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 18082 to 18028.
+			Align 32: 472282 490309 de_novo_out_228_18082 18028 1
+				The next alignment (472228 490309 de_novo_out_243_18082 1 18082) is redundant. Skipping.
+				Gap between this and next alignment: 490309 to 490323 (13 bp)
+				Next Alignment: 490323 504391 de_novo_out_245_14069 14069 1
+
+			Align 34: 490323 504391 de_novo_out_245_14069 14069 1
+				The next alignment (490323 504156 de_novo_out_314_13834 1 13834) is redundant. Skipping.
+				Gap between this and next alignment: 504391 to 504408 (16 bp)
+				Next Alignment: 504408 510579 de_novo_out_36_6172 1 6172
+
+			Align 36: 504408 510579 de_novo_out_36_6172 1 6172
+				The next alignment (504463 510579 de_novo_out_414_6117 6117 1) is redundant. Skipping.
+				Gap between this and next alignment: 510579 to 512795 (2215 bp)
+				Next Alignment: 512795 548016 de_novo_out_201_35417 35255 1
+
+			Align 38: 512795 548016 de_novo_out_201_35417 35255 1
+				The next alignment (512795 548016 de_novo_out_277_35417 163 35417) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 548016 to 547996 (-20 bp)
+				Next Alignment: 547996 610731 de_novo_out_306_62736 62736 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 62736 to 62715.
+			Align 40: 548017 610731 de_novo_out_306_62736 62715 1
+				The next alignment (547996 610532 de_novo_out_412_62537 1 62537) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 610731 to 610712 (-19 bp)
+				Next Alignment: 610712 615725 de_novo_out_290_5014 1 5014
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 21.
+			Align 42: 610732 615725 de_novo_out_290_5014 21 5014
+				The next alignment (610781 615725 de_novo_out_223_4945 4945 1) is redundant. Skipping.
+				Gap between this and next alignment: 615725 to 616228 (502 bp)
+				Next Alignment: 616228 616775 de_novo_out_237_548 1 548
+
+			Align 44: 616228 616775 de_novo_out_237_548 1 548
+				The next alignment (616228 616775 de_novo_out_391_548 548 1) is redundant. Skipping.
+				Gap between this and next alignment: 616775 to 617590 (814 bp)
+				Next Alignment: 617590 619783 de_novo_out_291_2194 2194 1
+
+			Align 46: 617590 619783 de_novo_out_291_2194 2194 1
+				The next alignment (617590 619743 de_novo_out_396_2154 1 2154) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 619783 to 619766 (-17 bp)
+				Next Alignment: 619766 636835 de_novo_out_44_17070 1 17070
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 19.
+			Align 48: 619784 636835 de_novo_out_44_17070 19 17070
+				The next alignment (619787 636835 de_novo_out_340_17049 17049 1) is redundant. Skipping.
+				Gap between this and next alignment: 636835 to 637677 (841 bp)
+				Next Alignment: 637677 639374 de_novo_out_89_1698 1 1698
+
+			Align 50: 637677 639374 de_novo_out_89_1698 1 1698
+				The next alignment (637677 639374 de_novo_out_234_1698 1698 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 639374 to 639340 (-34 bp)
+				Next Alignment: 639340 704165 de_novo_out_269_64826 64826 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 64826 to 64791.
+			Align 52: 639375 704165 de_novo_out_269_64826 64791 1
+				The next alignment (639340 704165 de_novo_out_429_64826 1 64826) is redundant. Skipping.
+				Gap between this and next alignment: 704165 to 705062 (896 bp)
+				Next Alignment: 705062 711194 de_novo_out_94_6133 1 6133
+
+			Align 54: 705062 711194 de_novo_out_94_6133 1 6133
+				Negative gap (overlap) between this and next alignment: 711194 to 705062 (-6132 bp)
+				Next Alignment: 705062 711211 de_novo_out_138_6150 6150 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6150 to 17.
+			Align 55: 711195 711211 de_novo_out_138_6150 17 1
+				Negative gap (overlap) between this and next alignment: 711211 to 711175 (-36 bp)
+				Next Alignment: 711175 716124 de_novo_out_293_4950 1 4950
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 38.
+			Align 56: 711212 716124 de_novo_out_293_4950 38 4950
+				The next alignment (711175 716124 de_novo_out_334_4950 4950 1) is redundant. Skipping.
+				Gap between this and next alignment: 716124 to 716171 (46 bp)
+				Next Alignment: 716171 716688 de_novo_out_74_518 518 1
+
+			Align 58: 716171 716688 de_novo_out_74_518 518 1
+				The next alignment (716171 716688 de_novo_out_363_518 1 518) is redundant. Skipping.
+				Gap between this and next alignment: 716688 to 717143 (454 bp)
+				Next Alignment: 717143 739334 de_novo_out_101_22192 1 22192
+
+			Align 60: 717143 739334 de_novo_out_101_22192 1 22192
+				Negative gap (overlap) between this and next alignment: 739334 to 717143 (-22191 bp)
+				Next Alignment: 717143 739362 de_novo_out_287_22220 22220 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 22220 to 28.
+			Align 61: 739335 739362 de_novo_out_287_22220 28 1
+				Gap between this and next alignment: 739362 to 739372 (9 bp)
+				Next Alignment: 739372 766211 de_novo_out_20_26840 1 26840
+
+			Align 62: 739372 766211 de_novo_out_20_26840 1 26840
+				The next alignment (739427 766211 de_novo_out_9_26785 26785 1) is redundant. Skipping.
+				Gap between this and next alignment: 766211 to 766213 (1 bp)
+				Next Alignment: 766213 827448 de_novo_out_238_61236 1 61236
+
+			Align 64: 766213 827448 de_novo_out_238_61236 1 61236
+				Negative gap (overlap) between this and next alignment: 827448 to 766213 (-61235 bp)
+				Next Alignment: 766213 827629 de_novo_out_262_61417 61417 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 61417 to 181.
+			Align 65: 827449 827629 de_novo_out_262_61417 181 1
+				Negative gap (overlap) between this and next alignment: 827629 to 827616 (-13 bp)
+				Next Alignment: 827616 856513 de_novo_out_181_28916 1 28916
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 15.
+			Align 66: 827630 856513 de_novo_out_181_28916 15 28916
+				The next alignment (827746 856513 de_novo_out_39_28786 28786 1) is redundant. Skipping.
+				Gap between this and next alignment: 856513 to 856527 (13 bp)
+				Next Alignment: 856527 873606 de_novo_out_393_17080 1 17080
+
+			Align 68: 856527 873606 de_novo_out_393_17080 1 17080
+				The next alignment (856527 873606 de_novo_out_399_17080 17080 1) is redundant. Skipping.
+				Gap between this and next alignment: 873606 to 875620 (2013 bp)
+				Next Alignment: 875620 890972 de_novo_out_305_15353 1 15353
+
+			Align 70: 875620 890972 de_novo_out_305_15353 1 15353
+				The next alignment (875620 890972 de_novo_out_309_15353 15353 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 890972 to 890919 (-53 bp)
+				Next Alignment: 890919 891606 de_novo_out_212_688 688 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 688 to 634.
+			Align 72: 890973 891606 de_novo_out_212_688 634 1
+				The next alignment (890919 891606 de_novo_out_241_688 1 688) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 891606 to 891553 (-53 bp)
+				Next Alignment: 891553 904094 de_novo_out_211_12542 12542 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 12542 to 12488.
+			Align 74: 891607 904094 de_novo_out_211_12542 12488 1
+				The next alignment (891553 904029 de_novo_out_371_12477 1 12477) is redundant. Skipping.
+				Gap between this and next alignment: 904094 to 904102 (7 bp)
+				Next Alignment: 904102 911635 de_novo_out_213_7534 1 7534
+
+			Align 76: 904102 911635 de_novo_out_213_7534 1 7534
+				The next alignment (904102 911635 de_novo_out_356_7534 7534 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 911635 to 911583 (-52 bp)
+				Next Alignment: 911583 929180 de_novo_out_164_17598 1 17598
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 54.
+			Align 78: 911636 929180 de_novo_out_164_17598 54 17598
+				The next alignment (911583 929180 de_novo_out_397_17598 17598 1) is redundant. Skipping.
+				Gap between this and next alignment: 929180 to 930185 (1004 bp)
+				Next Alignment: 930185 931367 de_novo_out_90_1183 1 1183
+
+			Align 80: 930185 931367 de_novo_out_90_1183 1 1183
+				The next alignment (930185 931367 de_novo_out_307_1183 1183 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 931367 to 931332 (-35 bp)
+				Next Alignment: 931332 940150 de_novo_out_184_8819 1 8819
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 37.
+			Align 82: 931368 940150 de_novo_out_184_8819 37 8819
+				The next alignment (931478 940150 de_novo_out_301_8673 8673 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 940150 to 940116 (-34 bp)
+				Next Alignment: 940116 948063 de_novo_out_149_7948 7948 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 7948 to 7913.
+			Align 84: 940151 948063 de_novo_out_149_7948 7913 1
+				The next alignment (940116 948019 de_novo_out_395_7904 1 7904) is redundant. Skipping.
+				Gap between this and next alignment: 948063 to 948079 (15 bp)
+				Next Alignment: 948079 951599 de_novo_out_49_3521 1 3521
+
+			Align 86: 948079 951599 de_novo_out_49_3521 1 3521
+				The next alignment (948137 951599 de_novo_out_146_3463 3463 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 951599 to 951550 (-49 bp)
+				Next Alignment: 951550 958255 de_novo_out_22_6706 6706 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6706 to 6656.
+			Align 88: 951600 958255 de_novo_out_22_6706 6656 1
+				The next alignment (951550 958255 de_novo_out_409_6706 1 6706) is redundant. Skipping.
+				Gap between this and next alignment: 958255 to 958274 (18 bp)
+				Next Alignment: 958274 988740 de_novo_out_58_30467 1 30467
+
+			Align 90: 958274 988740 de_novo_out_58_30467 1 30467
+				The next alignment (958300 988740 de_novo_out_64_30441 30441 1) is redundant. Skipping.
+				Gap between this and next alignment: 988740 to 989089 (348 bp)
+				Next Alignment: 989089 1003344 de_novo_out_298_14256 14256 1
+
+			Align 92: 989089 1003344 de_novo_out_298_14256 14256 1
+				The next alignment (989089 1003266 de_novo_out_392_14178 1 14178) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1003344 to 1003341 (-3 bp)
+				Next Alignment: 1003341 1006419 de_novo_out_0_3079 1 3079
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 5.
+			Align 94: 1003345 1006419 de_novo_out_0_3079 5 3079
+				Negative gap (overlap) between this and next alignment: 1006419 to 1003478 (-2941 bp)
+				Next Alignment: 1003478 1006429 de_novo_out_2_2952 2952 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2952 to 10.
+			Align 95: 1006420 1006429 de_novo_out_2_2952 10 1
+				Gap between this and next alignment: 1006429 to 1006502 (72 bp)
+				Next Alignment: 1006502 1008348 de_novo_out_231_1847 1 1847
+
+			Align 96: 1006502 1008348 de_novo_out_231_1847 1 1847
+				The next alignment (1006570 1008348 de_novo_out_316_1779 1779 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1008348 to 1008302 (-46 bp)
+				Next Alignment: 1008302 1009501 de_novo_out_323_1200 1200 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1200 to 1153.
+			Align 98: 1008349 1009501 de_novo_out_323_1200 1153 1
+				The next alignment (1008302 1009501 de_novo_out_366_1200 1 1200) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1009501 to 1009448 (-53 bp)
+				Next Alignment: 1009448 1010984 de_novo_out_42_1537 1 1537
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 100: 1009502 1010984 de_novo_out_42_1537 55 1537
+				The next alignment (1009448 1010984 de_novo_out_230_1537 1537 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1010984 to 1010931 (-53 bp)
+				Next Alignment: 1010931 1011782 de_novo_out_79_852 852 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 852 to 798.
+			Align 102: 1010985 1011782 de_novo_out_79_852 798 1
+				The next alignment (1010931 1011782 de_novo_out_345_852 1 852) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1011782 to 1011729 (-53 bp)
+				Next Alignment: 1011729 1015829 de_novo_out_67_4101 1 4101
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 104: 1011783 1015829 de_novo_out_67_4101 55 4101
+				The next alignment (1011729 1015829 de_novo_out_80_4101 4101 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1015829 to 1015824 (-5 bp)
+				Next Alignment: 1015824 1018827 de_novo_out_95_3004 3004 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 3004 to 2998.
+			Align 106: 1015830 1018827 de_novo_out_95_3004 2998 1
+				The next alignment (1015824 1018827 de_novo_out_328_3004 1 3004) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1018827 to 1018774 (-53 bp)
+				Next Alignment: 1018774 1065575 de_novo_out_78_46802 1 46802
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 108: 1018828 1065575 de_novo_out_78_46802 55 46802
+				The next alignment (1018774 1065575 de_novo_out_380_46802 46802 1) is redundant. Skipping.
+				Gap between this and next alignment: 1065575 to 1066505 (929 bp)
+				Next Alignment: 1066505 1083186 de_novo_out_198_16682 16682 1
+
+			Align 110: 1066505 1083186 de_novo_out_198_16682 16682 1
+				The next alignment (1066505 1083105 de_novo_out_410_16601 1 16601) is redundant. Skipping.
+				Gap between this and next alignment: 1083186 to 1083608 (421 bp)
+				Next Alignment: 1083608 1096434 de_novo_out_190_12827 1 12827
+
+			Align 112: 1083608 1096434 de_novo_out_190_12827 1 12827
+				The next alignment (1083648 1096434 de_novo_out_430_12787 12787 1) is redundant. Skipping.
+				Gap between this and next alignment: 1096434 to 1098793 (2358 bp)
+				Next Alignment: 1098793 1110905 de_novo_out_202_12113 12113 1
+
+			Align 114: 1098793 1110905 de_novo_out_202_12113 12113 1
+				The next alignment (1098793 1110812 de_novo_out_379_12020 1 12020) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1110905 to 1110871 (-34 bp)
+				Next Alignment: 1110871 1136408 de_novo_out_258_25538 1 25538
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 36.
+			Align 116: 1110906 1136408 de_novo_out_258_25538 36 25538
+				The next alignment (1110987 1136408 de_novo_out_372_25422 25422 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1136408 to 1136355 (-53 bp)
+				Next Alignment: 1136355 1138437 de_novo_out_82_2083 1 2083
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 118: 1136409 1138437 de_novo_out_82_2083 55 2083
+				The next alignment (1136355 1138437 de_novo_out_142_2083 2083 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1138437 to 1138384 (-53 bp)
+				Next Alignment: 1138384 1167336 de_novo_out_285_28953 28953 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 28953 to 28899.
+			Align 120: 1138438 1167336 de_novo_out_285_28953 28899 1
+				The next alignment (1138384 1167226 de_novo_out_319_28843 1 28843) is redundant. Skipping.
+				Gap between this and next alignment: 1167336 to 1167375 (38 bp)
+				Next Alignment: 1167375 1169200 de_novo_out_5_1826 1 1826
+
+			Align 122: 1167375 1169200 de_novo_out_5_1826 1 1826
+				Negative gap (overlap) between this and next alignment: 1169200 to 1167526 (-1674 bp)
+				Next Alignment: 1167526 1169316 de_novo_out_11_1791 1791 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1791 to 116.
+			Align 123: 1169201 1169316 de_novo_out_11_1791 116 1
+				Gap between this and next alignment: 1169316 to 1169399 (82 bp)
+				Next Alignment: 1169399 1186480 de_novo_out_55_17082 1 17082
+
+			Align 124: 1169399 1186480 de_novo_out_55_17082 1 17082
+				The next alignment (1169399 1186480 de_novo_out_281_17082 17082 1) is redundant. Skipping.
+				Gap between this and next alignment: 1186480 to 1187130 (649 bp)
+				Next Alignment: 1187130 1188288 de_novo_out_187_1159 1 1159
+
+			Align 126: 1187130 1188288 de_novo_out_187_1159 1 1159
+				The next alignment (1187130 1188288 de_novo_out_419_1159 1159 1) is redundant. Skipping.
+				Gap between this and next alignment: 1188288 to 1188932 (643 bp)
+				Next Alignment: 1188932 1189956 de_novo_out_377_1025 1 1025
+
+			Align 128: 1188932 1189956 de_novo_out_377_1025 1 1025
+				The next alignment (1188932 1189956 de_novo_out_378_1025 1025 1) is redundant. Skipping.
+				Gap between this and next alignment: 1189956 to 1190239 (282 bp)
+				Next Alignment: 1190239 1191827 de_novo_out_192_1589 1589 1
+
+			Align 130: 1190239 1191827 de_novo_out_192_1589 1589 1
+				The next alignment (1190239 1191827 de_novo_out_296_1589 1 1589) is redundant. Skipping.
+				Gap between this and next alignment: 1191827 to 1191829 (1 bp)
+				Next Alignment: 1191829 1218922 de_novo_out_382_27094 27094 1
+
+			Align 132: 1191829 1218922 de_novo_out_382_27094 27094 1
+				The next alignment (1191829 1218922 de_novo_out_422_27094 1 27094) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1218922 to 1218881 (-41 bp)
+				Next Alignment: 1218881 1232092 de_novo_out_28_13212 13212 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 13212 to 13170.
+			Align 134: 1218923 1232092 de_novo_out_28_13212 13170 1
+				The next alignment (1218881 1232092 de_novo_out_381_13212 1 13212) is redundant. Skipping.
+				Gap between this and next alignment: 1232092 to 1232159 (66 bp)
+				Next Alignment: 1232159 1249454 de_novo_out_286_17296 1 17296
+
+			Align 136: 1232159 1249454 de_novo_out_286_17296 1 17296
+				The next alignment (1232273 1249454 de_novo_out_27_17182 17182 1) is redundant. Skipping.
+				Gap between this and next alignment: 1249454 to 1250035 (580 bp)
+				Next Alignment: 1250035 1255659 de_novo_out_173_5625 1 5625
+
+			Align 138: 1250035 1255659 de_novo_out_173_5625 1 5625
+				Negative gap (overlap) between this and next alignment: 1255659 to 1250035 (-5624 bp)
+				Next Alignment: 1250035 1255722 de_novo_out_266_5688 5688 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 5688 to 63.
+			Align 139: 1255660 1255722 de_novo_out_266_5688 63 1
+				Negative gap (overlap) between this and next alignment: 1255722 to 1255698 (-24 bp)
+				Next Alignment: 1255698 1321146 de_novo_out_105_83852 1 65441
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 140: 1255723 1321146 de_novo_out_105_83852 26 65441
+				The next alignment (1255712 1321146 de_novo_out_261_83838 83838 18412) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1321146 to 1321139 (-7 bp)
+				Next Alignment: 1321139 1339557 de_novo_out_105_83852 65442 83852
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 65442 to 65450.
+			Align 142: 1321147 1339557 de_novo_out_105_83852 65450 83852
+				The next alignment (1321139 1339557 de_novo_out_261_83838 18411 1) is redundant. Skipping.
+				Gap between this and next alignment: 1339557 to 1339597 (39 bp)
+				Next Alignment: 1339597 1341336 de_novo_out_144_1740 1 1740
+
+			Align 144: 1339597 1341336 de_novo_out_144_1740 1 1740
+				The next alignment (1339597 1341336 de_novo_out_265_1740 1740 1) is redundant. Skipping.
+				Gap between this and next alignment: 1341336 to 1341418 (81 bp)
+				Next Alignment: 1341418 1341941 de_novo_out_81_524 1 524
+
+			Align 146: 1341418 1341941 de_novo_out_81_524 1 524
+				The next alignment (1341441 1341941 de_novo_out_407_501 501 1) is redundant. Skipping.
+				Gap between this and next alignment: 1341941 to 1341981 (39 bp)
+				Next Alignment: 1341981 1383513 de_novo_out_330_41533 41533 1
+
+			Align 148: 1341981 1383513 de_novo_out_330_41533 41533 1
+				The next alignment (1341981 1383513 de_novo_out_357_41533 1 41533) is redundant. Skipping.
+				Gap between this and next alignment: 1383513 to 1390505 (6991 bp)
+				Next Alignment: 1390505 1409529 de_novo_out_83_19025 19025 1
+
+			Align 150: 1390505 1409529 de_novo_out_83_19025 19025 1
+				The next alignment (1390505 1409529 de_novo_out_329_19025 1 19025) is redundant. Skipping.
+				Gap between this and next alignment: 1409529 to 1409614 (84 bp)
+				Next Alignment: 1409614 1415068 de_novo_out_175_5455 5455 1
+
+			Align 152: 1409614 1415068 de_novo_out_175_5455 5455 1
+				The next alignment (1409614 1415068 de_novo_out_421_5455 1 5455) is redundant. Skipping.
+				Gap between this and next alignment: 1415068 to 1417044 (1975 bp)
+				Next Alignment: 1417044 1428398 de_novo_out_54_11355 1 11355
+
+			Align 154: 1417044 1428398 de_novo_out_54_11355 1 11355
+				Negative gap (overlap) between this and next alignment: 1428398 to 1417044 (-11354 bp)
+				Next Alignment: 1417044 1428449 de_novo_out_141_11406 11406 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 11406 to 51.
+			Align 155: 1428399 1428449 de_novo_out_141_11406 51 1
+				Negative gap (overlap) between this and next alignment: 1428449 to 1428441 (-8 bp)
+				Next Alignment: 1428441 1445601 de_novo_out_10_17161 1 17161
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 10.
+			Align 156: 1428450 1445601 de_novo_out_10_17161 10 17161
+				Negative gap (overlap) between this and next alignment: 1445601 to 1428453 (-17148 bp)
+				Next Alignment: 1428453 1445778 de_novo_out_3_17326 17326 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 17326 to 177.
+			Align 157: 1445602 1445778 de_novo_out_3_17326 177 1
+				Negative gap (overlap) between this and next alignment: 1445778 to 1445747 (-31 bp)
+				Next Alignment: 1445747 1449494 de_novo_out_7_3748 1 3748
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 33.
+			Align 158: 1445779 1449494 de_novo_out_7_3748 33 3748
+				The next alignment (1445785 1449494 de_novo_out_12_3710 3710 1) is redundant. Skipping.
+				Gap between this and next alignment: 1449494 to 1449840 (345 bp)
+				Next Alignment: 1449840 1511848 de_novo_out_21_62009 1 62009
+
+			Align 160: 1449840 1511848 de_novo_out_21_62009 1 62009
+				The next alignment (1449926 1511848 de_novo_out_1_61923 61923 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1511848 to 1511817 (-31 bp)
+				Next Alignment: 1511817 1518556 de_novo_out_229_6740 1 6740
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 33.
+			Align 162: 1511849 1518556 de_novo_out_229_6740 33 6740
+				The next alignment (1511817 1518556 de_novo_out_332_6740 6740 1) is redundant. Skipping.
+				Gap between this and next alignment: 1518556 to 1518641 (84 bp)
+				Next Alignment: 1518641 1548298 de_novo_out_43_29658 29658 1
+
+			Align 164: 1518641 1548298 de_novo_out_43_29658 29658 1
+				The next alignment (1518641 1548298 de_novo_out_284_29658 1 29658) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1548298 to 1548252 (-46 bp)
+				Next Alignment: 1548252 1549083 de_novo_out_66_832 832 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 832 to 785.
+			Align 166: 1548299 1549083 de_novo_out_66_832 785 1
+				The next alignment (1548252 1549083 de_novo_out_165_832 1 832) is redundant. Skipping.
+				Gap between this and next alignment: 1549083 to 1550513 (1429 bp)
+				Next Alignment: 1550513 1624880 de_novo_out_53_74396 74396 1
+
+			Align 168: 1550513 1624880 de_novo_out_53_74396 74396 1
+				The next alignment (1550513 1624838 de_novo_out_117_74354 1 74354) is redundant. Skipping.
+
+	Reference NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence: 9 total alignments. 1 total regions.
+		Region: 1 to 12783 (12783 bp)
+			START in gap: 1 to 30 (29 bp)
+			Align 1: 30 1953 de_novo_out_248_1924 1 1924
+				The next alignment (30 1953 de_novo_out_348_1924 1924 1) is redundant. Skipping.
+				Gap between this and next alignment: 1953 to 2001 (47 bp)
+				Next Alignment: 2001 2708 de_novo_out_214_708 708 1
+
+			Align 3: 2001 2708 de_novo_out_214_708 708 1
+				Negative gap (overlap) between this and next alignment: 2708 to 2691 (-17 bp)
+				Next Alignment: 2691 4105 de_novo_out_270_1415 1 1415
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 19.
+			Align 4: 2709 4105 de_novo_out_270_1415 19 1415
+				The next alignment (2785 4105 de_novo_out_308_1321 1321 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 4105 to 4052 (-53 bp)
+				Next Alignment: 4052 5948 de_novo_out_121_1897 1 1897
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 6: 4106 5948 de_novo_out_121_1897 55 1897
+				The next alignment (4052 5927 de_novo_out_426_1876 1876 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 5948 to 5917 (-31 bp)
+				Next Alignment: 5917 10967 de_novo_out_122_5051 5051 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 5051 to 5019.
+			Align 8: 5949 10967 de_novo_out_122_5051 5019 1
+				The next alignment (5917 10967 de_novo_out_433_5051 1 5051) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 16
+Total Bases in Ambiguously Mapped Contigs: 30482
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1606891
+
+	SNPs: 2
+	Insertions: 101
+	Deletions: 33
+
+	Positive Gaps: 47
+		Internal Gaps: 0
+		External Gaps: 47
+		External Gap Total: 28956
+		External Gap Average: 616
+	Negative Gaps: 52
+		Internal Overlaps: 1
+		External Overlaps: 51
+		External Overlaps Total: -214935
+		External Overlaps Average: -4214
+	Contigs with Redundant Alignments: 77 (1391000)

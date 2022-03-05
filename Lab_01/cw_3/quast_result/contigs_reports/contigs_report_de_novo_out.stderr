@@ -1,0 +1,13 @@
+WARNING: Could not find gnuplot, plot will not be rendered
+Writing filtered delta file /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.filter
+Reading delta file /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.delta
+Writing plot files /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.fplot, /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.rplot
+Writing gnuplot script /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.gp
+.51
+# reading input file "/tmp/quast_results/results_2022_03_05_20_55_21/quast_corrected_input/de_novo_out" of length 3213510
+# matching query-file "/tmp/quast_results/results_2022_03_05_20_55_21/quast_corrected_input/de_novo_out"
+# against subject-file "/tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.ntref"
+# COMPLETETIME /quast-4.6.3/quast_libs/MUMmer/mummer /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.ntref 2.73
+# SPACE /quast-4.6.3/quast_libs/MUMmer/mummer /tmp/quast_results/results_2022_03_05_20_55_21/contigs_reports/nucmer_output/de_novo_out.ntref 4.71
+4: FINISHING DATA
+WARNING: there was a problem deleting the temporary output files

@@ -1,0 +1,49 @@
+Assembly	de_novo_out
+# contigs (>= 0 bp)	436
+# contigs (>= 1000 bp)	161
+# contigs (>= 5000 bp)	112
+# contigs (>= 10000 bp)	91
+# contigs (>= 25000 bp)	46
+# contigs (>= 50000 bp)	19
+Total length (>= 0 bp)	3252847
+Total length (>= 1000 bp)	3203536
+Total length (>= 5000 bp)	3096558
+Total length (>= 10000 bp)	2959343
+Total length (>= 25000 bp)	2231776
+Total length (>= 50000 bp)	1327251
+# contigs	176
+Largest contig	99154
+Total length	3213335
+Reference length	1637762
+GC (%)	38.93
+Reference GC (%)	38.90
+N50	38119
+NG50	62833
+N75	19025
+NG75	58341
+L50	26
+LG50	11
+L75	55
+LG75	18
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	98.115
+Duplication ratio	2.000
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.12
+# indels per 100 kbp	0.62
+Largest alignment	99154
+Total aligned length	3213011
+NA50	38119
+NGA50	62833
+NA75	19025
+NGA75	58341
+LA50	26
+LGA50	11
+LA75	55
+LGA75	18

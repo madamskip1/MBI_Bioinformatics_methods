@@ -1,0 +1,357 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1003341	1006419	1	3079	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_0_3079	100.0		True
+CONTIG	de_novo_out_0_3079	3079	correct
+1449926	1511848	61923	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_1_61923	100.0		True
+CONTIG	de_novo_out_1_61923	61923	correct
+1003478	1006429	2952	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_2_2952	100.0		True
+CONTIG	de_novo_out_2_2952	2952	correct
+1428453	1445778	17326	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_3_17326	100.0		True
+CONTIG	de_novo_out_3_17326	17326	correct
+423305	445725	1	22421	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_4_22421	100.0		True
+CONTIG	de_novo_out_4_22421	22421	correct
+1167375	1169200	1	1826	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_5_1826	100.0		True
+CONTIG	de_novo_out_5_1826	1826	correct
+1445747	1449494	1	3748	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_7_3748	100.0		True
+CONTIG	de_novo_out_7_3748	3748	correct
+423469	445760	22292	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_8_22292	100.0		True
+CONTIG	de_novo_out_8_22292	22292	correct
+739427	766211	26785	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_9_26785	100.0		True
+CONTIG	de_novo_out_9_26785	26785	correct
+1428441	1445601	1	17161	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_10_17161	100.0		True
+CONTIG	de_novo_out_10_17161	17161	correct
+1167526	1169316	1791	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_11_1791	100.0		True
+CONTIG	de_novo_out_11_1791	1791	correct
+1445785	1449494	3710	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_12_3710	100.0		True
+CONTIG	de_novo_out_12_3710	3710	correct
+360237	423069	62833	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_16_62833	100.0		True
+CONTIG	de_novo_out_16_62833	62833	correct
+360182	423067	1	62886	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_18_62886	99.99		True
+CONTIG	de_novo_out_18_62886	62886	correct
+739372	766211	1	26840	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_20_26840	99.99		True
+CONTIG	de_novo_out_20_26840	26840	correct
+1449840	1511848	1	62009	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_21_62009	100.0		True
+CONTIG	de_novo_out_21_62009	62009	correct
+951550	958255	6706	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_22_6706	100.0		True
+CONTIG	de_novo_out_22_6706	6706	correct
+1232273	1249454	17182	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_27_17182	100.0		True
+CONTIG	de_novo_out_27_17182	17182	correct
+1218881	1232092	13212	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_28_13212	100.0		True
+CONTIG	de_novo_out_28_13212	13212	correct
+504408	510579	1	6172	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_36_6172	100.0		True
+CONTIG	de_novo_out_36_6172	6172	correct
+470161	472281	2121	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_38_2121	100.0		True
+CONTIG	de_novo_out_38_2121	2121	correct
+827746	856513	28786	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_39_28786	99.94		True
+CONTIG	de_novo_out_39_28786	28786	correct
+1009448	1010984	1	1537	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_42_1537	100.0		True
+CONTIG	de_novo_out_42_1537	1537	correct
+1518641	1548298	29658	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_43_29658	100.0		True
+CONTIG	de_novo_out_43_29658	29658	correct
+619766	636835	1	17070	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_44_17070	100.0		True
+CONTIG	de_novo_out_44_17070	17070	correct
+948079	951599	1	3521	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_49_3521	100.0		True
+CONTIG	de_novo_out_49_3521	3521	correct
+1550513	1624880	74396	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_53_74396	99.96		True
+CONTIG	de_novo_out_53_74396	74396	correct
+1417044	1428398	1	11355	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_54_11355	100.0		True
+CONTIG	de_novo_out_54_11355	11355	correct
+1169399	1186480	1	17082	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_55_17082	100.0		True
+CONTIG	de_novo_out_55_17082	17082	correct
+958274	988740	1	30467	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_58_30467	100.0		True
+CONTIG	de_novo_out_58_30467	30467	correct
+958300	988740	30441	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_64_30441	100.0		True
+CONTIG	de_novo_out_64_30441	30441	correct
+1548252	1549083	832	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_66_832	100.0		True
+CONTIG	de_novo_out_66_832	832	correct
+1011729	1015829	1	4101	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_67_4101	100.0		True
+CONTIG	de_novo_out_67_4101	4101	correct
+716171	716688	518	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_74_518	100.0		True
+CONTIG	de_novo_out_74_518	518	correct
+1018774	1065575	1	46802	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_78_46802	100.0		True
+CONTIG	de_novo_out_78_46802	46802	correct
+1010931	1011782	852	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_79_852	100.0		True
+CONTIG	de_novo_out_79_852	852	correct
+1011729	1015829	4101	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_80_4101	100.0		True
+CONTIG	de_novo_out_80_4101	4101	correct
+1341418	1341941	1	524	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_81_524	100.0		True
+CONTIG	de_novo_out_81_524	524	correct
+1136355	1138437	1	2083	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_82_2083	100.0		True
+CONTIG	de_novo_out_82_2083	2083	correct
+1390505	1409529	19025	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_83_19025	100.0		True
+CONTIG	de_novo_out_83_19025	19025	correct
+637677	639374	1	1698	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_89_1698	100.0		True
+CONTIG	de_novo_out_89_1698	1698	correct
+930185	931367	1	1183	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_90_1183	100.0		True
+CONTIG	de_novo_out_90_1183	1183	correct
+705062	711194	1	6133	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_94_6133	100.0		True
+CONTIG	de_novo_out_94_6133	6133	correct
+1015824	1018827	3004	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_95_3004	100.0		True
+CONTIG	de_novo_out_95_3004	3004	correct
+717143	739334	1	22192	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_101_22192	100.0		True
+CONTIG	de_novo_out_101_22192	22192	correct
+445740	456354	1	10615	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_103_10615	100.0		True
+CONTIG	de_novo_out_103_10615	10615	correct
+456301	457412	1	1112	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_104_1112	100.0		True
+CONTIG	de_novo_out_104_1112	1112	correct
+1255698	1321146	1	65441	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_105_83852	99.99		True
+indel: indel (> 5bp)
+1321139	1339557	65442	83852	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_105_83852	99.98		True
+CONTIG	de_novo_out_105_83852	83852	correct
+1550513	1624838	1	74354	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_117_74354	99.96		True
+CONTIG	de_novo_out_117_74354	74354	correct
+4052	5948	1	1897	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_121_1897	100.0		True
+CONTIG	de_novo_out_121_1897	1897	correct
+5917	10967	5051	1	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_122_5051	100.0		True
+CONTIG	de_novo_out_122_5051	5051	correct
+705062	711211	6150	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_138_6150	100.0		True
+CONTIG	de_novo_out_138_6150	6150	correct
+163449	201005	1	37557	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_139_37557	100.0		True
+CONTIG	de_novo_out_139_37557	37557	correct
+1417044	1428449	11406	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_141_11406	100.0		True
+CONTIG	de_novo_out_141_11406	11406	correct
+1136355	1138437	2083	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_142_2083	100.0		True
+CONTIG	de_novo_out_142_2083	2083	correct
+54474	123106	1	68633	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_143_68633	100.0		True
+CONTIG	de_novo_out_143_68633	68633	correct
+1339597	1341336	1	1740	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_144_1740	100.0		True
+CONTIG	de_novo_out_144_1740	1740	correct
+948137	951599	3463	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_146_3463	100.0		True
+CONTIG	de_novo_out_146_3463	3463	correct
+940116	948063	7948	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_149_7948	100.0		True
+CONTIG	de_novo_out_149_7948	7948	correct
+102003	123106	21104	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_153_21104	100.0		True
+CONTIG	de_novo_out_153_21104	21104	correct
+260996	360149	99154	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_161_99154	100.0		True
+CONTIG	de_novo_out_161_99154	99154	correct
+911583	929180	1	17598	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_164_17598	100.0		True
+CONTIG	de_novo_out_164_17598	17598	correct
+1548252	1549083	1	832	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_165_832	100.0		True
+CONTIG	de_novo_out_165_832	832	correct
+1250035	1255659	1	5625	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_173_5625	100.0		True
+CONTIG	de_novo_out_173_5625	5625	correct
+470161	472281	1	2121	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_174_2121	100.0		True
+CONTIG	de_novo_out_174_2121	2121	correct
+1409614	1415068	5455	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_175_5455	100.0		True
+CONTIG	de_novo_out_175_5455	5455	correct
+827616	856513	1	28916	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_181_28916	99.94		True
+CONTIG	de_novo_out_181_28916	28916	correct
+931332	940150	1	8819	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_184_8819	100.0		True
+CONTIG	de_novo_out_184_8819	8819	correct
+1187130	1188288	1	1159	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_187_1159	100.0		True
+CONTIG	de_novo_out_187_1159	1159	correct
+1083608	1096434	1	12827	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_190_12827	100.0		True
+CONTIG	de_novo_out_190_12827	12827	correct
+1190239	1191827	1589	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_192_1589	100.0		True
+CONTIG	de_novo_out_192_1589	1589	correct
+1066505	1083186	16682	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_198_16682	100.0		True
+CONTIG	de_novo_out_198_16682	16682	correct
+512795	548016	35255	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_201_35417	99.91		True
+CONTIG	de_novo_out_201_35417	35417	correct
+1098793	1110905	12113	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_202_12113	100.0		True
+CONTIG	de_novo_out_202_12113	12113	correct
+54474	102037	47564	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_206_47564	100.0		True
+CONTIG	de_novo_out_206_47564	47564	correct
+123053	123647	1	595	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_208_595	100.0		True
+CONTIG	de_novo_out_208_595	595	correct
+891553	904094	12542	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_211_12542	100.0		True
+CONTIG	de_novo_out_211_12542	12542	correct
+890919	891606	688	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_212_688	100.0		True
+CONTIG	de_novo_out_212_688	688	correct
+904102	911635	1	7534	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_213_7534	100.0		True
+CONTIG	de_novo_out_213_7534	7534	correct
+2001	2708	708	1	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_214_708	100.0		True
+CONTIG	de_novo_out_214_708	708	correct
+610781	615725	4945	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_223_4945	100.0		True
+CONTIG	de_novo_out_223_4945	4945	correct
+200956	259296	58341	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_226_58341	100.0		True
+CONTIG	de_novo_out_226_58341	58341	correct
+472228	490309	18082	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_228_18082	100.0		True
+CONTIG	de_novo_out_228_18082	18082	correct
+1511817	1518556	1	6740	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_229_6740	100.0		True
+CONTIG	de_novo_out_229_6740	6740	correct
+1009448	1010984	1537	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_230_1537	100.0		True
+CONTIG	de_novo_out_230_1537	1537	correct
+1006502	1008348	1	1847	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_231_1847	100.0		True
+CONTIG	de_novo_out_231_1847	1847	correct
+637677	639374	1698	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_234_1698	100.0		True
+CONTIG	de_novo_out_234_1698	1698	correct
+616228	616775	1	548	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_237_548	100.0		True
+CONTIG	de_novo_out_237_548	548	correct
+766213	827448	1	61236	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_238_61236	100.0		True
+CONTIG	de_novo_out_238_61236	61236	correct
+445761	456354	10594	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_239_10594	100.0		True
+CONTIG	de_novo_out_239_10594	10594	correct
+890919	891606	1	688	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_241_688	100.0		True
+CONTIG	de_novo_out_241_688	688	correct
+456301	457412	1112	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_242_1112	100.0		True
+CONTIG	de_novo_out_242_1112	1112	correct
+472228	490309	1	18082	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_243_18082	100.0		True
+CONTIG	de_novo_out_243_18082	18082	correct
+490323	504391	14069	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_245_14069	100.0		True
+CONTIG	de_novo_out_245_14069	14069	correct
+30	1953	1	1924	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_248_1924	100.0		True
+CONTIG	de_novo_out_248_1924	1924	correct
+36	22696	1	22661	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_252_22661	100.0		True
+CONTIG	de_novo_out_252_22661	22661	correct
+1110871	1136408	1	25538	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_258_25538	100.0		True
+CONTIG	de_novo_out_258_25538	25538	correct
+1321139	1339557	18411	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_261_83838	99.98		True
+indel: indel (> 5bp)
+1255712	1321146	83838	18412	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_261_83838	99.99		True
+CONTIG	de_novo_out_261_83838	83838	correct
+766213	827629	61417	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_262_61417	100.0		True
+CONTIG	de_novo_out_262_61417	61417	correct
+1339597	1341336	1740	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_265_1740	100.0		True
+CONTIG	de_novo_out_265_1740	1740	correct
+1250035	1255722	5688	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_266_5688	100.0		True
+CONTIG	de_novo_out_266_5688	5688	correct
+200956	259296	1	58341	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_267_58341	100.0		True
+CONTIG	de_novo_out_267_58341	58341	correct
+639340	704165	64826	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_269_64826	100.0		True
+CONTIG	de_novo_out_269_64826	64826	correct
+2691	4105	1	1415	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_270_1415	100.0		True
+CONTIG	de_novo_out_270_1415	1415	correct
+36	22696	22661	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_274_22661	100.0		True
+CONTIG	de_novo_out_274_22661	22661	correct
+512795	548016	163	35417	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_277_35417	99.91		True
+CONTIG	de_novo_out_277_35417	35417	correct
+1169399	1186480	17082	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_281_17082	100.0		True
+CONTIG	de_novo_out_281_17082	17082	correct
+22668	54472	31805	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_282_31805	100.0		True
+CONTIG	de_novo_out_282_31805	31805	correct
+1518641	1548298	1	29658	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_284_29658	100.0		True
+CONTIG	de_novo_out_284_29658	29658	correct
+1138384	1167336	28953	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_285_28953	100.0		True
+CONTIG	de_novo_out_285_28953	28953	correct
+1232159	1249454	1	17296	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_286_17296	100.0		True
+CONTIG	de_novo_out_286_17296	17296	correct
+717143	739362	22220	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_287_22220	100.0		True
+CONTIG	de_novo_out_287_22220	22220	correct
+610712	615725	1	5014	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_290_5014	100.0		True
+CONTIG	de_novo_out_290_5014	5014	correct
+617590	619783	2194	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_291_2194	100.0		True
+CONTIG	de_novo_out_291_2194	2194	correct
+711175	716124	1	4950	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_293_4950	100.0		True
+CONTIG	de_novo_out_293_4950	4950	correct
+1190239	1191827	1	1589	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_296_1589	100.0		True
+CONTIG	de_novo_out_296_1589	1589	correct
+989089	1003344	14256	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_298_14256	100.0		True
+CONTIG	de_novo_out_298_14256	14256	correct
+931478	940150	8673	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_301_8673	100.0		True
+CONTIG	de_novo_out_301_8673	8673	correct
+875620	890972	1	15353	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_305_15353	100.0		True
+CONTIG	de_novo_out_305_15353	15353	correct
+547996	610731	62736	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_306_62736	100.0		True
+CONTIG	de_novo_out_306_62736	62736	correct
+930185	931367	1183	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_307_1183	100.0		True
+CONTIG	de_novo_out_307_1183	1183	correct
+2785	4105	1321	1	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_308_1321	100.0		True
+CONTIG	de_novo_out_308_1321	1321	correct
+875620	890972	15353	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_309_15353	100.0		True
+CONTIG	de_novo_out_309_15353	15353	correct
+490323	504156	1	13834	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_314_13834	100.0		True
+CONTIG	de_novo_out_314_13834	13834	correct
+1006570	1008348	1779	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_316_1779	100.0		True
+CONTIG	de_novo_out_316_1779	1779	correct
+1138384	1167226	1	28843	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_319_28843	100.0		True
+CONTIG	de_novo_out_319_28843	28843	correct
+260996	360108	1	99113	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_322_99113	100.0		True
+CONTIG	de_novo_out_322_99113	99113	correct
+1008302	1009501	1200	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_323_1200	100.0		True
+CONTIG	de_novo_out_323_1200	1200	correct
+1015824	1018827	1	3004	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_328_3004	100.0		True
+CONTIG	de_novo_out_328_3004	3004	correct
+1390505	1409529	1	19025	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_329_19025	100.0		True
+CONTIG	de_novo_out_329_19025	19025	correct
+1341981	1383513	41533	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_330_41533	100.0		True
+CONTIG	de_novo_out_330_41533	41533	correct
+1511817	1518556	6740	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_332_6740	100.0		True
+CONTIG	de_novo_out_332_6740	6740	correct
+711175	716124	4950	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_334_4950	100.0		True
+CONTIG	de_novo_out_334_4950	4950	correct
+457359	470214	1	12856	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_335_12856	100.0		True
+CONTIG	de_novo_out_335_12856	12856	correct
+619787	636835	17049	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_340_17049	100.0		True
+CONTIG	de_novo_out_340_17049	17049	correct
+1010931	1011782	1	852	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_345_852	100.0		True
+CONTIG	de_novo_out_345_852	852	correct
+30	1953	1924	1	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_348_1924	100.0		True
+CONTIG	de_novo_out_348_1924	1924	correct
+904102	911635	7534	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_356_7534	100.0		True
+CONTIG	de_novo_out_356_7534	7534	correct
+1341981	1383513	1	41533	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_357_41533	100.0		True
+CONTIG	de_novo_out_357_41533	41533	correct
+163449	201005	37557	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_358_37557	100.0		True
+CONTIG	de_novo_out_358_37557	37557	correct
+716171	716688	1	518	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_363_518	100.0		True
+CONTIG	de_novo_out_363_518	518	correct
+125383	163501	38119	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_365_38119	100.0		True
+CONTIG	de_novo_out_365_38119	38119	correct
+1008302	1009501	1	1200	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_366_1200	100.0		True
+CONTIG	de_novo_out_366_1200	1200	correct
+891553	904029	1	12477	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_371_12477	100.0		True
+CONTIG	de_novo_out_371_12477	12477	correct
+1110987	1136408	25422	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_372_25422	100.0		True
+CONTIG	de_novo_out_372_25422	25422	correct
+123053	123647	595	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_374_595	100.0		True
+CONTIG	de_novo_out_374_595	595	correct
+1188932	1189956	1	1025	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_377_1025	100.0		True
+CONTIG	de_novo_out_377_1025	1025	correct
+1188932	1189956	1025	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_378_1025	100.0		True
+CONTIG	de_novo_out_378_1025	1025	correct
+1098793	1110812	1	12020	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_379_12020	100.0		True
+CONTIG	de_novo_out_379_12020	12020	correct
+1018774	1065575	46802	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_380_46802	100.0		True
+CONTIG	de_novo_out_380_46802	46802	correct
+1218881	1232092	1	13212	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_381_13212	100.0		True
+CONTIG	de_novo_out_381_13212	13212	correct
+1191829	1218922	27094	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_382_27094	100.0		True
+CONTIG	de_novo_out_382_27094	27094	correct
+125383	163501	1	38119	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_385_38119	100.0		True
+CONTIG	de_novo_out_385_38119	38119	correct
+259263	260566	1304	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_390_1304	100.0		True
+CONTIG	de_novo_out_390_1304	1304	correct
+616228	616775	548	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_391_548	100.0		True
+CONTIG	de_novo_out_391_548	548	correct
+989089	1003266	1	14178	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_392_14178	100.0		True
+CONTIG	de_novo_out_392_14178	14178	correct
+856527	873606	1	17080	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_393_17080	100.0		True
+CONTIG	de_novo_out_393_17080	17080	correct
+940116	948019	1	7904	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_395_7904	100.0		True
+CONTIG	de_novo_out_395_7904	7904	correct
+617590	619743	1	2154	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_396_2154	100.0		True
+CONTIG	de_novo_out_396_2154	2154	correct
+911583	929180	17598	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_397_17598	100.0		True
+CONTIG	de_novo_out_397_17598	17598	correct
+856527	873606	17080	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_399_17080	100.0		True
+CONTIG	de_novo_out_399_17080	17080	correct
+259263	260566	1	1304	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_400_1304	100.0		True
+CONTIG	de_novo_out_400_1304	1304	correct
+1341441	1341941	501	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_407_501	100.0		True
+CONTIG	de_novo_out_407_501	501	correct
+951550	958255	1	6706	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_409_6706	100.0		True
+CONTIG	de_novo_out_409_6706	6706	correct
+1066505	1083105	1	16601	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_410_16601	100.0		True
+CONTIG	de_novo_out_410_16601	16601	correct
+547996	610532	1	62537	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_412_62537	100.0		True
+CONTIG	de_novo_out_412_62537	62537	correct
+22668	54472	1	31805	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_413_31805	100.0		True
+CONTIG	de_novo_out_413_31805	31805	correct
+504463	510579	6117	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_414_6117	100.0		True
+CONTIG	de_novo_out_414_6117	6117	correct
+1187130	1188288	1159	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_419_1159	100.0		True
+CONTIG	de_novo_out_419_1159	1159	correct
+1409614	1415068	1	5455	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_421_5455	100.0		True
+CONTIG	de_novo_out_421_5455	5455	correct
+1191829	1218922	1	27094	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_422_27094	100.0		True
+CONTIG	de_novo_out_422_27094	27094	correct
+4052	5927	1876	1	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_426_1876	100.0		True
+CONTIG	de_novo_out_426_1876	1876	correct
+639340	704165	1	64826	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_429_64826	100.0		True
+CONTIG	de_novo_out_429_64826	64826	correct
+1083648	1096434	12787	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_430_12787	100.0		True
+CONTIG	de_novo_out_430_12787	12787	correct
+457359	470214	12856	1	NC_017378.1_Helicobacter_pylori_Puno120__complete_sequence	de_novo_out_431_12856	100.0		True
+CONTIG	de_novo_out_431_12856	12856	correct
+5917	10967	1	5051	NC_017377.1_Helicobacter_pylori_Puno120_plasmid_pHPPN120__complete_sequence	de_novo_out_433_5051	100.0		True
+CONTIG	de_novo_out_433_5051	5051	correct
