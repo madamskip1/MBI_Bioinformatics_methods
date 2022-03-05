@@ -1,0 +1,123 @@
+[pIRS] Program:        pirs (Profile-based Illumina pair-end Reads Simulator)
+[pIRS] Version:        2.0.0
+[pIRS] Author:         Jianying Yuan (BGI-Shenzhen)
+[pIRS] Contact:        yuanjianying@genomics.org.cn
+[pIRS] Compile Date:   Feb 14 2018 time: 15:16:43
+[pIRS] Current time:   Sat Mar  5 19:45:52 2022
+[pIRS] Command line:   pirs simulate /tmp/genom.fna.gz --coverage=50 --insert-len-mean=400 --insert-len-sd=20 --read-len=100 --error-rate=0.01
+[pIRS]
+[pIRS] Loading base-calling profile /usr/local/share/pirs/Base-Calling_Profiles/humNew.PE100.matrix.gz
+[pIRS] Loaded base-calling profile header:
+[pIRS]    num_ref_bases      = 4
+[pIRS]    num_cycles         = 200
+[pIRS]    num_seq_bases      = 4
+[pIRS]    num_quality_scores = 41
+[pIRS] Loading DistMatrix of base-calling profile
+[pIRS] Loading QTransMatrix of base-calling profile
+[pIRS] Done loading Base-Calling profile.
+[pIRS] Loading InDel error profile /usr/local/share/pirs/InDel_Profiles/phixv2.InDel.matrix
+[pIRS] Indel error profile statistics:
+[pIRS]     max_indel_len = 3
+[pIRS]     num_cycles    = 200
+[pIRS]     read_1_count  = 147091454
+[pIRS]     read_2_count  = 145785569
+[pIRS]     Insertion-bp rate of 100-bp read 1 = 0.000478%
+[pIRS]     Deletion-bp rate of 100-bp read 1  = 0.001118%
+[pIRS]     Insertion-bp rate of 100-bp read 2 = 0.000837%
+[pIRS]     Deletion-bp rate of 100-bp read 2  = 0.001551%
+[pIRS] Done loading InDel error profile.
+[pIRS] Loading GC bias profile /usr/local/share/pirs/GC-depth_Profiles/humNew.gcdep_200.dat
+[pIRS] GC bias profile (GC content, relative abundance), showing every 10%
+[pIRS]     0%   0.00422544
+[pIRS]     10%  0.0909624
+[pIRS]     20%  0.782551
+[pIRS]     30%  0.966385
+[pIRS]     40%  0.950876
+[pIRS]     50%  0.783616
+[pIRS]     60%  0.554585
+[pIRS]     70%  0.260476
+[pIRS]     80%  0.0578053
+[pIRS]     90%  0.00422544
+[pIRS]     100% 0.00422544
+[pIRS] Done loading GC bias profile.
+[pIRS]
+[pIRS] Beginning simulation with the following parameters:
+[pIRS]
+[pIRS] Read length:                      100
+[pIRS] Insert length mean:               400
+[pIRS] Insert length standard deviation: 20
+[pIRS] Coverage:                         50
+[pIRS] Diploid:                          no
+[pIRS] Cyclized (jumping library):       no
+[pIRS] Simulate substitution errors:     yes
+[pIRS] Substitution error rate:          0.01
+[pIRS] Base-calling profile:             /usr/local/share/pirs/Base-Calling_Profiles/humNew.PE100.matrix.gz
+[pIRS] Substitution error algorithm:     quality transition mode algorithm
+[pIRS] Simulate InDel errors:            yes
+[pIRS] InDel error profile:              /usr/local/share/pirs/InDel_Profiles/phixv2.InDel.matrix
+[pIRS] Simulate GC content bias:         yes
+[pIRS] GC bias profile:                  /usr/local/share/pirs/GC-depth_Profiles/humNew.gcdep_200.dat
+[pIRS] Output type:                      text
+[pIRS] Output directory:                 .
+[pIRS] Indiv name:
+[pIRS] Simulate quality values:          yes
+[pIRS] ASCII shift of quality value      33
+[pIRS] Mode of mask quality:             None
+[pIRS] Random seed:                      1646509552
+[pIRS] Number of simulator threads:      6
+[pIRS]
+[pIRS] Reading scaffold "NC_017378.1 Helicobacter pylori Puno120, complete sequence" into memory
+[pIRS] Simulating reads from scaffold "NC_017378.1 Helicobacter pylori Puno120, complete sequence" (length = 1624979)
+[pIRS] Simulated 25000 of 406244 read pairs
+[pIRS] Simulated 50000 of 406244 read pairs
+[pIRS] Simulated 75000 of 406244 read pairs
+[pIRS] Simulated 100000 of 406244 read pairs
+[pIRS] Simulated 125000 of 406244 read pairs
+[pIRS] Simulated 150000 of 406244 read pairs
+[pIRS] Simulated 175000 of 406244 read pairs
+[pIRS] Simulated 200000 of 406244 read pairs
+[pIRS] Simulated 225000 of 406244 read pairs
+[pIRS] Simulated 250000 of 406244 read pairs
+[pIRS] Simulated 275000 of 406244 read pairs
+[pIRS] Simulated 300000 of 406244 read pairs
+[pIRS] Simulated 325000 of 406244 read pairs
+[pIRS] Simulated 350000 of 406244 read pairs
+[pIRS] Simulated 375000 of 406244 read pairs
+[pIRS] Simulated 400000 of 406244 read pairs
+[pIRS] Simulated 406244 of 406244 read pairs
+[pIRS] Done simulating reads from scaffold "NC_017378.1 Helicobacter pylori Puno120, complete sequence" (length = 1624979)
+[pIRS] Reading scaffold "NC_017377.1 Helicobacter pylori Puno120 plasmid pHPPN120, complete sequence" into memory
+[pIRS] Simulating reads from scaffold "NC_017377.1 Helicobacter pylori Puno120 plasmid pHPPN120, complete sequence" (length = 12783)
+[pIRS] Simulated 3195 of 3195 read pairs
+[pIRS] Done simulating reads from scaffold "NC_017377.1 Helicobacter pylori Puno120 plasmid pHPPN120, complete sequence" (length = 12783)
+[pIRS]
+[pIRS] Simulation complete (5 seconds elapsed)
+[pIRS]
+[pIRS] Bases in reference sequences:    1637762
+[pIRS] Read pairs simulated:            409439
+[pIRS] Bases in reads:                  81887800
+[pIRS] Coverage:                        50.00
+[pIRS] Substitution error count:        1077091
+[pIRS] Average substitution error rate: 1.315%
+[pIRS] Insertion count:                 337
+[pIRS] Deletion count:                  876
+[pIRS] Average insertion rate:          0.00041%
+[pIRS] Average deletion rate:           0.00107%
+[pIRS] Average insertion length:        1.06
+[pIRS] Average deletion length:         1.04
+[pIRS] Fragments affected by GC bias:   12.74%
+[pIRS] Bases masked by EAMSS algorithm: 0
+[pIRS]
+[pIRS] The simulated reads are in the files:
+[pIRS]     ./Sim_100_400_1.fq
+[pIRS]     ./Sim_100_400_2.fq
+[pIRS]
+[pIRS] Information about each simulated read has been logged to the file:
+[pIRS]     ./Sim_100_400.read.info
+[pIRS]
+[pIRS] The insert length distribution has been logged to the file:
+[pIRS]     ./Sim_100_400.insert_len.distr
+[pIRS]
+[pIRS] The error position distribution has been logged to the file:
+[pIRS]     ./Sim_100_400.error_rate.distr
+
