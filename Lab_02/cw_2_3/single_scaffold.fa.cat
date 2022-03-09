@@ -1,0 +1,245 @@
+17 14.04 2.44 2.44 HDID_scaffold0000062 9138 9178 (154831) (TTATTAG)n#Simple_repeat 1 41 (0) m_b1s252i0
+
+  HDID_scaffold       9138 TTTTTAGGTTATTATTTAATAATTATTAGTTATTTGTT-TTA 9178
+                             v   -       v   v  i            v   -   
+  (TTATTAG)n#Si          1 TTATTA-GTTATTAGTTATTAGTTATTAGTTATTAGTTATTA 41
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.05 (2 / 40), avg. gap size = 1.00 (2 / 2)
+
+13 4.34 3.85 3.85 HDID_scaffold0000062 15465 15490 (148519) (AAAAT)n#Simple_repeat 1 26 (0) m_b1s252i1
+
+  HDID_scaffold      15465 AAAACAAAAT-AAATAAAATAAATATA 15490
+                               i     -            -   
+  (AAAAT)n#Simp          1 AAAATAAAATAAAATAAAATAAA-ATA 26
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.08 (2 / 25), avg. gap size = 1.00 (2 / 2)
+
+14 25.99 3.64 0.00 HDID_scaffold0000062 17018 17072 (146937) (AATTATA)n#Simple_repeat 1 57 (0) m_b1s252i2
+
+  HDID_scaffold      17018 AATT-TAATTTATAAATTATTCATGTTAAACAATGAATATTTAATTA-AA 17065
+                               -   v           vv  vv    iv  i   vv v     -  
+  (AATTATA)n#Si          1 AATTATAAATTATAAATTATAAATTATAAATTATAAATTATAAATTATAA 50
+
+  HDID_scaffold      17066 AATATAA 17072
+                            v     
+  (AATTATA)n#Si         51 ATTATAA 57
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (2/10)
+Gap_init rate = 0.04 (2 / 54), avg. gap size = 1.00 (2 / 2)
+
+12 31.05 3.39 0.00 HDID_scaffold0000062 19874 19932 (144077) (TAA)n#Simple_repeat 1 61 (0) m_b1s252i3
+
+  HDID_scaffold      19874 TAA-AATCAT-ATATTATTTGTATTACTAGGAGTAATAGTAACAATTCTA 19921
+                              -   v  -   v  v vi  v  v  iv i     i   i   vv  
+  (TAA)n#Simple          1 TAATAATAATAATAATAATAATAATAATAATAATAATAATAATAATAATA 50
+
+  HDID_scaffold      19922 CTAATAATAAT 19932
+                           v          
+  (TAA)n#Simple         51 ATAATAATAAT 61
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (5/10)
+Gap_init rate = 0.03 (2 / 58), avg. gap size = 1.00 (2 / 2)
+
+14 15.62 6.67 2.13 HDID_scaffold0000062 52858 52902 (111107) (TTAA)n#Simple_repeat 1 47 (0) m_b1s252i4
+
+  HDID_scaffold      52858 TTAATTAATTAATTAA-T-ATTATCTTCTTTAAAT-ATTAAATTATTA 52902
+                                           - -    -v  vv    v -     v v    
+  (TTAA)n#Simpl          1 TTAATTAATTAATTAATTAATTA-ATTAATTAATTAATTAATTAATTA 47
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/6)
+Gap_init rate = 0.09 (4 / 44), avg. gap size = 1.00 (4 / 4)
+
+31 0.00 0.00 0.00 HDID_scaffold0000062 60085 60111 (103898) (TA)n#Simple_repeat 1 27 (0) c_b2s251i0
+
+  HDID_scaffold      60085 TATATATATATATATATATATATATAT 60111
+                                                      
+  (TA)n#Simple_          1 TATATATATATATATATATATATATAT 27
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 26), avg. gap size = 0.0 (0 / 0)
+
+11 16.38 5.88 0.00 HDID_scaffold0000062 60357 60390 (103619) (TAAAGA)n#Simple_repeat 1 36 (0) m_b2s252i0
+
+  HDID_scaffold      60357 TAAA-ATAGAGAGGAA-CTCAAGATAAAGATAAAGA 60390
+                               -   i   vi  -v v                
+  (TAAAGA)n#Sim          1 TAAAGATAAAGATAAAGATAAAGATAAAGATAAAGA 36
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.06 (2 / 33), avg. gap size = 1.00 (2 / 2)
+
+12 16.26 0.00 8.11 HDID_scaffold0000062 81428 81467 (82542) (TTTTAT)n#Simple_repeat 1 37 (0) m_b2s252i1
+
+  HDID_scaffold      81428 TTCTATTATTTCATTTGTATTTTGAATTTTTCTATTTATT 81467
+                             i    -   -    v      -v      v v      
+  (TTTTAT)n#Sim          1 TTTTATT-TTT-ATTTTTATTTT-TATTTTTATTTTTATT 37
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.08 (3 / 39), avg. gap size = 1.00 (3 / 3)
+
+12 8.32 3.57 3.57 HDID_scaffold0000062 84344 84371 (79638) (TTTGA)n#Simple_repeat 1 28 (0) m_b2s252i2
+
+  HDID_scaffold      84344 TTTG-TCTAATTTGATTTGCATTTGATTT 84371
+                               - i i          -         
+  (TTTGA)n#Simp          1 TTTGATTTGATTTGATTTG-ATTTGATTT 28
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/0)
+Gap_init rate = 0.07 (2 / 27), avg. gap size = 1.00 (2 / 2)
+
+14 22.63 4.26 0.00 HDID_scaffold0000062 86137 86183 (77826) (AGATAAC)n#Simple_repeat 1 49 (0) m_b2s252i3
+
+  HDID_scaffold      86137 AGATAACAACTAATGGGTCACAGCTAACAAATAAC-GATAGCA-ATAAC 86183
+                                   iv   ii i v    v     i     -    i  -     
+  (AGATAAC)n#Si          1 AGATAACAGATAACAGATAACAGATAACAGATAACAGATAACAGATAAC 49
+
+Matrix = Unknown
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.04 (2 / 46), avg. gap size = 1.00 (2 / 2)
+
+12 17.46 4.88 2.38 HDID_scaffold0000062 91919 91959 (72050) (AAATAAAT)n#Simple_repeat 1 42 (0) m_b2s252i4
+
+  HDID_scaffold      91919 AAATAAA-ACAAAAAT-AAGAAAAAAATCATTAAAATAAATAA 91959
+                                  - v v    -  v   v    v v -          
+  (AAATAAAT)n#S          1 AAATAAATAAATAAATAAATAAATAAATAAAT-AAATAAATAA 42
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/6)
+Gap_init rate = 0.07 (3 / 40), avg. gap size = 1.00 (3 / 3)
+
+17 16.64 4.08 2.00 HDID_scaffold0000062 93451 93499 (70510) (ATTTTAA)n#Simple_repeat 1 50 (0) m_b2s252i5
+
+  HDID_scaffold      93451 ATTTATGAA-TTTATATTTTAAATTTTATATTTTAAA-ATAACATTTAAA 93498
+                               - i  -    v             v        -v v v    v  
+  (ATTTTAA)n#Si          1 ATTT-TAAATTTTAAATTTTAAATTTTAAATTTTAAATTTTAAATTTTAA 49
+
+  HDID_scaffold      93499 A 93499
+                            
+  (ATTTTAA)n#Si         50 A 50
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.06 (3 / 48), avg. gap size = 1.00 (3 / 3)
+
+11 20.67 5.13 0.00 HDID_scaffold0000062 111852 111890 (52119) (TTTTAAA)n#Simple_repeat 1 41 (0) m_b3s252i0
+
+  HDID_scaffold     111852 TTTGAAATATCAATTTTTAAAATTTTAA--TTAAATGTTAA 111890
+                              v    v i  v       v   v  --      v    
+  (TTTTAAA)n#Si          1 TTTTAAATTTTAAATTTTAAATTTTAAATTTTAAATTTTAA 41
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.03 (1 / 38), avg. gap size = 2.00 (2 / 1)
+
+15 3.85 11.11 0.00 HDID_scaffold0000062 114500 114526 (49483) (AG)n#Simple_repeat 1 30 (0) m_b3s252i1
+
+  HDID_scaffold     114500 AGAG-GGGAG-GAGAG-GAGAGAGAGAGAG 114526
+                               - i   -     -             
+  (AG)n#Simple_          1 AGAGAGAGAGAGAGAGAGAGAGAGAGAGAG 30
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.12 (3 / 26), avg. gap size = 1.00 (3 / 3)
+
+18 6.33 6.06 0.00 HDID_scaffold0000062 114500 114532 (49477) (AGAGG)n#Simple_repeat 1 35 (0) m_b3s252i2
+
+  HDID_scaffold     114500 AGAGGGGAGGAGAGGAGA-GAGA-GAGAGGATAGG 114532
+                                i            -    -       v   
+  (AGAGG)n#Simp          1 AGAGGAGAGGAGAGGAGAGGAGAGGAGAGGAGAGG 35
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.06 (2 / 32), avg. gap size = 1.00 (2 / 2)
+
+12 5.56 0.00 0.00 HDID_scaffold0000062 117280 117298 (46711) (GGA)n#Simple_repeat 1 19 (0) m_b3s252i3
+
+  HDID_scaffold     117280 GGAGGAGGAGGAGGAGAAG 117298
+                                           i  
+  (GGA)n#Simple          1 GGAGGAGGAGGAGGAGGAG 19
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.00 (0 / 18), avg. gap size = 0.0 (0 / 0)
+
+14 0.00 4.76 0.00 HDID_scaffold0000062 125872 125892 (38117) (TAAA)n#Simple_repeat 1 22 (0) m_b3s252i4
+
+  HDID_scaffold     125872 TAAA-AAATAAATAAATAAATA 125892
+                               -                 
+  (TAAA)n#Simpl          1 TAAATAAATAAATAAATAAATA 22
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.05 (1 / 20), avg. gap size = 1.00 (1 / 1)
+
+20 13.67 6.25 0.00 HDID_scaffold0000062 136220 136267 (27742) (TAATTT)n#Simple_repeat 1 51 (0) m_b3s252i5
+
+  HDID_scaffold     136220 TAATTAAAAATTTTATTTTAA-TTTAATTTT-GTTTT-GTTTTAATTTTA 136266
+                                vv  v   v       -         -i    -i           
+  (TAATTT)n#Sim          1 TAATTTTAATTTTAATTTTAATTTTAATTTTAATTTTAATTTTAATTTTA 50
+
+  HDID_scaffold     136267 A 136267
+                            
+  (TAATTT)n#Sim         51 A 51
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.06 (3 / 47), avg. gap size = 1.00 (3 / 3)
+
+13 17.47 0.00 3.03 HDID_scaffold0000062 136231 136264 (27745) (TTTAA)n#Simple_repeat 1 33 (0) m_b3s252i6
+
+  HDID_scaffold     136231 TTTATTTTAATTTAATTTTGTTTTGTTTTAATTT 136264
+                               v          -   iv   iv        
+  (TTTAA)n#Simp          1 TTTAATTTAATTTAA-TTTAATTTAATTTAATTT 33
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.03 (1 / 33), avg. gap size = 1.00 (1 / 1)
+
+16 17.64 0.00 3.03 HDID_scaffold0000062 141236 141269 (22740) (AT)n#Simple_repeat 1 33 (0) m_b3s252i7
+
+  HDID_scaffold     141236 ATCTATATATATATATATATTCACACATATGATA 141269
+                             v                 vi i i    -   
+  (AT)n#Simple_          1 ATATATATATATATATATATATATATATAT-ATA 33
+
+Matrix = Unknown
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.03 (1 / 33), avg. gap size = 1.00 (1 / 1)
+
+12 19.66 0.00 0.00 HDID_scaffold0000062 143844 143872 (20137) (TTTTA)n#Simple_repeat 1 29 (0) m_b3s252i8
+
+  HDID_scaffold     143844 TTTTATTTTTTTTCATTTAATTGGATTTT 143872
+                                    v   i    v   vv     
+  (TTTTA)n#Simp          1 TTTTATTTTATTTTATTTTATTTTATTTT 29
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.00 (0 / 28), avg. gap size = 0.0 (0 / 0)
+
+12 18.76 2.63 2.63 HDID_scaffold0000062 155725 155762 (8247) (TTAAAA)n#Simple_repeat 1 38 (0) m_b3s252i9
+
+  HDID_scaffold     155725 TTAGAATTAAATGCAGTAATT-AATTTAAAATTAAAATT 155762
+                              i       vvi -v    -  v              
+  (TTAAAA)n#Sim          1 TTAAAATTAAAATTA-AAATTAAAATTAAAATTAAAATT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.05 (2 / 37), avg. gap size = 1.00 (2 / 2)
+
+## Batch Overlap Boundaries
+##   HDID_scaffold0000062  56002, 54003, 110005, 108006
+## Total Sequences: 1
+## Total Length: 164009
+## Total NonMask ( excluding >20bp runs of N/X bases ): 163459
+## Total NonSub ( excluding all non ACGT bases ):163446
+RepeatMasker version open-4.0.7 , default mode
+run with rmblastn version 2.2.27+
+RepeatMasker Combined Database: Dfam_Consensus-20170127

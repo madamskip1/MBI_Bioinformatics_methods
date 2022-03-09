@@ -1,0 +1,13 @@
+##gff-version 3
+HDID_scaffold0000062	repeatmasker	match	8655	8754	228	+	.	ID=HDID_scaffold0000062:hit:0:1.3.0.0;Name=species:BEL-18_DPu-I|genus:LTR%2FPao;Target=species:BEL-18_DPu-I|genus:LTR%2FPao 2775 2862 +
+HDID_scaffold0000062	repeatmasker	match_part	8655	8754	228	+	.	ID=HDID_scaffold0000062:hsp:0:1.3.0.0;Parent=HDID_scaffold0000062:hit:0:1.3.0.0;Target=species:BEL-18_DPu-I|genus:LTR%252FPao 2775 2862 +
+HDID_scaffold0000062	repeatmasker	match	28341	28376	228	+	.	ID=HDID_scaffold0000062:hit:1:1.3.0.0;Name=species:Copia-35_JC-I|genus:LTR%2FCopia;Target=species:Copia-35_JC-I|genus:LTR%2FCopia 3617 3650 +
+HDID_scaffold0000062	repeatmasker	match_part	28341	28376	228	+	.	ID=HDID_scaffold0000062:hsp:1:1.3.0.0;Parent=HDID_scaffold0000062:hit:1:1.3.0.0;Target=species:Copia-35_JC-I|genus:LTR%252FCopia 3617 3650 +
+HDID_scaffold0000062	repeatmasker	match	46352	46410	225	+	.	ID=HDID_scaffold0000062:hit:2:1.3.0.0;Name=species:Helitron-2_SIt|genus:RC%2FHelitron;Target=species:Helitron-2_SIt|genus:RC%2FHelitron 2880 2937 +
+HDID_scaffold0000062	repeatmasker	match_part	46352	46410	225	+	.	ID=HDID_scaffold0000062:hsp:2:1.3.0.0;Parent=HDID_scaffold0000062:hit:2:1.3.0.0;Target=species:Helitron-2_SIt|genus:RC%252FHelitron 2880 2937 +
+HDID_scaffold0000062	repeatmasker	match	66059	66096	234	+	.	ID=HDID_scaffold0000062:hit:3:1.3.0.0;Name=species:SZ-31_LTR|genus:LTR%2FGypsy;Target=species:SZ-31_LTR|genus:LTR%2FGypsy 1346 1383 +
+HDID_scaffold0000062	repeatmasker	match_part	66059	66096	234	+	.	ID=HDID_scaffold0000062:hsp:3:1.3.0.0;Parent=HDID_scaffold0000062:hit:3:1.3.0.0;Target=species:SZ-31_LTR|genus:LTR%252FGypsy 1346 1383 +
+HDID_scaffold0000062	repeatmasker	match	72349	72399	248	+	.	ID=HDID_scaffold0000062:hit:4:1.3.0.0;Name=species:L1MC1_EC|genus:LINE%2FL1;Target=species:L1MC1_EC|genus:LINE%2FL1 1675 1732 +
+HDID_scaffold0000062	repeatmasker	match_part	72349	72399	248	+	.	ID=HDID_scaffold0000062:hsp:4:1.3.0.0;Parent=HDID_scaffold0000062:hit:4:1.3.0.0;Target=species:L1MC1_EC|genus:LINE%252FL1 1675 1732 +
+HDID_scaffold0000062	repeatmasker	match	122720	122762	235	+	.	ID=HDID_scaffold0000062:hit:5:1.3.0.0;Name=species:Tad1-3_BG|genus:LINE%2FTad1;Target=species:Tad1-3_BG|genus:LINE%2FTad1 757 796 +
+HDID_scaffold0000062	repeatmasker	match_part	122720	122762	235	+	.	ID=HDID_scaffold0000062:hsp:5:1.3.0.0;Parent=HDID_scaffold0000062:hit:5:1.3.0.0;Target=species:Tad1-3_BG|genus:LINE%252FTad1 757 796 +

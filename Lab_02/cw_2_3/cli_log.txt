@@ -1,0 +1,45 @@
+RepeatMasker version open-4.0.7
+Search Engine: NCBI/RMBLAST [ 2.2.27+ ]
+Rebuilding RepeatMaskerLib.embl library
+  - Read in 216 sequences from /usr/local/RepeatMasker/Libraries/DfamConsensus.embl
+RepeatMaskerLib.embl: 216 total sequences.
+Master RepeatMasker Database: /usr/local/RepeatMasker/Libraries/RepeatMaskerLib.embl ( Complete Database: dc20170127 )
+
+
+Warning...unknown stuff <
+>
+Building general libraries in: /usr/local/RepeatMasker/Libraries/dc20170127/general
+Building species libraries in: /usr/local/RepeatMasker/Libraries/dc20170127/arabidopsis
+   - 174 ancestral and ubiquitous sequence(s) for arabidopsis
+   - 0 lineage specific sequence(s) for arabidopsis
+
+analyzing file /tmp/single_scaffold.fa
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 1 of 3
+identifying matches to arabidopsis sequences in batch 1 of 3
+identifying Simple Repeats in batch 1 of 3
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 2 of 3
+identifying matches to arabidopsis sequences in batch 2 of 3
+identifying Simple Repeats in batch 2 of 3
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 3 of 3
+identifying matches to arabidopsis sequences in batch 3 of 3
+identifying Simple Repeats in batch 3 of 3
+processing output:
+cycle 1
+cycle 2
+cycle 3
+cycle 4
+cycle 5
+cycle 6
+cycle 7
+cycle 8
+cycle 9
+cycle 10
+Generating output...
+masking
+done

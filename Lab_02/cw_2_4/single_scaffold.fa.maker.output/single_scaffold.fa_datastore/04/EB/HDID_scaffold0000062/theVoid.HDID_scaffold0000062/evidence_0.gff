@@ -1,0 +1,312 @@
+##gff-version 3
+HDID_scaffold0000062	blastn	expressed_sequence_match	8534	12884	71	+	.	ID=HDID_scaffold0000062:hit:6:3.2.0.0;Name=HDID_0000746501-mRNA-1
+HDID_scaffold0000062	blastn	match_part	8534	8604	71	+	.	ID=HDID_scaffold0000062:hsp:6:3.2.0.0;Parent=HDID_scaffold0000062:hit:6:3.2.0.0;Target=HDID_0000746501-mRNA-1 1 71 +;Gap=M71
+HDID_scaffold0000062	blastn	match_part	11305	11464	160	+	.	ID=HDID_scaffold0000062:hsp:7:3.2.0.0;Parent=HDID_scaffold0000062:hit:6:3.2.0.0;Target=HDID_0000746501-mRNA-1 220 379 +;Gap=M160
+HDID_scaffold0000062	blastn	match_part	12844	12884	41	+	.	ID=HDID_scaffold0000062:hsp:8:3.2.0.0;Parent=HDID_scaffold0000062:hit:6:3.2.0.0;Target=HDID_0000746501-mRNA-1 380 420 +;Gap=M41
+HDID_scaffold0000062	blastn	expressed_sequence_match	16314	72588	143	+	.	ID=HDID_scaffold0000062:hit:7:3.2.0.0;Name=HDID_0000746601-mRNA-1
+HDID_scaffold0000062	blastn	match_part	16314	16456	143	+	.	ID=HDID_scaffold0000062:hsp:9:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1 143 +;Gap=M143
+HDID_scaffold0000062	blastn	match_part	18297	18400	104	+	.	ID=HDID_scaffold0000062:hsp:10:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 140 243 +;Gap=M104
+HDID_scaffold0000062	blastn	match_part	20269	20417	149	+	.	ID=HDID_scaffold0000062:hsp:11:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 242 390 +;Gap=M149
+HDID_scaffold0000062	blastn	match_part	23878	24128	251	+	.	ID=HDID_scaffold0000062:hsp:12:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 389 639 +;Gap=M251
+HDID_scaffold0000062	blastn	match_part	27639	27743	105	+	.	ID=HDID_scaffold0000062:hsp:13:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 640 744 +;Gap=M105
+HDID_scaffold0000062	blastn	match_part	30147	30263	117	+	.	ID=HDID_scaffold0000062:hsp:14:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 743 859 +;Gap=M117
+HDID_scaffold0000062	blastn	match_part	31756	31817	62	+	.	ID=HDID_scaffold0000062:hsp:15:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 858 919 +;Gap=M62
+HDID_scaffold0000062	blastn	match_part	32560	32629	70	+	.	ID=HDID_scaffold0000062:hsp:16:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 919 988 +;Gap=M70
+HDID_scaffold0000062	blastn	match_part	32792	32864	73	+	.	ID=HDID_scaffold0000062:hsp:17:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 988 1060 +;Gap=M73
+HDID_scaffold0000062	blastn	match_part	34440	34573	134	+	.	ID=HDID_scaffold0000062:hsp:18:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1055 1188 +;Gap=M134
+HDID_scaffold0000062	blastn	match_part	39124	39236	113	+	.	ID=HDID_scaffold0000062:hsp:19:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1187 1299 +;Gap=M113
+HDID_scaffold0000062	blastn	match_part	42461	42589	129	+	.	ID=HDID_scaffold0000062:hsp:20:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1299 1427 +;Gap=M129
+HDID_scaffold0000062	blastn	match_part	49111	49314	204	+	.	ID=HDID_scaffold0000062:hsp:21:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1499 1702 +;Gap=M204
+HDID_scaffold0000062	blastn	match_part	52617	52717	101	+	.	ID=HDID_scaffold0000062:hsp:22:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1703 1803 +;Gap=M101
+HDID_scaffold0000062	blastn	match_part	53530	53616	87	+	.	ID=HDID_scaffold0000062:hsp:23:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1802 1888 +;Gap=M87
+HDID_scaffold0000062	blastn	match_part	54422	54465	44	+	.	ID=HDID_scaffold0000062:hsp:24:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1887 1930 +;Gap=M44
+HDID_scaffold0000062	blastn	match_part	56080	56216	137	+	.	ID=HDID_scaffold0000062:hsp:25:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 1930 2066 +;Gap=M137
+HDID_scaffold0000062	blastn	match_part	57868	58057	190	+	.	ID=HDID_scaffold0000062:hsp:26:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2067 2256 +;Gap=M190
+HDID_scaffold0000062	blastn	match_part	60565	60670	106	+	.	ID=HDID_scaffold0000062:hsp:27:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2255 2360 +;Gap=M106
+HDID_scaffold0000062	blastn	match_part	60745	60798	48	+	.	ID=HDID_scaffold0000062:hsp:28:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2352 2405 +;Gap=M54
+HDID_scaffold0000062	blastn	match_part	60879	60966	88	+	.	ID=HDID_scaffold0000062:hsp:29:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2404 2491 +;Gap=M88
+HDID_scaffold0000062	blastn	match_part	61044	61204	161	+	.	ID=HDID_scaffold0000062:hsp:30:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2491 2651 +;Gap=M161
+HDID_scaffold0000062	blastn	match_part	63067	63207	141	+	.	ID=HDID_scaffold0000062:hsp:31:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2652 2792 +;Gap=M141
+HDID_scaffold0000062	blastn	match_part	64075	64276	202	+	.	ID=HDID_scaffold0000062:hsp:32:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2793 2994 +;Gap=M202
+HDID_scaffold0000062	blastn	match_part	64347	64513	167	+	.	ID=HDID_scaffold0000062:hsp:33:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 2993 3159 +;Gap=M167
+HDID_scaffold0000062	blastn	match_part	64585	64745	161	+	.	ID=HDID_scaffold0000062:hsp:34:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 3158 3318 +;Gap=M161
+HDID_scaffold0000062	blastn	match_part	64789	64874	86	+	.	ID=HDID_scaffold0000062:hsp:35:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 3318 3403 +;Gap=M86
+HDID_scaffold0000062	blastn	match_part	64944	65133	190	+	.	ID=HDID_scaffold0000062:hsp:36:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 3401 3590 +;Gap=M190
+HDID_scaffold0000062	blastn	match_part	69070	69169	100	+	.	ID=HDID_scaffold0000062:hsp:37:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 3586 3685 +;Gap=M100
+HDID_scaffold0000062	blastn	match_part	69243	69577	335	+	.	ID=HDID_scaffold0000062:hsp:38:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 3683 4017 +;Gap=M335
+HDID_scaffold0000062	blastn	match_part	69644	69740	97	+	.	ID=HDID_scaffold0000062:hsp:39:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4017 4113 +;Gap=M97
+HDID_scaffold0000062	blastn	match_part	69816	70026	211	+	.	ID=HDID_scaffold0000062:hsp:40:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4114 4324 +;Gap=M211
+HDID_scaffold0000062	blastn	match_part	70094	70196	103	+	.	ID=HDID_scaffold0000062:hsp:41:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4323 4425 +;Gap=M103
+HDID_scaffold0000062	blastn	match_part	70266	70309	44	+	.	ID=HDID_scaffold0000062:hsp:42:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4426 4469 +;Gap=M44
+HDID_scaffold0000062	blastn	match_part	70390	70449	60	+	.	ID=HDID_scaffold0000062:hsp:43:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4468 4527 +;Gap=M60
+HDID_scaffold0000062	blastn	match_part	70521	70736	216	+	.	ID=HDID_scaffold0000062:hsp:44:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4528 4743 +;Gap=M216
+HDID_scaffold0000062	blastn	match_part	71829	72298	470	+	.	ID=HDID_scaffold0000062:hsp:45:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 4740 5209 +;Gap=M470
+HDID_scaffold0000062	blastn	match_part	72450	72588	139	+	.	ID=HDID_scaffold0000062:hsp:46:3.2.0.0;Parent=HDID_scaffold0000062:hit:7:3.2.0.0;Target=HDID_0000746601-mRNA-1 5361 5499 +;Gap=M139
+HDID_scaffold0000062	blastn	expressed_sequence_match	73993	75046	673	+	.	ID=HDID_scaffold0000062:hit:8:3.2.0.0;Name=HDID_0000746701-mRNA-1
+HDID_scaffold0000062	blastn	match_part	73993	74665	673	+	.	ID=HDID_scaffold0000062:hsp:47:3.2.0.0;Parent=HDID_scaffold0000062:hit:8:3.2.0.0;Target=HDID_0000746701-mRNA-1 1 673 +;Gap=M673
+HDID_scaffold0000062	blastn	match_part	74711	74825	115	+	.	ID=HDID_scaffold0000062:hsp:48:3.2.0.0;Parent=HDID_scaffold0000062:hit:8:3.2.0.0;Target=HDID_0000746701-mRNA-1 671 785 +;Gap=M115
+HDID_scaffold0000062	blastn	match_part	74882	75046	165	+	.	ID=HDID_scaffold0000062:hsp:49:3.2.0.0;Parent=HDID_scaffold0000062:hit:8:3.2.0.0;Target=HDID_0000746701-mRNA-1 784 948 +;Gap=M165
+HDID_scaffold0000062	blastn	expressed_sequence_match	91471	91907	195	-	.	ID=HDID_scaffold0000062:hit:9:3.2.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	blastn	match_part	91713	91907	195	-	.	ID=HDID_scaffold0000062:hsp:50:3.2.0.0;Parent=HDID_scaffold0000062:hit:9:3.2.0.0;Target=HDID_0000746801-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	blastn	match_part	91471	91632	162	-	.	ID=HDID_scaffold0000062:hsp:51:3.2.0.0;Parent=HDID_scaffold0000062:hit:9:3.2.0.0;Target=HDID_0000746801-mRNA-1 196 357 +;Gap=M162
+HDID_scaffold0000062	blastn	expressed_sequence_match	107071	107503	195	-	.	ID=HDID_scaffold0000062:hit:10:3.2.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	blastn	match_part	107309	107503	195	-	.	ID=HDID_scaffold0000062:hsp:52:3.2.0.0;Parent=HDID_scaffold0000062:hit:10:3.2.0.0;Target=HDID_0000746901-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	blastn	match_part	107071	107226	156	-	.	ID=HDID_scaffold0000062:hsp:53:3.2.0.0;Parent=HDID_scaffold0000062:hit:10:3.2.0.0;Target=HDID_0000746901-mRNA-1 196 351 +;Gap=M156
+HDID_scaffold0000062	blastn	expressed_sequence_match	127532	130909	195	+	.	ID=HDID_scaffold0000062:hit:11:3.2.0.0;Name=HDID_0000747001-mRNA-1
+HDID_scaffold0000062	blastn	match_part	127532	127726	195	+	.	ID=HDID_scaffold0000062:hsp:54:3.2.0.0;Parent=HDID_scaffold0000062:hit:11:3.2.0.0;Target=HDID_0000747001-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	blastn	match_part	130749	130909	161	+	.	ID=HDID_scaffold0000062:hsp:55:3.2.0.0;Parent=HDID_scaffold0000062:hit:11:3.2.0.0;Target=HDID_0000747001-mRNA-1 194 354 +;Gap=M161
+HDID_scaffold0000062	blastn	expressed_sequence_match	141855	146669	302	+	.	ID=HDID_scaffold0000062:hit:12:3.2.0.0;Name=HDID_0000747101-mRNA-1
+HDID_scaffold0000062	blastn	match_part	141855	142156	302	+	.	ID=HDID_scaffold0000062:hsp:56:3.2.0.0;Parent=HDID_scaffold0000062:hit:12:3.2.0.0;Target=HDID_0000747101-mRNA-1 1 302 +;Gap=M302
+HDID_scaffold0000062	blastn	match_part	146490	146669	180	+	.	ID=HDID_scaffold0000062:hsp:57:3.2.0.0;Parent=HDID_scaffold0000062:hit:12:3.2.0.0;Target=HDID_0000747101-mRNA-1 301 480 +;Gap=M180
+HDID_scaffold0000062	est2genome	expressed_sequence_match	8534	12884	2057	+	.	ID=HDID_scaffold0000062:hit:13:3.2.0.0;Name=HDID_0000746501-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	8534	8752	2057	+	.	ID=HDID_scaffold0000062:hsp:58:3.2.0.0;Parent=HDID_scaffold0000062:hit:13:3.2.0.0;Target=HDID_0000746501-mRNA-1 1 219 +;Gap=M219
+HDID_scaffold0000062	est2genome	match_part	11305	11464	2057	+	.	ID=HDID_scaffold0000062:hsp:59:3.2.0.0;Parent=HDID_scaffold0000062:hit:13:3.2.0.0;Target=HDID_0000746501-mRNA-1 220 379 +;Gap=M160
+HDID_scaffold0000062	est2genome	match_part	12844	12884	2057	+	.	ID=HDID_scaffold0000062:hsp:60:3.2.0.0;Parent=HDID_scaffold0000062:hit:13:3.2.0.0;Target=HDID_0000746501-mRNA-1 380 420 +;Gap=M41
+HDID_scaffold0000062	est2genome	expressed_sequence_match	16314	72588	27002	+	.	ID=HDID_scaffold0000062:hit:14:3.2.0.0;Name=HDID_0000746601-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	16314	16453	27002	+	.	ID=HDID_scaffold0000062:hsp:61:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1 140 +;Gap=M140
+HDID_scaffold0000062	est2genome	match_part	18298	18398	27002	+	.	ID=HDID_scaffold0000062:hsp:62:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 141 241 +;Gap=M101
+HDID_scaffold0000062	est2genome	match_part	20269	20415	27002	+	.	ID=HDID_scaffold0000062:hsp:63:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 242 388 +;Gap=M147
+HDID_scaffold0000062	est2genome	match_part	23878	24128	27002	+	.	ID=HDID_scaffold0000062:hsp:64:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 389 639 +;Gap=M251
+HDID_scaffold0000062	est2genome	match_part	27639	27742	27002	+	.	ID=HDID_scaffold0000062:hsp:65:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 640 743 +;Gap=M104
+HDID_scaffold0000062	est2genome	match_part	30148	30263	27002	+	.	ID=HDID_scaffold0000062:hsp:66:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 744 859 +;Gap=M116
+HDID_scaffold0000062	est2genome	match_part	31758	31817	27002	+	.	ID=HDID_scaffold0000062:hsp:67:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 860 919 +;Gap=M60
+HDID_scaffold0000062	est2genome	match_part	32561	32629	27002	+	.	ID=HDID_scaffold0000062:hsp:68:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 920 988 +;Gap=M69
+HDID_scaffold0000062	est2genome	match_part	32793	32862	27002	+	.	ID=HDID_scaffold0000062:hsp:69:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 989 1058 +;Gap=M70
+HDID_scaffold0000062	est2genome	match_part	34444	34571	27002	+	.	ID=HDID_scaffold0000062:hsp:70:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1059 1186 +;Gap=M128
+HDID_scaffold0000062	est2genome	match_part	39124	39236	27002	+	.	ID=HDID_scaffold0000062:hsp:71:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1187 1299 +;Gap=M113
+HDID_scaffold0000062	est2genome	match_part	42462	42589	27002	+	.	ID=HDID_scaffold0000062:hsp:72:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1300 1427 +;Gap=M128
+HDID_scaffold0000062	est2genome	match_part	46380	46452	27002	+	.	ID=HDID_scaffold0000062:hsp:73:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1428 1500 +;Gap=M73
+HDID_scaffold0000062	est2genome	match_part	49113	49314	27002	+	.	ID=HDID_scaffold0000062:hsp:74:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1501 1702 +;Gap=M202
+HDID_scaffold0000062	est2genome	match_part	52617	52717	27002	+	.	ID=HDID_scaffold0000062:hsp:75:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1703 1803 +;Gap=M101
+HDID_scaffold0000062	est2genome	match_part	53532	53614	27002	+	.	ID=HDID_scaffold0000062:hsp:76:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1804 1886 +;Gap=M83
+HDID_scaffold0000062	est2genome	match_part	54422	54465	27002	+	.	ID=HDID_scaffold0000062:hsp:77:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1887 1930 +;Gap=M44
+HDID_scaffold0000062	est2genome	match_part	56081	56216	27002	+	.	ID=HDID_scaffold0000062:hsp:78:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 1931 2066 +;Gap=M136
+HDID_scaffold0000062	est2genome	match_part	57868	58057	27002	+	.	ID=HDID_scaffold0000062:hsp:79:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2067 2256 +;Gap=M190
+HDID_scaffold0000062	est2genome	match_part	60567	60670	27002	+	.	ID=HDID_scaffold0000062:hsp:80:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2257 2360 +;Gap=M104
+HDID_scaffold0000062	est2genome	match_part	60754	60798	27002	+	.	ID=HDID_scaffold0000062:hsp:81:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2361 2405 +;Gap=M45
+HDID_scaffold0000062	est2genome	match_part	60881	60965	27002	+	.	ID=HDID_scaffold0000062:hsp:82:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2406 2490 +;Gap=M85
+HDID_scaffold0000062	est2genome	match_part	61044	61204	27002	+	.	ID=HDID_scaffold0000062:hsp:83:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2491 2651 +;Gap=M161
+HDID_scaffold0000062	est2genome	match_part	63067	63207	27002	+	.	ID=HDID_scaffold0000062:hsp:84:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2652 2792 +;Gap=M141
+HDID_scaffold0000062	est2genome	match_part	64075	64276	27002	+	.	ID=HDID_scaffold0000062:hsp:85:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2793 2994 +;Gap=M202
+HDID_scaffold0000062	est2genome	match_part	64349	64513	27002	+	.	ID=HDID_scaffold0000062:hsp:86:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 2995 3159 +;Gap=M165
+HDID_scaffold0000062	est2genome	match_part	64587	64745	27002	+	.	ID=HDID_scaffold0000062:hsp:87:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 3160 3318 +;Gap=M159
+HDID_scaffold0000062	est2genome	match_part	64790	64873	27002	+	.	ID=HDID_scaffold0000062:hsp:88:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 3319 3402 +;Gap=M84
+HDID_scaffold0000062	est2genome	match_part	64946	65131	27002	+	.	ID=HDID_scaffold0000062:hsp:89:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 3403 3588 +;Gap=M186
+HDID_scaffold0000062	est2genome	match_part	69073	69167	27002	+	.	ID=HDID_scaffold0000062:hsp:90:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 3589 3683 +;Gap=M95
+HDID_scaffold0000062	est2genome	match_part	69244	69576	27002	+	.	ID=HDID_scaffold0000062:hsp:91:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 3684 4016 +;Gap=M333
+HDID_scaffold0000062	est2genome	match_part	69644	69740	27002	+	.	ID=HDID_scaffold0000062:hsp:92:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4017 4113 +;Gap=M97
+HDID_scaffold0000062	est2genome	match_part	69816	70026	27002	+	.	ID=HDID_scaffold0000062:hsp:93:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4114 4324 +;Gap=M211
+HDID_scaffold0000062	est2genome	match_part	70096	70196	27002	+	.	ID=HDID_scaffold0000062:hsp:94:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4325 4425 +;Gap=M101
+HDID_scaffold0000062	est2genome	match_part	70266	70309	27002	+	.	ID=HDID_scaffold0000062:hsp:95:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4426 4469 +;Gap=M44
+HDID_scaffold0000062	est2genome	match_part	70392	70449	27002	+	.	ID=HDID_scaffold0000062:hsp:96:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4470 4527 +;Gap=M58
+HDID_scaffold0000062	est2genome	match_part	70521	70734	27002	+	.	ID=HDID_scaffold0000062:hsp:97:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4528 4741 +;Gap=M214
+HDID_scaffold0000062	est2genome	match_part	71831	72588	27002	+	.	ID=HDID_scaffold0000062:hsp:98:3.2.0.0;Parent=HDID_scaffold0000062:hit:14:3.2.0.0;Target=HDID_0000746601-mRNA-1 4742 5499 +;Gap=M758
+HDID_scaffold0000062	est2genome	expressed_sequence_match	73993	75046	4725	+	.	ID=HDID_scaffold0000062:hit:15:3.2.0.0;Name=HDID_0000746701-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	73993	74665	4725	+	.	ID=HDID_scaffold0000062:hsp:99:3.2.0.0;Parent=HDID_scaffold0000062:hit:15:3.2.0.0;Target=HDID_0000746701-mRNA-1 1 673 +;Gap=M673
+HDID_scaffold0000062	est2genome	match_part	74714	74824	4725	+	.	ID=HDID_scaffold0000062:hsp:100:3.2.0.0;Parent=HDID_scaffold0000062:hit:15:3.2.0.0;Target=HDID_0000746701-mRNA-1 674 784 +;Gap=M111
+HDID_scaffold0000062	est2genome	match_part	74883	75046	4725	+	.	ID=HDID_scaffold0000062:hsp:101:3.2.0.0;Parent=HDID_scaffold0000062:hit:15:3.2.0.0;Target=HDID_0000746701-mRNA-1 785 948 +;Gap=M164
+HDID_scaffold0000062	est2genome	expressed_sequence_match	91471	91907	1772	-	.	ID=HDID_scaffold0000062:hit:16:3.2.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	91713	91907	1772	-	.	ID=HDID_scaffold0000062:hsp:102:3.2.0.0;Parent=HDID_scaffold0000062:hit:16:3.2.0.0;Target=HDID_0000746801-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	est2genome	match_part	91471	91632	1772	-	.	ID=HDID_scaffold0000062:hsp:103:3.2.0.0;Parent=HDID_scaffold0000062:hit:16:3.2.0.0;Target=HDID_0000746801-mRNA-1 196 357 +;Gap=M162
+HDID_scaffold0000062	est2genome	expressed_sequence_match	107071	107503	1749	-	.	ID=HDID_scaffold0000062:hit:17:3.2.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	107309	107503	1749	-	.	ID=HDID_scaffold0000062:hsp:104:3.2.0.0;Parent=HDID_scaffold0000062:hit:17:3.2.0.0;Target=HDID_0000746901-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	est2genome	match_part	107071	107226	1749	-	.	ID=HDID_scaffold0000062:hsp:105:3.2.0.0;Parent=HDID_scaffold0000062:hit:17:3.2.0.0;Target=HDID_0000746901-mRNA-1 196 351 +;Gap=M156
+HDID_scaffold0000062	est2genome	expressed_sequence_match	127532	130909	1763	+	.	ID=HDID_scaffold0000062:hit:18:3.2.0.0;Name=HDID_0000747001-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	127532	127726	1763	+	.	ID=HDID_scaffold0000062:hsp:106:3.2.0.0;Parent=HDID_scaffold0000062:hit:18:3.2.0.0;Target=HDID_0000747001-mRNA-1 1 195 +;Gap=M195
+HDID_scaffold0000062	est2genome	match_part	130751	130909	1763	+	.	ID=HDID_scaffold0000062:hsp:107:3.2.0.0;Parent=HDID_scaffold0000062:hit:18:3.2.0.0;Target=HDID_0000747001-mRNA-1 196 354 +;Gap=M159
+HDID_scaffold0000062	est2genome	expressed_sequence_match	141855	146669	2396	+	.	ID=HDID_scaffold0000062:hit:19:3.2.0.0;Name=HDID_0000747101-mRNA-1
+HDID_scaffold0000062	est2genome	match_part	141855	142155	2396	+	.	ID=HDID_scaffold0000062:hsp:108:3.2.0.0;Parent=HDID_scaffold0000062:hit:19:3.2.0.0;Target=HDID_0000747101-mRNA-1 1 301 +;Gap=M301
+HDID_scaffold0000062	est2genome	match_part	146491	146669	2396	+	.	ID=HDID_scaffold0000062:hsp:109:3.2.0.0;Parent=HDID_scaffold0000062:hit:19:3.2.0.0;Target=HDID_0000747101-mRNA-1 302 480 +;Gap=M179
+HDID_scaffold0000062	blastx	protein_match	472	591	103	+	.	ID=HDID_scaffold0000062:hit:20:3.10.0.0;Name=HDID_0000715401-mRNA-1
+HDID_scaffold0000062	blastx	match_part	472	591	103	+	.	ID=HDID_scaffold0000062:hsp:110:3.10.0.0;Parent=HDID_scaffold0000062:hit:20:3.10.0.0;Target=HDID_0000715401-mRNA-1 14 57;Gap=M14 I4 M26
+HDID_scaffold0000062	blastx	protein_match	440	619	152	+	.	ID=HDID_scaffold0000062:hit:21:3.10.0.0;Name=HDID_0001011501-mRNA-1
+HDID_scaffold0000062	blastx	match_part	440	619	152	+	.	ID=HDID_scaffold0000062:hsp:111:3.10.0.0;Parent=HDID_scaffold0000062:hit:21:3.10.0.0;Target=HDID_0001011501-mRNA-1 1 64;Gap=M22 I4 M38
+HDID_scaffold0000062	blastx	protein_match	424	618	146	+	.	ID=HDID_scaffold0000062:hit:22:3.10.0.0;Name=HDID_0000416501-mRNA-1
+HDID_scaffold0000062	blastx	match_part	424	618	146	+	.	ID=HDID_scaffold0000062:hsp:112:3.10.0.0;Parent=HDID_scaffold0000062:hit:22:3.10.0.0;Target=HDID_0000416501-mRNA-1 23 76;Gap=M18 D11 M36
+HDID_scaffold0000062	blastx	protein_match	336	624	81	+	.	ID=HDID_scaffold0000062:hit:23:3.10.0.0;Name=HDID_0001001601-mRNA-1
+HDID_scaffold0000062	blastx	match_part	336	425	81	+	.	ID=HDID_scaffold0000062:hsp:113:3.10.0.0;Parent=HDID_scaffold0000062:hit:23:3.10.0.0;Target=HDID_0001001601-mRNA-1 1 28;Gap=M17 D2 M11
+HDID_scaffold0000062	blastx	match_part	421	624	226	+	.	ID=HDID_scaffold0000062:hsp:114:3.10.0.0;Parent=HDID_scaffold0000062:hit:23:3.10.0.0;Target=HDID_0001001601-mRNA-1 33 100;Gap=M18 D4 M6 I4 M40
+HDID_scaffold0000062	blastx	protein_match	437	619	211	+	.	ID=HDID_scaffold0000062:hit:24:3.10.0.0;Name=HDID_0000878601-mRNA-1
+HDID_scaffold0000062	blastx	match_part	437	619	211	+	.	ID=HDID_scaffold0000062:hsp:115:3.10.0.0;Parent=HDID_scaffold0000062:hit:24:3.10.0.0;Target=HDID_0000878601-mRNA-1 40 104;Gap=M23 I4 M38
+HDID_scaffold0000062	blastx	protein_match	421	618	181	+	.	ID=HDID_scaffold0000062:hit:25:3.10.0.0;Name=HDID_0000527201-mRNA-1
+HDID_scaffold0000062	blastx	match_part	421	618	181	+	.	ID=HDID_scaffold0000062:hsp:116:3.10.0.0;Parent=HDID_scaffold0000062:hit:25:3.10.0.0;Target=HDID_0000527201-mRNA-1 48 117;Gap=M31 I4 M35
+HDID_scaffold0000062	blastx	protein_match	4031	4180	111	-	.	ID=HDID_scaffold0000062:hit:26:3.10.0.0;Name=HDID_0000683601-mRNA-1
+HDID_scaffold0000062	blastx	match_part	4031	4180	111	-	.	ID=HDID_scaffold0000062:hsp:117:3.10.0.0;Parent=HDID_scaffold0000062:hit:26:3.10.0.0;Target=HDID_0000683601-mRNA-1 43 88;Gap=M12 D4 M34
+HDID_scaffold0000062	blastx	protein_match	4035	4330	112	-	.	ID=HDID_scaffold0000062:hit:27:3.10.0.0;Name=HDID_0001112101-mRNA-1
+HDID_scaffold0000062	blastx	match_part	4244	4330	100	-	.	ID=HDID_scaffold0000062:hsp:118:3.10.0.0;Parent=HDID_scaffold0000062:hit:27:3.10.0.0;Target=HDID_0001112101-mRNA-1 51 79;Gap=M29
+HDID_scaffold0000062	blastx	match_part	4102	4167	69	-	.	ID=HDID_scaffold0000062:hsp:119:3.10.0.0;Parent=HDID_scaffold0000062:hit:27:3.10.0.0;Target=HDID_0001112101-mRNA-1 78 99;Gap=M22
+HDID_scaffold0000062	blastx	match_part	4035	4118	112	-	.	ID=HDID_scaffold0000062:hsp:120:3.10.0.0;Parent=HDID_scaffold0000062:hit:27:3.10.0.0;Target=HDID_0001112101-mRNA-1 97 124;Gap=M28
+HDID_scaffold0000062	blastx	protein_match	8534	11466	127	+	.	ID=HDID_scaffold0000062:hit:28:3.10.0.0;Name=HDID_0000746501-mRNA-1
+HDID_scaffold0000062	blastx	match_part	8534	8602	127	+	.	ID=HDID_scaffold0000062:hsp:121:3.10.0.0;Parent=HDID_scaffold0000062:hit:28:3.10.0.0;Target=HDID_0000746501-mRNA-1 1 23;Gap=M23
+HDID_scaffold0000062	blastx	match_part	11305	11466	298	+	.	ID=HDID_scaffold0000062:hsp:122:3.10.0.0;Parent=HDID_scaffold0000062:hit:28:3.10.0.0;Target=HDID_0000746501-mRNA-1 74 127;Gap=M54
+HDID_scaffold0000062	blastx	protein_match	69476	70016	159	+	.	ID=HDID_scaffold0000062:hit:29:3.10.0.0;Name=HDID_0000085001-mRNA-1
+HDID_scaffold0000062	blastx	match_part	69476	69574	159	+	.	ID=HDID_scaffold0000062:hsp:123:3.10.0.0;Parent=HDID_scaffold0000062:hit:29:3.10.0.0;Target=HDID_0000085001-mRNA-1 1 33;Gap=M33
+HDID_scaffold0000062	blastx	match_part	69642	70016	208	+	.	ID=HDID_scaffold0000062:hsp:124:3.10.0.0;Parent=HDID_scaffold0000062:hit:29:3.10.0.0;Target=HDID_0000085001-mRNA-1 34 132;Gap=M31 D24 M3 D1 M33 D1 M32
+HDID_scaffold0000062	blastx	protein_match	16296	72585	123	+	.	ID=HDID_scaffold0000062:hit:30:3.10.0.0;Name=HDID_0000746601-mRNA-1
+HDID_scaffold0000062	blastx	match_part	16296	16448	123	+	.	ID=HDID_scaffold0000062:hsp:125:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 727 777;Gap=M51
+HDID_scaffold0000062	blastx	match_part	16320	16454	239	+	.	ID=HDID_scaffold0000062:hsp:126:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1 45;Gap=M45
+HDID_scaffold0000062	blastx	match_part	18299	18400	175	+	.	ID=HDID_scaffold0000062:hsp:127:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 46 79;Gap=M34
+HDID_scaffold0000062	blastx	match_part	20262	20417	257	+	.	ID=HDID_scaffold0000062:hsp:128:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 77 128;Gap=M52
+HDID_scaffold0000062	blastx	match_part	23880	24182	486	+	.	ID=HDID_scaffold0000062:hsp:129:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 129 225;Gap=M86 D4 M11
+HDID_scaffold0000062	blastx	match_part	27627	27743	188	+	.	ID=HDID_scaffold0000062:hsp:130:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 208 246;Gap=M39
+HDID_scaffold0000062	blastx	match_part	30137	30271	213	+	.	ID=HDID_scaffold0000062:hsp:131:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 243 287;Gap=M45
+HDID_scaffold0000062	blastx	match_part	32792	32950	145	+	.	ID=HDID_scaffold0000062:hsp:132:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 328 374;Gap=M31 D1 M12 D5 M4
+HDID_scaffold0000062	blastx	match_part	34442	34576	243	+	.	ID=HDID_scaffold0000062:hsp:133:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 351 395;Gap=M45
+HDID_scaffold0000062	blastx	match_part	39093	39239	215	+	.	ID=HDID_scaffold0000062:hsp:134:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 384 432;Gap=M49
+HDID_scaffold0000062	blastx	match_part	42462	42587	233	+	.	ID=HDID_scaffold0000062:hsp:135:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 432 473;Gap=M42
+HDID_scaffold0000062	blastx	match_part	49113	49361	361	+	.	ID=HDID_scaffold0000062:hsp:136:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 499 581;Gap=M83
+HDID_scaffold0000062	blastx	match_part	52616	52717	163	+	.	ID=HDID_scaffold0000062:hsp:137:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 566 599;Gap=M34
+HDID_scaffold0000062	blastx	match_part	53532	53615	149	+	.	ID=HDID_scaffold0000062:hsp:138:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 600 627;Gap=M28
+HDID_scaffold0000062	blastx	match_part	56062	56217	200	+	.	ID=HDID_scaffold0000062:hsp:139:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 636 687;Gap=M52
+HDID_scaffold0000062	blastx	match_part	57869	58063	332	+	.	ID=HDID_scaffold0000062:hsp:140:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 688 752;Gap=M65
+HDID_scaffold0000062	blastx	match_part	60567	60698	195	+	.	ID=HDID_scaffold0000062:hsp:141:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 751 794;Gap=M44
+HDID_scaffold0000062	blastx	match_part	60737	60796	91	+	.	ID=HDID_scaffold0000062:hsp:142:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 780 799;Gap=M20
+HDID_scaffold0000062	blastx	match_part	60879	61205	389	+	.	ID=HDID_scaffold0000062:hsp:143:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 800 882;Gap=M29 D26 M54
+HDID_scaffold0000062	blastx	match_part	63056	63208	267	+	.	ID=HDID_scaffold0000062:hsp:144:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 879 929;Gap=M51
+HDID_scaffold0000062	blastx	match_part	64076	64513	533	+	.	ID=HDID_scaffold0000062:hsp:145:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 930 1051;Gap=M67 D24 M55
+HDID_scaffold0000062	blastx	match_part	64572	64745	285	+	.	ID=HDID_scaffold0000062:hsp:146:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1047 1104;Gap=M58
+HDID_scaffold0000062	blastx	match_part	64790	65134	437	+	.	ID=HDID_scaffold0000062:hsp:147:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1105 1195;Gap=M28 D24 M63
+HDID_scaffold0000062	blastx	match_part	69046	69168	172	+	.	ID=HDID_scaffold0000062:hsp:148:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1186 1226;Gap=M41
+HDID_scaffold0000062	blastx	match_part	69242	69577	637	+	.	ID=HDID_scaffold0000062:hsp:149:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1226 1337;Gap=M112
+HDID_scaffold0000062	blastx	match_part	69645	70799	1050	+	.	ID=HDID_scaffold0000062:hsp:150:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1338 1597;Gap=M32 D25 M70 D23 M34 D23 M15 D2 M16 D22 M8 D27 M69 D3 M16
+HDID_scaffold0000062	blastx	match_part	71827	72585	1066	+	.	ID=HDID_scaffold0000062:hsp:151:3.10.0.0;Parent=HDID_scaffold0000062:hit:30:3.10.0.0;Target=HDID_0000746601-mRNA-1 1578 1830;Gap=M253
+HDID_scaffold0000062	blastx	protein_match	34442	37406	129	+	.	ID=HDID_scaffold0000062:hit:31:3.10.0.0;Name=HDID_0000992001-mRNA-1
+HDID_scaffold0000062	blastx	match_part	34442	34597	129	+	.	ID=HDID_scaffold0000062:hsp:152:3.10.0.0;Parent=HDID_scaffold0000062:hit:31:3.10.0.0;Target=HDID_0000992001-mRNA-1 15 68;Gap=M43 I2 M9
+HDID_scaffold0000062	blastx	match_part	37287	37406	138	+	.	ID=HDID_scaffold0000062:hsp:153:3.10.0.0;Parent=HDID_scaffold0000062:hit:31:3.10.0.0;Target=HDID_0000992001-mRNA-1 57 96;Gap=M40
+HDID_scaffold0000062	blastx	protein_match	57899	70160	212	+	.	ID=HDID_scaffold0000062:hit:32:3.10.0.0;Name=HDID_0000164901-mRNA-1
+HDID_scaffold0000062	blastx	match_part	57899	58063	212	+	.	ID=HDID_scaffold0000062:hsp:154:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 1 55;Gap=M55
+HDID_scaffold0000062	blastx	match_part	60567	61226	372	+	.	ID=HDID_scaffold0000062:hsp:155:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 54 192;Gap=M33 D28 M10 D3 M7 D23 M29 D26 M54 D1 M6
+HDID_scaffold0000062	blastx	match_part	63065	63205	152	+	.	ID=HDID_scaffold0000062:hsp:156:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 186 232;Gap=M47
+HDID_scaffold0000062	blastx	match_part	64073	64513	385	+	.	ID=HDID_scaffold0000062:hsp:157:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 233 355;Gap=M68 D24 M55
+HDID_scaffold0000062	blastx	match_part	64572	64871	145	+	.	ID=HDID_scaffold0000062:hsp:158:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 351 458;Gap=M58 I6 M5 I2 M8 I1 M7 I1 M10 D2 M10
+HDID_scaffold0000062	blastx	match_part	64778	65134	394	+	.	ID=HDID_scaffold0000062:hsp:159:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 425 551;Gap=M33 I4 M19 I4 M67
+HDID_scaffold0000062	blastx	match_part	69067	69168	89	+	.	ID=HDID_scaffold0000062:hsp:160:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 549 581;Gap=M8 D1 M25
+HDID_scaffold0000062	blastx	match_part	69242	69574	354	+	.	ID=HDID_scaffold0000062:hsp:161:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 581 669;Gap=M21 D12 M6 D10 M62
+HDID_scaffold0000062	blastx	match_part	69642	70160	448	+	.	ID=HDID_scaffold0000062:hsp:162:3.10.0.0;Parent=HDID_scaffold0000062:hit:32:3.10.0.0;Target=HDID_0000164901-mRNA-1 670 794;Gap=M33 D25 M68 D23 M24
+HDID_scaffold0000062	blastx	protein_match	73993	75043	1311	+	.	ID=HDID_scaffold0000062:hit:33:3.10.0.0;Name=HDID_0000746701-mRNA-1
+HDID_scaffold0000062	blastx	match_part	73993	74826	1311	+	.	ID=HDID_scaffold0000062:hsp:163:3.10.0.0;Parent=HDID_scaffold0000062:hit:33:3.10.0.0;Target=HDID_0000746701-mRNA-1 1 262;Gap=M224 D16 M38
+HDID_scaffold0000062	blastx	match_part	74882	75043	292	+	.	ID=HDID_scaffold0000062:hsp:164:3.10.0.0;Parent=HDID_scaffold0000062:hit:33:3.10.0.0;Target=HDID_0000746701-mRNA-1 262 315;Gap=M54
+HDID_scaffold0000062	blastx	protein_match	86189	86533	210	-	.	ID=HDID_scaffold0000062:hit:34:3.10.0.0;Name=HDID_0000690301-mRNA-1
+HDID_scaffold0000062	blastx	match_part	86189	86533	210	-	.	ID=HDID_scaffold0000062:hsp:165:3.10.0.0;Parent=HDID_scaffold0000062:hit:34:3.10.0.0;Target=HDID_0000690301-mRNA-1 2 105;Gap=M38 D4 M13 D2 M29 D5 M24
+HDID_scaffold0000062	blastx	protein_match	86189	86515	124	-	.	ID=HDID_scaffold0000062:hit:35:3.10.0.0;Name=HDID_0001098201-mRNA-1
+HDID_scaffold0000062	blastx	match_part	86189	86515	124	-	.	ID=HDID_scaffold0000062:hsp:166:3.10.0.0;Parent=HDID_scaffold0000062:hit:35:3.10.0.0;Target=HDID_0001098201-mRNA-1 43 142;Gap=M34 D4 M4 D1 M22 I1 M15 D5 M24
+HDID_scaffold0000062	blastx	protein_match	91480	91895	142	-	.	ID=HDID_scaffold0000062:hit:36:3.10.0.0;Name=HDID_0000827501-mRNA-1
+HDID_scaffold0000062	blastx	match_part	91707	91895	182	-	.	ID=HDID_scaffold0000062:hsp:167:3.10.0.0;Parent=HDID_scaffold0000062:hit:36:3.10.0.0;Target=HDID_0000827501-mRNA-1 6 69;Gap=M9 I1 M54
+HDID_scaffold0000062	blastx	match_part	91480	91629	142	-	.	ID=HDID_scaffold0000062:hsp:168:3.10.0.0;Parent=HDID_scaffold0000062:hit:36:3.10.0.0;Target=HDID_0000827501-mRNA-1 69 118;Gap=M50
+HDID_scaffold0000062	blastx	protein_match	91474	91907	264	-	.	ID=HDID_scaffold0000062:hit:37:3.10.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	blastx	match_part	91707	91907	350	-	.	ID=HDID_scaffold0000062:hsp:169:3.10.0.0;Parent=HDID_scaffold0000062:hit:37:3.10.0.0;Target=HDID_0000746801-mRNA-1 1 67;Gap=M67
+HDID_scaffold0000062	blastx	match_part	91474	91632	264	-	.	ID=HDID_scaffold0000062:hsp:170:3.10.0.0;Parent=HDID_scaffold0000062:hit:37:3.10.0.0;Target=HDID_0000746801-mRNA-1 66 118;Gap=M53
+HDID_scaffold0000062	blastx	protein_match	91480	91907	187	-	.	ID=HDID_scaffold0000062:hit:38:3.10.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	blastx	match_part	91704	91907	244	-	.	ID=HDID_scaffold0000062:hsp:171:3.10.0.0;Parent=HDID_scaffold0000062:hit:38:3.10.0.0;Target=HDID_0000746901-mRNA-1 1 68;Gap=M68
+HDID_scaffold0000062	blastx	match_part	91480	91632	187	-	.	ID=HDID_scaffold0000062:hsp:172:3.10.0.0;Parent=HDID_scaffold0000062:hit:38:3.10.0.0;Target=HDID_0000746901-mRNA-1 66 116;Gap=M51
+HDID_scaffold0000062	blastx	protein_match	107074	107491	132	-	.	ID=HDID_scaffold0000062:hit:39:3.10.0.0;Name=HDID_0000827501-mRNA-1
+HDID_scaffold0000062	blastx	match_part	107225	107491	155	-	.	ID=HDID_scaffold0000062:hsp:173:3.10.0.0;Parent=HDID_scaffold0000062:hit:39:3.10.0.0;Target=HDID_0000827501-mRNA-1 6 96;Gap=M9 I1 M58 I1 M22
+HDID_scaffold0000062	blastx	match_part	107074	107226	132	-	.	ID=HDID_scaffold0000062:hsp:174:3.10.0.0;Parent=HDID_scaffold0000062:hit:39:3.10.0.0;Target=HDID_0000827501-mRNA-1 68 118;Gap=M51
+HDID_scaffold0000062	blastx	protein_match	107074	107503	197	-	.	ID=HDID_scaffold0000062:hit:40:3.10.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	blastx	match_part	107207	107503	248	-	.	ID=HDID_scaffold0000062:hsp:175:3.10.0.0;Parent=HDID_scaffold0000062:hit:40:3.10.0.0;Target=HDID_0000746801-mRNA-1 1 102;Gap=M65 I1 M28 I2 M6
+HDID_scaffold0000062	blastx	match_part	107074	107226	197	-	.	ID=HDID_scaffold0000062:hsp:176:3.10.0.0;Parent=HDID_scaffold0000062:hit:40:3.10.0.0;Target=HDID_0000746801-mRNA-1 66 116;Gap=M51
+HDID_scaffold0000062	blastx	protein_match	107074	107503	264	-	.	ID=HDID_scaffold0000062:hit:41:3.10.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	blastx	match_part	107225	107503	352	-	.	ID=HDID_scaffold0000062:hsp:177:3.10.0.0;Parent=HDID_scaffold0000062:hit:41:3.10.0.0;Target=HDID_0000746901-mRNA-1 1 94;Gap=M65 I1 M28
+HDID_scaffold0000062	blastx	match_part	107074	107226	264	-	.	ID=HDID_scaffold0000062:hsp:178:3.10.0.0;Parent=HDID_scaffold0000062:hit:41:3.10.0.0;Target=HDID_0000746901-mRNA-1 66 116;Gap=M51
+HDID_scaffold0000062	blastx	protein_match	127541	127723	118	+	.	ID=HDID_scaffold0000062:hit:42:3.10.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	blastx	match_part	127541	127723	118	+	.	ID=HDID_scaffold0000062:hsp:179:3.10.0.0;Parent=HDID_scaffold0000062:hit:42:3.10.0.0;Target=HDID_0000746801-mRNA-1 5 64;Gap=M11 D1 M49
+HDID_scaffold0000062	blastx	protein_match	127532	130906	350	+	.	ID=HDID_scaffold0000062:hit:43:3.10.0.0;Name=HDID_0000747001-mRNA-1
+HDID_scaffold0000062	blastx	match_part	127532	127741	350	+	.	ID=HDID_scaffold0000062:hsp:180:3.10.0.0;Parent=HDID_scaffold0000062:hit:43:3.10.0.0;Target=HDID_0000747001-mRNA-1 1 70;Gap=M70
+HDID_scaffold0000062	blastx	match_part	130748	130906	275	+	.	ID=HDID_scaffold0000062:hsp:181:3.10.0.0;Parent=HDID_scaffold0000062:hit:43:3.10.0.0;Target=HDID_0000747001-mRNA-1 65 117;Gap=M53
+HDID_scaffold0000062	blastx	protein_match	142005	146639	221	+	.	ID=HDID_scaffold0000062:hit:44:3.10.0.0;Name=HDID_0000987601-mRNA-1
+HDID_scaffold0000062	blastx	match_part	142005	142172	221	+	.	ID=HDID_scaffold0000062:hsp:182:3.10.0.0;Parent=HDID_scaffold0000062:hit:44:3.10.0.0;Target=HDID_0000987601-mRNA-1 17 72;Gap=M56
+HDID_scaffold0000062	blastx	match_part	146484	146639	199	+	.	ID=HDID_scaffold0000062:hsp:183:3.10.0.0;Parent=HDID_scaffold0000062:hit:44:3.10.0.0;Target=HDID_0000987601-mRNA-1 65 116;Gap=M52
+HDID_scaffold0000062	blastx	protein_match	141855	146666	481	+	.	ID=HDID_scaffold0000062:hit:45:3.10.0.0;Name=HDID_0000747101-mRNA-1
+HDID_scaffold0000062	blastx	match_part	141855	142217	481	+	.	ID=HDID_scaffold0000062:hsp:184:3.10.0.0;Parent=HDID_scaffold0000062:hit:45:3.10.0.0;Target=HDID_0000747101-mRNA-1 1 121;Gap=M121
+HDID_scaffold0000062	blastx	match_part	146484	146666	331	+	.	ID=HDID_scaffold0000062:hsp:185:3.10.0.0;Parent=HDID_scaffold0000062:hit:45:3.10.0.0;Target=HDID_0000747101-mRNA-1 99 159;Gap=M61
+HDID_scaffold0000062	protein2genome	protein_match	457	619	116	+	.	ID=HDID_scaffold0000062:hit:46:3.10.0.0;Name=HDID_0000715401-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	457	619	116	+	.	ID=HDID_scaffold0000062:hsp:186:3.10.0.0;Parent=HDID_scaffold0000062:hit:46:3.10.0.0;Target=HDID_0000715401-mRNA-1 9 66;Gap=M18 I4 M22 F1 M14
+HDID_scaffold0000062	protein2genome	protein_match	503	619	150	+	.	ID=HDID_scaffold0000062:hit:47:3.10.0.0;Name=HDID_0001011501-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	503	619	150	+	.	ID=HDID_scaffold0000062:hsp:187:3.10.0.0;Parent=HDID_scaffold0000062:hit:47:3.10.0.0;Target=HDID_0001011501-mRNA-1 26 64;Gap=M39
+HDID_scaffold0000062	protein2genome	protein_match	487	618	144	+	.	ID=HDID_scaffold0000062:hit:48:3.10.0.0;Name=HDID_0000416501-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	487	618	144	+	.	ID=HDID_scaffold0000062:hsp:188:3.10.0.0;Parent=HDID_scaffold0000062:hit:48:3.10.0.0;Target=HDID_0000416501-mRNA-1 33 76;Gap=M44
+HDID_scaffold0000062	protein2genome	protein_match	421	621	228	+	.	ID=HDID_scaffold0000062:hit:49:3.10.0.0;Name=HDID_0001001601-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	421	621	228	+	.	ID=HDID_scaffold0000062:hsp:189:3.10.0.0;Parent=HDID_scaffold0000062:hit:49:3.10.0.0;Target=HDID_0001001601-mRNA-1 33 99;Gap=M67
+HDID_scaffold0000062	protein2genome	protein_match	362	619	259	+	.	ID=HDID_scaffold0000062:hit:50:3.10.0.0;Name=HDID_0000878601-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	362	619	259	+	.	ID=HDID_scaffold0000062:hsp:190:3.10.0.0;Parent=HDID_scaffold0000062:hit:50:3.10.0.0;Target=HDID_0000878601-mRNA-1 15 104;Gap=M47 I4 M39
+HDID_scaffold0000062	protein2genome	protein_match	4031	4317	126	-	.	ID=HDID_scaffold0000062:hit:51:3.10.0.0;Name=HDID_0000683601-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	4227	4317	126	-	.	ID=HDID_scaffold0000062:hsp:191:3.10.0.0;Parent=HDID_scaffold0000062:hit:51:3.10.0.0;Target=HDID_0000683601-mRNA-1 17 46;Gap=F1 M30
+HDID_scaffold0000062	protein2genome	match_part	4031	4155	126	-	.	ID=HDID_scaffold0000062:hsp:192:3.10.0.0;Parent=HDID_scaffold0000062:hit:51:3.10.0.0;Target=HDID_0000683601-mRNA-1 47 88;Gap=M42 R1
+HDID_scaffold0000062	protein2genome	protein_match	8534	11466	654	+	.	ID=HDID_scaffold0000062:hit:52:3.10.0.0;Name=HDID_0000746501-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	8534	8752	654	+	.	ID=HDID_scaffold0000062:hsp:193:3.10.0.0;Parent=HDID_scaffold0000062:hit:52:3.10.0.0;Target=HDID_0000746501-mRNA-1 1 73;Gap=M73
+HDID_scaffold0000062	protein2genome	match_part	11305	11466	654	+	.	ID=HDID_scaffold0000062:hsp:194:3.10.0.0;Parent=HDID_scaffold0000062:hit:52:3.10.0.0;Target=HDID_0000746501-mRNA-1 74 127;Gap=M54
+HDID_scaffold0000062	protein2genome	protein_match	69476	70016	348	+	.	ID=HDID_scaffold0000062:hit:53:3.10.0.0;Name=HDID_0000085001-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	69476	69576	348	+	.	ID=HDID_scaffold0000062:hsp:195:3.10.0.0;Parent=HDID_scaffold0000062:hit:53:3.10.0.0;Target=HDID_0000085001-mRNA-1 1 33;Gap=M33 F2
+HDID_scaffold0000062	protein2genome	match_part	69644	69740	348	+	.	ID=HDID_scaffold0000062:hsp:196:3.10.0.0;Parent=HDID_scaffold0000062:hit:53:3.10.0.0;Target=HDID_0000085001-mRNA-1 34 66;Gap=R2 M33
+HDID_scaffold0000062	protein2genome	match_part	69816	70016	348	+	.	ID=HDID_scaffold0000062:hsp:197:3.10.0.0;Parent=HDID_scaffold0000062:hit:53:3.10.0.0;Target=HDID_0000085001-mRNA-1 67 132;Gap=M33 D1 M33
+HDID_scaffold0000062	protein2genome	protein_match	16320	72585	9157	+	.	ID=HDID_scaffold0000062:hit:54:3.10.0.0;Name=HDID_0000746601-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	16320	16453	9157	+	.	ID=HDID_scaffold0000062:hsp:198:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1 44;Gap=M44 F2
+HDID_scaffold0000062	protein2genome	match_part	18298	18398	9157	+	.	ID=HDID_scaffold0000062:hsp:199:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 45 78;Gap=R2 M34 F1
+HDID_scaffold0000062	protein2genome	match_part	20269	20415	9157	+	.	ID=HDID_scaffold0000062:hsp:200:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 79 127;Gap=R1 M49 F1
+HDID_scaffold0000062	protein2genome	match_part	23878	24128	9157	+	.	ID=HDID_scaffold0000062:hsp:201:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 128 211;Gap=R1 M84
+HDID_scaffold0000062	protein2genome	match_part	27639	27742	9157	+	.	ID=HDID_scaffold0000062:hsp:202:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 212 245;Gap=M34 F2
+HDID_scaffold0000062	protein2genome	match_part	30148	30263	9157	+	.	ID=HDID_scaffold0000062:hsp:203:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 246 284;Gap=R2 M39 F1
+HDID_scaffold0000062	protein2genome	match_part	31758	31817	9157	+	.	ID=HDID_scaffold0000062:hsp:204:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 285 304;Gap=R1 M20 F1
+HDID_scaffold0000062	protein2genome	match_part	32561	32629	9157	+	.	ID=HDID_scaffold0000062:hsp:205:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 305 327;Gap=R1 M23 F1
+HDID_scaffold0000062	protein2genome	match_part	32793	32862	9157	+	.	ID=HDID_scaffold0000062:hsp:206:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 328 350;Gap=R1 M23 F2
+HDID_scaffold0000062	protein2genome	match_part	34444	34571	9157	+	.	ID=HDID_scaffold0000062:hsp:207:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 351 393;Gap=R2 M43 F1
+HDID_scaffold0000062	protein2genome	match_part	39124	39236	9157	+	.	ID=HDID_scaffold0000062:hsp:208:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 394 431;Gap=R1 M38
+HDID_scaffold0000062	protein2genome	match_part	42462	42589	9157	+	.	ID=HDID_scaffold0000062:hsp:209:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 432 473;Gap=M42 F2
+HDID_scaffold0000062	protein2genome	match_part	46380	46452	9157	+	.	ID=HDID_scaffold0000062:hsp:210:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 474 498;Gap=R2 M25
+HDID_scaffold0000062	protein2genome	match_part	49113	49314	9157	+	.	ID=HDID_scaffold0000062:hsp:211:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 499 565;Gap=M67 F1
+HDID_scaffold0000062	protein2genome	match_part	52617	52717	9157	+	.	ID=HDID_scaffold0000062:hsp:212:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 566 599;Gap=R1 M34
+HDID_scaffold0000062	protein2genome	match_part	53532	53614	9157	+	.	ID=HDID_scaffold0000062:hsp:213:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 600 626;Gap=M27 F2
+HDID_scaffold0000062	protein2genome	match_part	54422	54465	9157	+	.	ID=HDID_scaffold0000062:hsp:214:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 627 641;Gap=R2 M15 F1
+HDID_scaffold0000062	protein2genome	match_part	56081	56216	9157	+	.	ID=HDID_scaffold0000062:hsp:215:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 642 686;Gap=R1 M45 F2
+HDID_scaffold0000062	protein2genome	match_part	57868	58057	9157	+	.	ID=HDID_scaffold0000062:hsp:216:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 687 750;Gap=R2 M64
+HDID_scaffold0000062	protein2genome	match_part	60567	60670	9157	+	.	ID=HDID_scaffold0000062:hsp:217:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 751 784;Gap=M34 F2
+HDID_scaffold0000062	protein2genome	match_part	60754	60798	9157	+	.	ID=HDID_scaffold0000062:hsp:218:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 785 799;Gap=R2 M15 F2
+HDID_scaffold0000062	protein2genome	match_part	60881	60965	9157	+	.	ID=HDID_scaffold0000062:hsp:219:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 800 828;Gap=R2 M29
+HDID_scaffold0000062	protein2genome	match_part	61044	61204	9157	+	.	ID=HDID_scaffold0000062:hsp:220:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 829 881;Gap=M53 F2
+HDID_scaffold0000062	protein2genome	match_part	63067	63207	9157	+	.	ID=HDID_scaffold0000062:hsp:221:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 882 928;Gap=R2 M47 F2
+HDID_scaffold0000062	protein2genome	match_part	64075	64276	9157	+	.	ID=HDID_scaffold0000062:hsp:222:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 929 996;Gap=R2 M68
+HDID_scaffold0000062	protein2genome	match_part	64349	64513	9157	+	.	ID=HDID_scaffold0000062:hsp:223:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 997 1051;Gap=M55
+HDID_scaffold0000062	protein2genome	match_part	64587	64745	9157	+	.	ID=HDID_scaffold0000062:hsp:224:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1052 1104;Gap=M53
+HDID_scaffold0000062	protein2genome	match_part	64790	64873	9157	+	.	ID=HDID_scaffold0000062:hsp:225:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1105 1132;Gap=M28
+HDID_scaffold0000062	protein2genome	match_part	64946	65131	9157	+	.	ID=HDID_scaffold0000062:hsp:226:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1133 1194;Gap=M62
+HDID_scaffold0000062	protein2genome	match_part	69073	69167	9157	+	.	ID=HDID_scaffold0000062:hsp:227:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1195 1225;Gap=M31 F2
+HDID_scaffold0000062	protein2genome	match_part	69244	69576	9157	+	.	ID=HDID_scaffold0000062:hsp:228:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1226 1336;Gap=R2 M111 F2
+HDID_scaffold0000062	protein2genome	match_part	69644	69740	9157	+	.	ID=HDID_scaffold0000062:hsp:229:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1337 1369;Gap=R2 M33
+HDID_scaffold0000062	protein2genome	match_part	69816	70026	9157	+	.	ID=HDID_scaffold0000062:hsp:230:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1370 1439;Gap=M70 F1
+HDID_scaffold0000062	protein2genome	match_part	70096	70196	9157	+	.	ID=HDID_scaffold0000062:hsp:231:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1440 1473;Gap=R1 M34
+HDID_scaffold0000062	protein2genome	match_part	70266	70309	9157	+	.	ID=HDID_scaffold0000062:hsp:232:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1474 1487;Gap=M14 F2
+HDID_scaffold0000062	protein2genome	match_part	70392	70449	9157	+	.	ID=HDID_scaffold0000062:hsp:233:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1488 1507;Gap=R2 M20
+HDID_scaffold0000062	protein2genome	match_part	70521	70734	9157	+	.	ID=HDID_scaffold0000062:hsp:234:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1508 1578;Gap=M71 F1
+HDID_scaffold0000062	protein2genome	match_part	71831	72585	9157	+	.	ID=HDID_scaffold0000062:hsp:235:3.10.0.0;Parent=HDID_scaffold0000062:hit:54:3.10.0.0;Target=HDID_0000746601-mRNA-1 1579 1830;Gap=R1 M252
+HDID_scaffold0000062	protein2genome	protein_match	34442	37406	259	+	.	ID=HDID_scaffold0000062:hit:55:3.10.0.0;Name=HDID_0000992001-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	34442	34571	259	+	.	ID=HDID_scaffold0000062:hsp:236:3.10.0.0;Parent=HDID_scaffold0000062:hit:55:3.10.0.0;Target=HDID_0000992001-mRNA-1 15 57;Gap=M43 F1
+HDID_scaffold0000062	protein2genome	match_part	37291	37406	259	+	.	ID=HDID_scaffold0000062:hsp:237:3.10.0.0;Parent=HDID_scaffold0000062:hit:55:3.10.0.0;Target=HDID_0000992001-mRNA-1 58 96;Gap=R1 M39
+HDID_scaffold0000062	protein2genome	protein_match	73993	75043	1647	+	.	ID=HDID_scaffold0000062:hit:56:3.10.0.0;Name=HDID_0000746701-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	73993	74665	1647	+	.	ID=HDID_scaffold0000062:hsp:238:3.10.0.0;Parent=HDID_scaffold0000062:hit:56:3.10.0.0;Target=HDID_0000746701-mRNA-1 1 224;Gap=M224 F1
+HDID_scaffold0000062	protein2genome	match_part	74714	74824	1647	+	.	ID=HDID_scaffold0000062:hsp:239:3.10.0.0;Parent=HDID_scaffold0000062:hit:56:3.10.0.0;Target=HDID_0000746701-mRNA-1 225 261;Gap=R1 M37 F1
+HDID_scaffold0000062	protein2genome	match_part	74883	75043	1647	+	.	ID=HDID_scaffold0000062:hsp:240:3.10.0.0;Parent=HDID_scaffold0000062:hit:56:3.10.0.0;Target=HDID_0000746701-mRNA-1 262 315;Gap=R1 M54
+HDID_scaffold0000062	protein2genome	protein_match	91707	91895	205	-	.	ID=HDID_scaffold0000062:hit:57:3.10.0.0;Name=HDID_0000827501-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	91707	91895	205	-	.	ID=HDID_scaffold0000062:hsp:241:3.10.0.0;Parent=HDID_scaffold0000062:hit:57:3.10.0.0;Target=HDID_0000827501-mRNA-1 6 69;Gap=M54 I1 M9
+HDID_scaffold0000062	protein2genome	protein_match	91474	91907	679	-	.	ID=HDID_scaffold0000062:hit:58:3.10.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	91713	91907	679	-	.	ID=HDID_scaffold0000062:hsp:242:3.10.0.0;Parent=HDID_scaffold0000062:hit:58:3.10.0.0;Target=HDID_0000746801-mRNA-1 1 65;Gap=M65
+HDID_scaffold0000062	protein2genome	match_part	91474	91632	679	-	.	ID=HDID_scaffold0000062:hsp:243:3.10.0.0;Parent=HDID_scaffold0000062:hit:58:3.10.0.0;Target=HDID_0000746801-mRNA-1 66 118;Gap=M53
+HDID_scaffold0000062	protein2genome	protein_match	91480	91907	468	-	.	ID=HDID_scaffold0000062:hit:59:3.10.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	91713	91907	468	-	.	ID=HDID_scaffold0000062:hsp:244:3.10.0.0;Parent=HDID_scaffold0000062:hit:59:3.10.0.0;Target=HDID_0000746901-mRNA-1 1 65;Gap=M65
+HDID_scaffold0000062	protein2genome	match_part	91480	91632	468	-	.	ID=HDID_scaffold0000062:hsp:245:3.10.0.0;Parent=HDID_scaffold0000062:hit:59:3.10.0.0;Target=HDID_0000746901-mRNA-1 66 116;Gap=M51
+HDID_scaffold0000062	protein2genome	protein_match	107291	107491	171	-	.	ID=HDID_scaffold0000062:hit:60:3.10.0.0;Name=HDID_0000827501-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	107291	107491	171	-	.	ID=HDID_scaffold0000062:hsp:246:3.10.0.0;Parent=HDID_scaffold0000062:hit:60:3.10.0.0;Target=HDID_0000827501-mRNA-1 6 73;Gap=M58 I1 M9
+HDID_scaffold0000062	protein2genome	protein_match	107068	107503	476	-	.	ID=HDID_scaffold0000062:hit:61:3.10.0.0;Name=HDID_0000746801-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	107309	107503	476	-	.	ID=HDID_scaffold0000062:hsp:247:3.10.0.0;Parent=HDID_scaffold0000062:hit:61:3.10.0.0;Target=HDID_0000746801-mRNA-1 1 65;Gap=M65
+HDID_scaffold0000062	protein2genome	match_part	107068	107226	476	-	.	ID=HDID_scaffold0000062:hsp:248:3.10.0.0;Parent=HDID_scaffold0000062:hit:61:3.10.0.0;Target=HDID_0000746801-mRNA-1 66 118;Gap=M53
+HDID_scaffold0000062	protein2genome	protein_match	107074	107503	667	-	.	ID=HDID_scaffold0000062:hit:62:3.10.0.0;Name=HDID_0000746901-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	107309	107503	667	-	.	ID=HDID_scaffold0000062:hsp:249:3.10.0.0;Parent=HDID_scaffold0000062:hit:62:3.10.0.0;Target=HDID_0000746901-mRNA-1 1 65;Gap=M65
+HDID_scaffold0000062	protein2genome	match_part	107074	107226	667	-	.	ID=HDID_scaffold0000062:hsp:250:3.10.0.0;Parent=HDID_scaffold0000062:hit:62:3.10.0.0;Target=HDID_0000746901-mRNA-1 66 116;Gap=M51
+HDID_scaffold0000062	protein2genome	protein_match	127532	130906	666	+	.	ID=HDID_scaffold0000062:hit:63:3.10.0.0;Name=HDID_0000747001-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	127532	127726	666	+	.	ID=HDID_scaffold0000062:hsp:251:3.10.0.0;Parent=HDID_scaffold0000062:hit:63:3.10.0.0;Target=HDID_0000747001-mRNA-1 1 65;Gap=M65
+HDID_scaffold0000062	protein2genome	match_part	130751	130906	666	+	.	ID=HDID_scaffold0000062:hsp:252:3.10.0.0;Parent=HDID_scaffold0000062:hit:63:3.10.0.0;Target=HDID_0000747001-mRNA-1 66 117;Gap=M52
+HDID_scaffold0000062	protein2genome	protein_match	141993	146663	410	+	.	ID=HDID_scaffold0000062:hit:64:3.10.0.0;Name=HDID_0000987601-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	141993	142155	410	+	.	ID=HDID_scaffold0000062:hsp:253:3.10.0.0;Parent=HDID_scaffold0000062:hit:64:3.10.0.0;Target=HDID_0000987601-mRNA-1 13 66;Gap=M54 F1
+HDID_scaffold0000062	protein2genome	match_part	146491	146663	410	+	.	ID=HDID_scaffold0000062:hsp:254:3.10.0.0;Parent=HDID_scaffold0000062:hit:64:3.10.0.0;Target=HDID_0000987601-mRNA-1 67 124;Gap=R1 M58
+HDID_scaffold0000062	protein2genome	protein_match	141855	146666	857	+	.	ID=HDID_scaffold0000062:hit:65:3.10.0.0;Name=HDID_0000747101-mRNA-1
+HDID_scaffold0000062	protein2genome	match_part	141855	142155	857	+	.	ID=HDID_scaffold0000062:hsp:255:3.10.0.0;Parent=HDID_scaffold0000062:hit:65:3.10.0.0;Target=HDID_0000747101-mRNA-1 1 100;Gap=M100 F1
+HDID_scaffold0000062	protein2genome	match_part	146491	146666	857	+	.	ID=HDID_scaffold0000062:hsp:256:3.10.0.0;Parent=HDID_scaffold0000062:hit:65:3.10.0.0;Target=HDID_0000747101-mRNA-1 101 159;Gap=R1 M59

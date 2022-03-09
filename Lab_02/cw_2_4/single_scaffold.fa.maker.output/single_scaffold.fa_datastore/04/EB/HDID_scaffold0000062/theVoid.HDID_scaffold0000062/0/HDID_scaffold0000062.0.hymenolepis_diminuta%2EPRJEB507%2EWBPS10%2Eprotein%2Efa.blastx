@@ -1,0 +1,2439 @@
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.0
+           1,128 sequences; 502,387 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000085001-mRNA-1 transcript=HDID_0000085001-mRNA-1 gene=H...  84.7    6e-31
+  HDID_0000690301-mRNA-1 transcript=HDID_0000690301-mRNA-1 gene=H...  85.5    1e-17
+  HDID_0000163001-mRNA-1 transcript=HDID_0000163001-mRNA-1 gene=H...  60.1    8e-16
+  HDID_0000885301-mRNA-1 transcript=HDID_0000885301-mRNA-1 gene=H...  55.8    1e-08
+  HDID_0000125001-mRNA-1 transcript=HDID_0000125001-mRNA-1 gene=H...  54.7    2e-08
+
+
+> HDID_0000085001-mRNA-1 transcript=HDID_0000085001-mRNA-1 gene=HDID_0000085001
+Length=153
+
+ Score = 84.7 bits (208),  Expect(2) = 6e-31, Method: Compositional matrix adjust.
+ Identities = 49/125 (39%), Positives = 68/125 (54%), Gaps = 26/125 (21%)
+ Frame = +3
+
+Query  69642  RGRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYRVSSSICTAEMYQQAFQLHI*VLCLQKL  69821
+              +GRI H D+  +LRK+ PP+GFGK CP+R A                        C+  L
+Sbjct  34     KGRIKHLDVVTLLRKISPPLGFGKLCPHRTA------------------------CVT-L  68
+
+Query  69822  IRMNMPVDDTDCVRFNTTLFALIRESLGIKMGPASVMDIKDAELRDTIKEMWPLQAKKML  70001
+              +RMNMP++    V FN TLFAL+R +L IK    S  D  + ELR  IK++W   + K+L
+Sbjct  69     VRMNMPLNSDGTVMFNATLFALVRTNLKIKTE-GSTPDQLNEELRTVIKKIWKHTSPKLL  127
+
+Query  70002  NLLVP  70016
+              + +VP
+Sbjct  128    DQVVP  132
+
+
+ Score = 65.9 bits (159),  Expect(2) = 6e-31, Method: Compositional matrix adjust.
+ Identities = 26/33 (79%), Positives = 30/33 (91%), Gaps = 0/33 (0%)
+ Frame = +2
+
+Query  69476  MDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAA  69574
+              MDNFDYLTRD SILG HHL+EF+R+W+EYDP A
+Sbjct  1      MDNFDYLTRDWSILGPHHLDEFVRLWSEYDPEA  33
+
+
+> HDID_0000690301-mRNA-1 transcript=HDID_0000690301-mRNA-1 gene=HDID_0000690301
+Length=107
+
+ Score = 85.5 bits (210),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 55/115 (48%), Positives = 64/115 (56%), Gaps = 11/115 (10%)
+ Frame = -2
+
+Query  86533  SKRIHLFPSSHNRLVSSK*YICARVLASP*PSDSYEAIFVP*MLFPTQ*QTMPVSYQFLR  86354
+              SKR+H FP  +NRL S K +ICAR LA P PSDSY+A     + F     T       L 
+Sbjct  2      SKRVHRFPLFYNRLASHKGHICARALAWPYPSDSYKAT----LGFSDNTHTGQGG--LLH  55
+
+Query  86353  FLLISLFPQHPALSISPSLTRFKPIVASLNTFGLINSWCSAPQLWLALTQTAMNW  86189
+               L IS   QH  L +S +   F   +     FGL+NSWCSA QL LALTQTA NW
+Sbjct  56     VLFISSLSQHAVLPLSVTHCGFLEYM-----FGLLNSWCSASQLLLALTQTATNW  105
+
+
+> HDID_0000163001-mRNA-1 transcript=HDID_0000163001-mRNA-1 gene=HDID_0000163001
+Length=282
+
+ Score = 60.1 bits (144),  Expect(2) = 8e-16, Method: Compositional matrix adjust.
+ Identities = 29/70 (41%), Positives = 39/70 (56%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQ  91737
+              + K  +KCAKC+  I+   +T   + WH ECF+C  C+  LAGQ F +KD   YC  C  
+Sbjct  160    EDKFAQKCAKCQGVINKGGITYKGQPWHKECFLCANCNNQLAGQKFTSKDDKIYCADCYS  219
+
+Query  91736  EKFDPTCAVC  91707
+              E F   C+ C
+Sbjct  220    ELFAKRCSAC  229
+
+
+ Score = 39.3 bits (90),  Expect(2) = 8e-16, Method: Compositional matrix adjust.
+ Identities = 13/38 (34%), Positives = 26/38 (68%), Gaps = 0/38 (0%)
+ Frame = -3
+
+Query  91602  KYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCC  91489
+              K+  ++DK++H +CF C++CN  +  + F+++DG   C
+Sbjct  240    KFITFEDKNWHSECFNCNKCNSSLVGRGFLVEDGAVVC  277
+
+
+ Score = 44.3 bits (103),  Expect(2) = 7e-11, Method: Compositional matrix adjust.
+ Identities = 25/72 (35%), Positives = 32/72 (44%), Gaps = 2/72 (3%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTI--VTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKC  91743
+              D      CA C + I      ++  ++ WH  CFVC  C   LA + F  KD A +C  C
+Sbjct  38     DANFTNTCAACGERITSVSKDLSFQDRHWHEGCFVCMECKASLADRPFATKDDAIFCPDC  97
+
+Query  91742  RQEKFDPTCAVC  91707
+                EKF   C  C
+Sbjct  98     FDEKFAARCDGC  109
+
+
+ Score = 38.1 bits (87),  Expect(2) = 7e-11, Method: Compositional matrix adjust.
+ Identities = 14/39 (36%), Positives = 23/39 (59%), Gaps = 0/39 (0%)
+ Frame = -3
+
+Query  91629  CGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFV  91513
+              CGK     ++   Y+  ++H +CF C+EC +PI  K F+
+Sbjct  109    CGKTFKAAMRKYEYKGGAWHEECFLCAECKQPIGAKSFI  147
+
+
+ Score = 43.1 bits (100),  Expect(2) = 5e-10, Method: Compositional matrix adjust.
+ Identities = 23/68 (34%), Positives = 31/68 (46%), Gaps = 2/68 (3%)
+ Frame = -2
+
+Query  107506  KMAEKCSKCFKDITGQV--VLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRK  107333
+               K A +C  C K     +      G  WH ECF CA C  P+  K F  +     C++C +
+Sbjct  101     KFAARCDGCGKTFKAAMRKYEYKGGAWHEECFLCAECKQPIGAKSFIPRGNDIICVQCYE  160
+
+Query  107332  EKFDPTCA  107309
+               +KF   CA
+Sbjct  161     DKFAQKCA  168
+
+
+ Score = 36.6 bits (83),  Expect(2) = 5e-10, Method: Compositional matrix adjust.
+ Identities = 21/52 (40%), Positives = 28/52 (54%), Gaps = 1/52 (2%)
+ Frame = -3
+
+Query  107232  SQKCHKKIDPTIKYSI-YHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCA  107080
+               +QKC K      K  I Y  + +H++CF CA C   L G+KF +KD    CA
+Sbjct  164     AQKCAKCQGVINKGGITYKGQPWHKECFLCANCNNQLAGQKFTSKDDKIYCA  215
+
+
+ Score = 44.7 bits (104),  Expect(2) = 7e-10, Method: Compositional matrix adjust.
+ Identities = 26/76 (34%), Positives = 36/76 (47%), Gaps = 10/76 (13%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTIVTAMNK------KWHNECFVCTGCHCPLAGQSFHNKDGAPY  91755
+              D+K   +C  C K    T   AM K       WH ECF+C  C  P+  +SF  +     
+Sbjct  99     DEKFAARCDGCGK----TFKAAMRKYEYKGGAWHEECFLCAECKQPIGAKSFIPRGNDII  154
+
+Query  91754  CIKCRQEKFDPTCAVC  91707
+              C++C ++KF   CA C
+Sbjct  155    CVQCYEDKFAQKCAKC  170
+
+
+ Score = 34.7 bits (78),  Expect(2) = 7e-10, Method: Compositional matrix adjust.
+ Identities = 14/36 (39%), Positives = 22/36 (61%), Gaps = 0/36 (0%)
+ Frame = -3
+
+Query  91593  IYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCA  91486
+               Y+ + +H++CF C+ CN  +  +KF  KD K  CA
+Sbjct  180    TYKGQPWHKECFLCANCNNQLAGQKFTSKDDKIYCA  215
+
+
+ Score = 56.2 bits (134),  Expect = 6e-09, Method: Compositional matrix adjust.
+ Identities = 29/75 (39%), Positives = 39/75 (52%), Gaps = 0/75 (0%)
+ Frame = -2
+
+Query  107506  KMAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEK  107327
+               K A+KC+KC   I    +   G+ WH ECF CA CN  L G++F  KD   YC +C  E 
+Sbjct  162     KFAQKCAKCQGVINKGGITYKGQPWHKECFLCANCNNQLAGQKFTSKDDKIYCADCYSEL  221
+
+Query  107326  FDPTCAVSKIFIASY  107282
+               F   C+     I+ +
+Sbjct  222     FAKRCSACSKPISGF  236
+
+
+ Score = 39.7 bits (91),  Expect(2) = 2e-08, Method: Compositional matrix adjust.
+ Identities = 16/42 (38%), Positives = 23/42 (55%), Gaps = 0/42 (0%)
+ Frame = -3
+
+Query  91629  CGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKD  91504
+              CG++I    K   +QD+ +H  CF C EC   + D+ F  KD
+Sbjct  48     CGERITSVSKDLSFQDRHWHEGCFVCMECKASLADRPFATKD  89
+
+
+ Score = 34.3 bits (77),  Expect(2) = 2e-08, Method: Compositional matrix adjust.
+ Identities = 18/42 (43%), Positives = 20/42 (48%), Gaps = 0/42 (0%)
+ Frame = -1
+
+Query  91832  NECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFDPTCAVC  91707
+               E F CT C   L GQ +      PYCI+C    F  TCA C
+Sbjct  7      GENFQCTKCDKSLVGQRYILNSEKPYCIECYDANFTNTCAAC  48
+
+
+ Score = 51.2 bits (121),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 24/63 (38%), Positives = 34/63 (54%), Gaps = 1/63 (2%)
+ Frame = +2
+
+Query  127538  NCTKCMQPIGSVEPVLALNKR-WHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSYR  127714
+                C  C + I SV   L+   R WH GCFVC  C  +L D+ F++  +A FC  CF++ + 
+Sbjct  44      TCAACGERITSVSKDLSFQDRHWHEGCFVCMECKASLADRPFATKDDAIFCPDCFDEKFA  103
+
+Query  127715  PNC  127723
+                 C
+Sbjct  104     ARC  106
+
+
+> HDID_0000885301-mRNA-1 transcript=HDID_0000885301-mRNA-1 gene=HDID_0000885301
+Length=113
+
+ Score = 55.8 bits (133),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 29/51 (57%), Positives = 36/51 (71%), Gaps = 1/51 (2%)
+ Frame = +3
+
+Query  98328  LGKLQVDGKQVFGEKEGENWMLNPIKNSISRITDHQPQLKGVNNEETMCVD  98480
+              L +L VD KQVFGEKEG  W  NP K SISR+ ++QPQ+KG  N   +C+D
+Sbjct  25     LIQLYVDVKQVFGEKEGAVWKQNPNKESISRVLEYQPQIKGEKN-GMVCMD  74
+
+
+> HDID_0000125001-mRNA-1 transcript=HDID_0000125001-mRNA-1 gene=HDID_0000125001
+Length=1354
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 47/177 (27%), Positives = 78/177 (44%), Gaps = 7/177 (4%)
+ Frame = +1
+
+Query  74056  LGGILSCGTTHTAIVPLDLVKCRLQVDKA-KYGSLTRGFRVSIKEEGLRGLARGWAPTFF  74232
+              + G L+  T+ T I P++++K R+ + K  +Y S+    R    E GL    RG+ P   
+Sbjct  282    IAGALAGATSQTLIYPMEVLKTRMCLRKTGQYSSMFDCARKLYHEHGLWVFYRGYIPNLV  341
+
+Query  74233  GYSLQGLGKFGFYEIFKHTYSGMLS---EENAFLWRTSVY--LAASASAEFFADIMLCPM  74397
+              G           YE FK  Y   L+   E    L    VY  L A A +     I   P+
+Sbjct  342    GILPYAGIDLALYETFKTLYVKALNKSVEPGEKLTAPPVYVSLTAGACSSVCGQIATYPL  401
+
+Query  74398  EALKVRIQTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQIPYTMMKFACFER  74568
+                +K ++Q       +L+    +++  EG+ G Y+G+     + IP   + +AC+E+
+Sbjct  402    ALVKTKLQAETEKI-SLKHLIQRIIKQEGMMGLYRGMGANMLKVIPAVSISYACYEK  457
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.0
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 502,387
+  Number of sequences in database:  1,128
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.1
+           1,127 sequences; 483,799 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0001090401-mRNA-1 transcript=HDID_0001090401-mRNA-1 gene=H...  56.6    1e-16
+  HDID_0000592401-mRNA-1 transcript=HDID_0000592401-mRNA-1 gene=H...  79.7    6e-16
+  HDID_0000490401-mRNA-1 transcript=HDID_0000490401-mRNA-1 gene=H...  71.2    2e-13
+  HDID_0000715401-mRNA-1 transcript=HDID_0000715401-mRNA-1 gene=H...  44.3    2e-08
+  HDID_0001057401-mRNA-1 transcript=HDID_0001057401-mRNA-1 gene=H...  50.8    3e-07
+
+
+> HDID_0001090401-mRNA-1 transcript=HDID_0001090401-mRNA-1 gene=HDID_0001090401
+Length=498
+
+ Score = 56.6 bits (135),  Expect(2) = 1e-16, Method: Compositional matrix adjust.
+ Identities = 33/72 (46%), Positives = 39/72 (54%), Gaps = 16/72 (22%)
+ Frame = -3
+
+Query  4317  YRDYTDRLDGIIQVTHVATSVRRWQRSQSPFY*LVTYVYIQNISLLDVCHVSSLVS*CDD  4138
+             YRD+ DR+DG  QVTHV  SVR W  S                 +++V HV S VS  DD
+Sbjct  49    YRDHIDRIDGTSQVTHVVGSVRWWHPSL----------------VINVSHVLSSVSRRDD  92
+
+Query  4137  RHLFRYQCTNTQ  4102
+             RH F+Y C NTQ
+Sbjct  93    RHPFKYLCANTQ  104
+
+
+ Score = 45.4 bits (106),  Expect(2) = 1e-16, Method: Compositional matrix adjust.
+ Identities = 20/27 (74%), Positives = 21/27 (78%), Gaps = 0/27 (0%)
+ Frame = -1
+
+Query  4118  NVQTHSGTACGHCSGDFVASQSFLIAR  4038
+             N QTHSG A GHC GD +ASQS LIAR
+Sbjct  102   NTQTHSGNARGHCGGDLIASQSLLIAR  128
+
+
+> HDID_0000592401-mRNA-1 transcript=HDID_0000592401-mRNA-1 gene=HDID_0000592401
+Length=194
+
+ Score = 79.7 bits (195),  Expect = 6e-16, Method: Compositional matrix adjust.
+ Identities = 45/71 (63%), Positives = 52/71 (73%), Gaps = 3/71 (4%)
+ Frame = +1
+
+Query  418  fpfvspDNVHTSNTRAQSSSKDAVQPSTPSLQDT---V*PTTPSSCMSRSELSRTGCGRR  588
+            F FVS DNVH+ +TRA+SSSKD +QPSTPS+Q +   +  TTP S  SR ELS T  GRR
+Sbjct  123  FSFVSSDNVHSPSTRAESSSKDTIQPSTPSVQSSLQDLKSTTPPSYTSRIELSLTHYGRR  182
+
+Query  589  VNFPSRLADYV  621
+            VNFP RL DYV
+Sbjct  183  VNFPFRLPDYV  193
+
+
+> HDID_0000490401-mRNA-1 transcript=HDID_0000490401-mRNA-1 gene=HDID_0000490401
+Length=228
+
+ Score = 71.2 bits (173),  Expect = 2e-13, Method: Compositional matrix adjust.
+ Identities = 32/47 (68%), Positives = 39/47 (83%), Gaps = 0/47 (0%)
+ Frame = +3
+
+Query  49113  ILTGEDWNTIMYNGIRSQGGLSKGAFIYSIYFVLLMIFGNCILFHLF  49253
+              ILTGEDWN++MYNGIRSQGG + G FIY IYFVLL++ GN  L ++F
+Sbjct  7      ILTGEDWNSVMYNGIRSQGGTNGGGFIYCIYFVLLVLIGNYTLLNVF  53
+
+
+> HDID_0000715401-mRNA-1 transcript=HDID_0000715401-mRNA-1 gene=HDID_0000715401
+Length=69
+
+ Score = 44.3 bits (103),  Expect(2) = 2e-08, Method: Compositional matrix adjust.
+ Identities = 27/44 (61%), Positives = 29/44 (66%), Gaps = 4/44 (9%)
+ Frame = +1
+
+Query  472  SSKDAVQPSTPSLQ----DTV*PTTPSSCMSRSELSRTGCGRRV  591
+            SSKDA+QPSTPS Q    D V  TTP S MSRSELSRT     +
+Sbjct  14   SSKDAIQPSTPSRQSSPQDAVQSTTPPSWMSRSELSRTRASEEL  57
+
+
+ Score = 29.6 bits (65),  Expect(2) = 2e-08, Method: Compositional matrix adjust.
+ Identities = 12/14 (86%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  578  AAEELTFLLDWPIM  619
+            A+EELT LLDWPIM
+Sbjct  53   ASEELTSLLDWPIM  66
+
+
+> HDID_0001057401-mRNA-1 transcript=HDID_0001057401-mRNA-1 gene=HDID_0001057401
+Length=401
+
+ Score = 50.8 bits (120),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 27/65 (42%), Positives = 37/65 (57%), Gaps = 2/65 (3%)
+ Frame = +2
+
+Query  127538  NCTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNA-PFCETCFNKSYR  127714
+               +C  C +PIG    V AL   +HPGCFVC  C+ +L  K F+ +++  P C   F+K Y 
+Sbjct  281     SCVNCGRPIGE-RIVRALGAPYHPGCFVCSVCHTHLDAKPFTVDVHGRPLCLEDFHKRYA  339
+
+Query  127715  PNCKV  127729
+               P C V
+Sbjct  340     PRCAV  344
+
+
+ Score = 50.1 bits (118),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 25/67 (37%), Positives = 36/67 (54%), Gaps = 1/67 (1%)
+ Frame = -1
+
+Query  91904  vekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFH-NKDGAPYCIKCRQEKF  91728
+              VE C  C + I   IV A+   +H  CFVC+ CH  L  + F  +  G P C++   +++
+Sbjct  279    VESCVNCGRPIGERIVRALGAPYHPGCFVCSVCHTHLDAKPFTVDVHGRPLCLEDFHKRY  338
+
+Query  91727  DPTCAVC  91707
+               P CAVC
+Sbjct  339    APRCAVC  345
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.1
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 483,799
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.2
+           1,127 sequences; 470,091 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000746501-mRNA-1 transcript=HDID_0000746501-mRNA-1 gene=H...   119    7e-28
+  HDID_0000827501-mRNA-1 transcript=HDID_0000827501-mRNA-1 gene=H...  74.7    4e-26
+  HDID_0001011501-mRNA-1 transcript=HDID_0001011501-mRNA-1 gene=H...  63.2    5e-11
+  HDID_0000416501-mRNA-1 transcript=HDID_0000416501-mRNA-1 gene=H...  60.8    3e-10
+
+
+> HDID_0000746501-mRNA-1 transcript=HDID_0000746501-mRNA-1 gene=HDID_0000746501
+Length=139
+
+ Score =  119 bits (298),  Expect = 7e-28, Method: Compositional matrix adjust.
+ Identities = 53/54 (98%), Positives = 54/54 (100%), Gaps = 0/54 (0%)
+ Frame = +1
+
+Query  11305  knfisLTGKIFHFCCLLYAIRISGFVYNCCKLCVPCYGSSSPQQRPTTDFNPHS  11466
+              KNFISLTGKIFHFCCLLYAIRISGFVYNCCKLCVPCYGSSSPQQRPTTDFNPH+
+Sbjct  74     KNFISLTGKIFHFCCLLYAIRISGFVYNCCKLCVPCYGSSSPQQRPTTDFNPHN  127
+
+
+ Score = 53.5 bits (127),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 23/23 (100%), Positives = 23/23 (100%), Gaps = 0/23 (0%)
+ Frame = +2
+
+Query  8534  MDLGGGSDRATNVAFQTIQRLHQ  8602
+             MDLGGGSDRATNVAFQTIQRLHQ
+Sbjct  1     MDLGGGSDRATNVAFQTIQRLHQ  23
+
+
+> HDID_0000827501-mRNA-1 transcript=HDID_0000827501-mRNA-1 gene=HDID_0000827501
+Length=120
+
+ Score = 74.7 bits (182),  Expect(2) = 4e-26, Method: Compositional matrix adjust.
+ Identities = 36/64 (56%), Positives = 43/64 (67%), Gaps = 1/64 (2%)
+ Frame = -1
+
+Query  91895  cakckKDID-GTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFDPT  91719
+              CAKC K    G+I+ A+ K+WH ECFVC GC   LA QSFH KD  PYC+ C +EKF P 
+Sbjct  6      CAKCAKPFTAGSILNALEKRWHPECFVCAGCKRQLANQSFHCKDEVPYCVNCWKEKFQPR  65
+
+Query  91718  CAVC  91707
+              C+ C
+Sbjct  66     CSSC  69
+
+
+ Score = 59.3 bits (142),  Expect(2) = 4e-26, Method: Compositional matrix adjust.
+ Identities = 24/50 (48%), Positives = 35/50 (70%), Gaps = 0/50 (0%)
+ Frame = -3
+
+Query  91629  CGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAH  91480
+              CG  IDP+ +Y +Y DK+YH+ CF CS+C  P++ K+F I +G+Y C  H
+Sbjct  69     CGVIIDPSEQYVLYDDKAYHKGCFRCSQCQTPLNGKQFCIVNGQYLCPEH  118
+
+
+ Score = 64.3 bits (155),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 36/91 (40%), Positives = 48/91 (53%), Gaps = 2/91 (2%)
+ Frame = -2
+
+Query  107491  CSKCFKDIT-GQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKFDPT  107315
+               C+KC K  T G ++ AL K+WH ECF CAGC   L  + F  KD   YC+ C KEKF P 
+Sbjct  6       CAKCAKPFTAGSILNALEKRWHPECFVCAGCKRQLANQSFHCKDEVPYCVNCWKEKFQPR  65
+
+Query  107314  CAVSKIFI-ASYHYLICFSSLLRILCFSLAE  107225
+               C+   + I  S  Y++         CF  ++
+Sbjct  66      CSSCGVIIDPSEQYVLYDDKAYHKGCFRCSQ  96
+
+
+ Score = 59.7 bits (143),  Expect = 6e-10, Method: Compositional matrix adjust.
+ Identities = 27/74 (36%), Positives = 42/74 (57%), Gaps = 3/74 (4%)
+ Frame = +2
+
+Query  127541  CTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSYRP-  127717
+               C KC +P  +   + AL KRWHP CFVC GC   L +++F      P+C  C+ + ++P 
+Sbjct  6       CAKCAKPFTAGSILNALEKRWHPECFVCAGCKRQLANQSFHCKDEVPYCVNCWKEKFQPR  65
+
+Query  127718  --NCKVTLHPHERW  127753
+                 +C V + P E++
+Sbjct  66      CSSCGVIIDPSEQY  79
+
+
+ Score = 55.5 bits (132),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 22/51 (43%), Positives = 34/51 (67%), Gaps = 0/51 (0%)
+ Frame = -3
+
+Query  107226  KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH  107074
+                C   IDP+ +Y +Y DK +H+ CF C+QC+ PL+GK+F   +G ++C  H
+Sbjct  68      SCGVIIDPSEQYVLYDDKAYHKGCFRCSQCQTPLNGKQFCIVNGQYLCPEH  118
+
+
+> HDID_0001011501-mRNA-1 transcript=HDID_0001011501-mRNA-1 gene=HDID_0001011501
+Length=67
+
+ Score = 63.2 bits (152),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 39/64 (61%), Positives = 43/64 (67%), Gaps = 4/64 (6%)
+ Frame = +2
+
+Query  440  MYTHPTPVLSPLLKMLYNLPLP----HSKTLFNLPPHLLACLDPNSLALVAAEELTFLLD  607
+            MYTH   VL+P  K+L  L +P    HSKT  NLP HL ACLDPNS+A  A EEL FL D
+Sbjct  1    MYTHAILVLNPPPKILCYLSIPQSSPHSKTPLNLPSHLPACLDPNSVAPAAVEELMFLPD  60
+
+Query  608  WPIM  619
+            WPIM
+Sbjct  61   WPIM  64
+
+
+> HDID_0000416501-mRNA-1 transcript=HDID_0000416501-mRNA-1 gene=HDID_0000416501
+Length=78
+
+ Score = 60.8 bits (146),  Expect = 3e-10, Method: Compositional matrix adjust.
+ Identities = 36/65 (55%), Positives = 38/65 (58%), Gaps = 11/65 (17%)
+ Frame = +1
+
+Query  424  fvspDNVHTSNTRAQSSSKDAVQPSTPSLQDTV*PTTPSSCMSRSELSRTGCGRRVNFPS  603
+             V PDNV    +  QSS+           QDTV  TTP SC SR ELSRT CGRRV  PS
+Sbjct  23   IVFPDNVQPPASPVQSSA-----------QDTVKSTTPPSCTSRPELSRTRCGRRVTLPS  71
+
+Query  604  RLADY  618
+            RLADY
+Sbjct  72   RLADY  76
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.2
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 470,091
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.3
+           1,127 sequences; 504,709 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000746601-mRNA-1 transcript=HDID_0000746601-mRNA-1 gene=H...   409    0.0  
+  HDID_0001001601-mRNA-1 transcript=HDID_0001001601-mRNA-1 gene=H...  91.7    3e-24
+  HDID_0000987601-mRNA-1 transcript=HDID_0000987601-mRNA-1 gene=H...  89.7    5e-19
+  HDID_0000878601-mRNA-1 transcript=HDID_0000878601-mRNA-1 gene=H...  85.9    8e-18
+  HDID_0000683601-mRNA-1 transcript=HDID_0000683601-mRNA-1 gene=H...  47.4    3e-09
+  HDID_0000277601-mRNA-1 transcript=HDID_0000277601-mRNA-1 gene=H...  54.7    2e-08
+  HDID_0000016301-mRNA-1 transcript=HDID_0000016301-mRNA-1 gene=H...  53.1    5e-08
+  HDID_0000502601-mRNA-1 transcript=HDID_0000502601-mRNA-1 gene=H...  52.8    7e-08
+  HDID_0000057301-mRNA-1 transcript=HDID_0000057301-mRNA-1 gene=H...  50.4    4e-07
+
+
+> HDID_0000746601-mRNA-1 transcript=HDID_0000746601-mRNA-1 gene=HDID_0000746601
+Length=1830
+
+ Score =  409 bits (1050),  Expect(3) = 0.0, Method: Compositional matrix adjust.
+ Identities = 232/385 (60%), Positives = 238/385 (62%), Gaps = 125/385 (32%)
+ Frame = +3
+
+Query  69645  GRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYRVSSSICTAEMYQQAFQLHI*VLCLQKLI  69824
+              GRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYR                         KLI
+Sbjct  1338   GRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYR-------------------------KLI  1372
+
+Query  69825  RMNMPVDDTDCVRFNTTLFALIRESLGIKMGPASVMDIKDAELRDTIKEMWPLQAKKMLN  70004
+              RMNMPVDDTDCVRFNTTLFALIRESLGIKMGPASVMDIKDAELRDTIKEMWPLQAKKMLN
+Sbjct  1373   RMNMPVDDTDCVRFNTTLFALIRESLGIKMGPASVMDIKDAELRDTIKEMWPLQAKKMLN  1432
+
+Query  70005  LLVPNDEG*HECLFIINLSEPTNLMVSFDSELTCGKMTTGKIYAGLLIYEAWLANGKLNK  70184
+              LLVPNDE                       ELTCGKMTTGKIYAGLLIYEAWLANGKLNK
+Sbjct  1433   LLVPNDE-----------------------ELTCGKMTTGKIYAGLLIYEAWLANGKLNK  1469
+
+Query  70185  CECSVS*ILHIKGYVSMQKIYILHKFQIFDENYKKSDVDNKR*VNSllyialiqilklik  70364
+              CECS                       IFDENYKKSDVDNK   NS   I  I+   +  
+Sbjct  1470   CECS-----------------------IFDENYKKSDVDNKS--NSPREINSIRPTLIAP  1504
+
+Query  70365  iSFYCV*L**LAKGDKFnssntncsstnsEYFN*LVslssklskykysfflksTNAEHER  70544
+                                      +STN+E                           HER
+Sbjct  1505   ----------------------QPTSTNAE---------------------------HER  1515
+
+Query  70545  GHFNFDDVEQNADHEGRLTVPEVLTNSQVFIGSNHSPPSCDLRPPAPKGLVPPtsgtnet  70724
+              GHFNFDDVEQNADHEGRLTVPEVLTNSQVFIGSNHSPPSCDLRPPAPKGLVPPTSGTNET
+Sbjct  1516   GHFNFDDVEQNADHEGRLTVPEVLTNSQVFIGSNHSPPSCDLRPPAPKGLVPPTSGTNET  1575
+
+Query  70725  stggsslppspFLDFASAVTSLMQQ  70799
+              STGG S   S  +D+ S V    QQ
+Sbjct  1576   STGGRS---SNEVDWKSIVAYRAQQ  1597
+
+
+ Score =  249 bits (637),  Expect(3) = 0.0, Method: Composition-based stats.
+ Identities = 112/112 (100%), Positives = 112/112 (100%), Gaps = 0/112 (0%)
+ Frame = +2
+
+Query  69242  RCSTGESWQELMLSCDFPQRCAVMTGTNAKYEEDgsgvsgggsllggYNCGSAGTYLYFV  69421
+              RCSTGESWQELMLSCDFPQRCAVMTGTNAKYEEDGSGVSGGGSLLGGYNCGSAGTYLYFV
+Sbjct  1226   RCSTGESWQELMLSCDFPQRCAVMTGTNAKYEEDGSGVSGGGSLLGGYNCGSAGTYLYFV  1285
+
+Query  69422  SFIFLCTFLMLNLFVAVIMDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAAT  69577
+              SFIFLCTFLMLNLFVAVIMDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAAT
+Sbjct  1286   SFIFLCTFLMLNLFVAVIMDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAAT  1337
+
+
+ Score = 70.9 bits (172),  Expect(3) = 0.0, Method: Composition-based stats.
+ Identities = 34/41 (83%), Positives = 35/41 (85%), Gaps = 0/41 (0%)
+ Frame = +1
+
+Query  69046  FVSQATFFQVFGTIAVDDPTSQITVQTNFRTFGNALLLLFR  69168
+              F+      QVFGTIAVDDPTSQITVQTNFRTFGNALLLLFR
+Sbjct  1186   FIYAIVGMQVFGTIAVDDPTSQITVQTNFRTFGNALLLLFR  1226
+
+
+ Score =  209 bits (533),  Expect(3) = 4e-128, Method: Compositional matrix adjust.
+ Identities = 122/146 (84%), Positives = 122/146 (84%), Gaps = 24/146 (16%)
+ Frame = +2
+
+Query  64076  IMKNSIDATEVNRGPKTDYRQHvaifyvvffivfpfffvnifvALIIITFKEQGENELVD  64255
+              IMKNSIDATEVNRGPKTDYRQHVAIFYVVFFIVFPFFFVNIFVALIIITFKEQGENELVD
+Sbjct  930    IMKNSIDATEVNRGPKTDYRQHVAIFYVVFFIVFPFFFVNIFVALIIITFKEQGENELVD  989
+
+Query  64256  HELDKNQV*LWQSLTPSGLFKRLFIDDVDL*KQCIDFAIHARPLCRYMPEDPKSLKYRIW  64435
+              HELDKNQ                        KQCIDFAIHARPLCRYMPEDPKSLKYRIW
+Sbjct  990    HELDKNQ------------------------KQCIDFAIHARPLCRYMPEDPKSLKYRIW  1025
+
+Query  64436  QLVVSGPFEYFIMTMIALNTLILMMK  64513
+              QLVVSGPFEYFIMTMIALNTLILMMK
+Sbjct  1026   QLVVSGPFEYFIMTMIALNTLILMMK  1051
+
+
+ Score =  172 bits (437),  Expect(3) = 4e-128, Method: Compositional matrix adjust.
+ Identities = 91/115 (79%), Positives = 91/115 (79%), Gaps = 24/115 (21%)
+ Frame = +2
+
+Query  64790  NYFRDRWNIFDFITVIGSITDVLVTSSQVSITYL*LISSNDKFSYARSLLFKDTSflnlg  64969
+              NYFRDRWNIFDFITVIGSITDVLVTSSQ                        DTSFLNLG
+Sbjct  1105   NYFRDRWNIFDFITVIGSITDVLVTSSQ------------------------DTSFLNLG  1140
+
+Query  64970  flrlfraarlVKMLRQGYTIRILLWTFIQSFKALPYVCLLIAMLFFIYAIVGMQV  65134
+              FLRLFRAARLVKMLRQGYTIRILLWTFIQSFKALPYVCLLIAMLFFIYAIVGMQV
+Sbjct  1141   FLRLFRAARLVKMLRQGYTIRILLWTFIQSFKALPYVCLLIAMLFFIYAIVGMQV  1195
+
+
+ Score =  114 bits (285),  Expect(3) = 4e-128, Method: Compositional matrix adjust.
+ Identities = 53/58 (91%), Positives = 55/58 (95%), Gaps = 0/58 (0%)
+ Frame = +3
+
+Query  64572  LFFCQYHRPENSLLSTLEADDNTKAYESYCASLMYLNTAFTGMFTIECLLKILAFGPR  64745
+              +   +YHRPENSLLSTLEADDNTKAYESYCASLMYLNTAFTGMFTIECLLKILAFGPR
+Sbjct  1047   ILMMKYHRPENSLLSTLEADDNTKAYESYCASLMYLNTAFTGMFTIECLLKILAFGPR  1104
+
+
+ Score =  415 bits (1066),  Expect = 5e-117, Method: Compositional matrix adjust.
+ Identities = 201/253 (79%), Positives = 201/253 (79%), Gaps = 0/253 (0%)
+ Frame = +1
+
+Query  71827  SGRSSNEVDWKSIVAYRAQQGIRNRSRSRFLAAATANIATRNLAKAAHRPSYRYFGGNPH  72006
+               GRSSNEVDWKSIVAYRAQQGIRNRSRSRFLAAATANIATRNLAKAAHRPSYRYFGGNPH
+Sbjct  1578   GGRSSNEVDWKSIVAYRAQQGIRNRSRSRFLAAATANIATRNLAKAAHRPSYRYFGGNPH  1637
+
+Query  72007  HQITNNPITDSVPTLSVGEVVSIDTTEHQKPQHETSQHPPHHPPRLTKPISQWVHNPPLD  72186
+              HQITNNPITDSVPTLSVGEVVSIDTTEHQKPQHETSQHPPHHPPRLTKPISQWVHNPPLD
+Sbjct  1638   HQITNNPITDSVPTLSVGEVVSIDTTEHQKPQHETSQHPPHHPPRLTKPISQWVHNPPLD  1697
+
+Query  72187  PAREDWYNRWNKTNEWNEQSPSPIAHDFGRHTCSPSYXXXXXXXXXXXXXXXXXXXXXXX  72366
+              PAREDWYNRWNKTNEWNEQSPSPIAHDFGRHTCSPSY                       
+Sbjct  1698   PAREDWYNRWNKTNEWNEQSPSPIAHDFGRHTCSPSYREKSNSPMESPLPMRYSLRMRKI  1757
+
+Query  72367  XXXXXXXXXXXXXXXXXXXXXXXXXXXXPHAVRQNGLDYRIPTNLSANESAPRQWLPDIG  72546
+                                          PHAVRQNGLDYRIPTNLSANESAPRQWLPDIG
+Sbjct  1758   NFPSLMPSPTAELSQADLHFSGARYRNWPHAVRQNGLDYRIPTNLSANESAPRQWLPDIG  1817
+
+Query  72547  QRKRPCQRPQHFF  72585
+              QRKRPCQRPQHFF
+Sbjct  1818   QRKRPCQRPQHFF  1830
+
+
+ Score =  191 bits (486),  Expect = 9e-50, Method: Composition-based stats.
+ Identities = 87/101 (86%), Positives = 89/101 (88%), Gaps = 4/101 (4%)
+ Frame = +3
+
+Query  23880  NPQELPDSIPTVPRLVPCVITNDSHSGSKSTLPGAFVCPDGYVCKGYWEGPNFGITSFDN  24059
+              NPQELPDSIPTVPRLVPCVITNDSHSGSKSTLPGAFVCPDGYVCKGYWEGPNFGITSFDN
+Sbjct  129    NPQELPDSIPTVPRLVPCVITNDSHSGSKSTLPGAFVCPDGYVCKGYWEGPNFGITSFDN  188
+
+Query  24060  IGYSMLTVFQCITMEGWTDIMSSVRFFKCKSEINHFNLNLF  24182
+              IGYSMLTVFQCITMEGWTDIMSS  +    +  N FN   F
+Sbjct  189    IGYSMLTVFQCITMEGWTDIMSSTDY----AFGNRFNFYYF  225
+
+
+ Score =  154 bits (389),  Expect(2) = 6e-44, Method: Compositional matrix adjust.
+ Identities = 83/109 (76%), Positives = 83/109 (76%), Gaps = 26/109 (24%)
+ Frame = +3
+
+Query  60879  SKNLGTIKSLRVLRVLRPLKTIRRVPKLKVYCQDYY*LIRAENilslsali*li*aVFDC  61058
+              SKNLGTIKSLRVLRVLRPLKTIRRVPKLK                          AVFDC
+Sbjct  800    SKNLGTIKSLRVLRVLRPLKTIRRVPKLK--------------------------AVFDC  833
+
+Query  61059  VVSSLKNVFNILIVYILFQLMFGVVAVQLFQGKFFACSDLSKETREECQ  61205
+              VVSSLKNVFNILIVYILFQLMFGVVAVQLFQGKFFACSDLSKETREECQ
+Sbjct  834    VVSSLKNVFNILIVYILFQLMFGVVAVQLFQGKFFACSDLSKETREECQ  882
+
+
+ Score = 39.7 bits (91),  Expect(2) = 6e-44, Method: Composition-based stats.
+ Identities = 17/20 (85%), Positives = 19/20 (95%), Gaps = 0/20 (0%)
+ Frame = +2
+
+Query  60737  LILFFSRQADSGTGVSRKAA  60796
+              L+ FF+RQADSGTGVSRKAA
+Sbjct  780    LVAFFNRQADSGTGVSRKAA  799
+
+
+ Score =  143 bits (361),  Expect = 3e-35, Method: Compositional matrix adjust.
+ Identities = 69/83 (83%), Positives = 72/83 (87%), Gaps = 0/83 (0%)
+ Frame = +3
+
+Query  49113  ILTGEDWNTIMYNGIRSQGGLSKGAFIYSIYFVLLMIFGNCILFHLFSHKYPPEFIIFSK  49292
+              ILTGEDWNTIMYNGIRSQGGLSKGAFIYSIYFVLLMIFGNCILFHLFSHKYPPEFIIFSK
+Sbjct  499    ILTGEDWNTIMYNGIRSQGGLSKGAFIYSIYFVLLMIFGNCILFHLFSHKYPPEFIIFSK  558
+
+Query  49293  KRRDERES*TFKEFSQVGEAHFA  49361
+              KRRDERE+     F  +   + A
+Sbjct  559    KRRDERENTLLNVFLAIAVDNLA  581
+
+
+ Score =  132 bits (332),  Expect = 8e-32, Method: Compositional matrix adjust.
+ Identities = 63/65 (97%), Positives = 65/65 (100%), Gaps = 0/65 (0%)
+ Frame = +2
+
+Query  57869  IRRFCHFVVNLRYFDLFimiviasssislaaEDPVNEKNPRNIILEYFDHAFTGVFTMEM  58048
+              IRRFCHFVVNLRYFDLFIMIVIASSSISLAAEDPVNEKNPRNIILEYFDHAFTGVFTMEM
+Sbjct  688    IRRFCHFVVNLRYFDLFIMIVIASSSISLAAEDPVNEKNPRNIILEYFDHAFTGVFTMEM  747
+
+Query  58049  ILKVL  58063
+              ILK++
+Sbjct  748    ILKLI  752
+
+
+ Score =  107 bits (267),  Expect = 3e-24, Method: Compositional matrix adjust.
+ Identities = 46/51 (90%), Positives = 49/51 (96%), Gaps = 0/51 (0%)
+ Frame = +2
+
+Query  63056  QPSRGYYISYENSDLPEVRPRVWSARAFNYDNIGYAMLTLFTVTTGEGWPE  63208
+              +  +GYYISYENSDLPEVRPRVWSARAFNYDNIGYAMLTLFTVTTGEGWP+
+Sbjct  879    EECQGYYISYENSDLPEVRPRVWSARAFNYDNIGYAMLTLFTVTTGEGWPD  929
+
+
+ Score =  103 bits (257),  Expect = 4e-23, Method: Composition-based stats.
+ Identities = 50/52 (96%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+ Frame = +3
+
+Query  20262  ILGLQVVLKSLIKAMAPllqigllvlfgivvlaivglEFYGGGFHLTCFDER  20417
+              I  LQVVLKSLIKAMAPLLQIGLLVLFGIVVLAIVGLEFYGGGFHLTCFDER
+Sbjct  77     IPSLQVVLKSLIKAMAPLLQIGLLVLFGIVVLAIVGLEFYGGGFHLTCFDER  128
+
+
+ Score = 98.2 bits (243),  Expect = 1e-21, Method: Compositional matrix adjust.
+ Identities = 44/45 (98%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+ Frame = +2
+
+Query  34442  RCKCRVLIKSQAFYLIVLTVVFLNAICIAIEHYGQPDWLSNFLRK  34576
+              RCKCRVLIKSQAFYLIVLTVVFLNAICIAIEHYGQPDWLSNFLR+
+Sbjct  351    RCKCRVLIKSQAFYLIVLTVVFLNAICIAIEHYGQPDWLSNFLRR  395
+
+
+ Score = 96.7 bits (239),  Expect = 5e-21, Method: Composition-based stats.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+ Frame = +3
+
+Query  16320  LENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG  16454
+              LENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG
+Sbjct  1      LENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG  45
+
+
+ Score = 94.4 bits (233),  Expect = 2e-20, Method: Composition-based stats.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+ Frame = +3
+
+Query  42462  ILGFPEESHALSAQFNAKHRESALSSLPLHGDICSPWNAALR  42587
+              ILGFPEESHALSAQFNAKHRESALSSLPLHGDICSPWNAALR
+Sbjct  432    ILGFPEESHALSAQFNAKHRESALSSLPLHGDICSPWNAALR  473
+
+
+ Score = 87.4 bits (215),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 40/49 (82%), Positives = 43/49 (88%), Gaps = 0/49 (0%)
+ Frame = +3
+
+Query  39093  GILDYLAFVSGRICKLLRGDMADEFSGGIFWIFCSSKHPPSSNLQVYTV  39239
+              G  D+L+    RICKLLRGDMADEFSGGIFWIFCSSKHPPSSNLQVYT+
+Sbjct  384    GQPDWLSNFLRRICKLLRGDMADEFSGGIFWIFCSSKHPPSSNLQVYTI  432
+
+
+ Score = 86.7 bits (213),  Expect = 5e-18, Method: Composition-based stats.
+ Identities = 40/45 (89%), Positives = 42/45 (93%), Gaps = 0/45 (0%)
+ Frame = +2
+
+Query  30137  LLYrefakerervekrrafLKLRRQQQTERELDGYIEWIHKAGEL  30271
+              +L  EFAKERERVEKRRAFLKLRRQQQTERELDGYIEWIHKA E+
+Sbjct  243    VLSGEFAKERERVEKRRAFLKLRRQQQTERELDGYIEWIHKAEEV  287
+
+
+ Score = 81.6 bits (200),  Expect = 1e-16, Method: Composition-based stats.
+ Identities = 48/52 (92%), Positives = 49/52 (94%), Gaps = 0/52 (0%)
+ Frame = +1
+
+Query  56062  STHDEGDAGDFdsgekagggesgsdssYISRQDVGKAMLPYSSMYIFSPTNP  56217
+              + H E DAGDFDSGEKAGGGESGSDSSYISRQDVGKAMLPYSSMYIFSPTNP
+Sbjct  636    AKHYEDDAGDFDSGEKAGGGESGSDSSYISRQDVGKAMLPYSSMYIFSPTNP  687
+
+
+ Score = 79.7 bits (195),  Expect = 6e-16, Method: Compositional matrix adjust.
+ Identities = 36/44 (82%), Positives = 38/44 (86%), Gaps = 0/44 (0%)
+ Frame = +3
+
+Query  60567  lidlgvflHPHSYFRDPWNfldavvvlgalvaffk*vssslskv  60698
+              LIDLGVFLHPHSYFRDPWNFLDAVVVLGALVAFF   + S + V
+Sbjct  751    LIDLGVFLHPHSYFRDPWNFLDAVVVLGALVAFFNRQADSGTGV  794
+
+
+ Score = 77.0 bits (188),  Expect = 4e-15, Method: Composition-based stats.
+ Identities = 35/39 (90%), Positives = 37/39 (95%), Gaps = 0/39 (0%)
+ Frame = +3
+
+Query  27627  LTAQTDYAFGNRFNFYYFLTLIVLGSFFMLNlvlgvlsg  27743
+              + + TDYAFGNRFNFYYFLTLIVLGSFFMLNLVLGVLSG
+Sbjct  208    IMSSTDYAFGNRFNFYYFLTLIVLGSFFMLNLVLGVLSG  246
+
+
+ Score = 72.0 bits (175),  Expect = 1e-13, Method: Composition-based stats.
+ Identities = 34/34 (100%), Positives = 34/34 (100%), Gaps = 0/34 (0%)
+ Frame = +2
+
+Query  18299  YITVFAQTGTGIDLRTLRAVRVLRPLKLVSGIPS  18400
+              YITVFAQTGTGIDLRTLRAVRVLRPLKLVSGIPS
+Sbjct  46     YITVFAQTGTGIDLRTLRAVRVLRPLKLVSGIPS  79
+
+
+ Score = 67.4 bits (163),  Expect = 3e-12, Method: Composition-based stats.
+ Identities = 33/34 (97%), Positives = 34/34 (100%), Gaps = 0/34 (0%)
+ Frame = +2
+
+Query  52616  DTLLNVFLAIAVDNLANAQELTAVEEAEKKIAEQ  52717
+              +TLLNVFLAIAVDNLANAQELTAVEEAEKKIAEQ
+Sbjct  566    NTLLNVFLAIAVDNLANAQELTAVEEAEKKIAEQ  599
+
+
+ Score = 62.0 bits (149),  Expect = 1e-10, Method: Composition-based stats.
+ Identities = 28/28 (100%), Positives = 28/28 (100%), Gaps = 0/28 (0%)
+ Frame = +3
+
+Query  53532  kkaeelkekYYQMGLLVNEHNLTSEKDL  53615
+              KKAEELKEKYYQMGLLVNEHNLTSEKDL
+Sbjct  600    KKAEELKEKYYQMGLLVNEHNLTSEKDL  627
+
+
+ Score = 60.5 bits (145),  Expect = 4e-10, Method: Composition-based stats.
+ Identities = 34/53 (64%), Positives = 37/53 (70%), Gaps = 6/53 (11%)
+ Frame = +2
+
+Query  32792  DLNDKRRWAALRSGFCCRLLKRIR*KLNTLMFLLSAFCFMKLTVKVVVPLFLN  32950
+              DLNDKRRWAALRSGFCCRLLKRIR K   L+    AF  + LTV     +FLN
+Sbjct  328    DLNDKRRWAALRSGFCCRLLKRIRCKCRVLI-KSQAFYLIVLTV-----VFLN  374
+
+
+ Score = 52.0 bits (123),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 23/51 (45%), Positives = 32/51 (63%), Gaps = 0/51 (0%)
+ Frame = +3
+
+Query  16296  PLLFLQEFLENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVI  16448
+              P   + E+ ++ F G+FT E ILK+I LG  L P +Y R+ WN LD  VV+
+Sbjct  727    PRNIILEYFDHAFTGVFTMEMILKLIDLGVFLHPHSYFRDPWNFLDAVVVL  777
+
+
+> HDID_0001001601-mRNA-1 transcript=HDID_0001001601-mRNA-1 gene=HDID_0001001601
+Length=100
+
+ Score = 91.7 bits (226),  Expect(2) = 3e-24, Method: Compositional matrix adjust.
+ Identities = 52/72 (72%), Positives = 54/72 (75%), Gaps = 8/72 (11%)
+ Frame = +1
+
+Query  421  pfvspDNVHTSNTRAQSSSKDAVQPSTP----SLQDTV*PTTPSSCMSRSELSRTGCGRR  588
+            PFVSPDNVH+SNT A  S    +QPSTP    SLQDTV  TTP  CMSRSELSRT CGRR
+Sbjct  33   PFVSPDNVHSSNTHAHPS----IQPSTPSLQSSLQDTVQSTTPPPCMSRSELSRTRCGRR  88
+
+Query  589  VNFPSRLADYVD  624
+            VNF SRLADYV 
+Sbjct  89   VNFSSRLADYVQ  100
+
+
+ Score = 35.8 bits (81),  Expect(2) = 3e-24, Method: Compositional matrix adjust.
+ Identities = 20/30 (67%), Positives = 20/30 (67%), Gaps = 2/30 (7%)
+ Frame = +3
+
+Query  336  MkisirksssrFATNYCLQTLFLYFLNLPL  425
+            MKIS RKSSSR ATNYC   L L   N PL
+Sbjct  1    MKISTRKSSSRTATNYC--QLLLVNPNSPL  28
+
+
+> HDID_0000987601-mRNA-1 transcript=HDID_0000987601-mRNA-1 gene=HDID_0000987601
+Length=222
+
+ Score = 89.7 bits (221),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 40/56 (71%), Positives = 45/56 (80%), Gaps = 0/56 (0%)
+ Frame = +3
+
+Query  142005  TYSCIHCRAHLARHEDLISKSFQGTQGRAYLFDSVVNVTCGKPEERLLLTGKKHFA  142172
+               TYSC+HCRAHLA H DLISK+FQG+QGRAYLFD VVNV     E+RLLLTG+   A
+Sbjct  17      TYSCVHCRAHLADHNDLISKAFQGSQGRAYLFDKVVNVKSASAEDRLLLTGQHRVA  72
+
+
+ Score = 81.3 bits (199),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 35/52 (67%), Positives = 42/52 (81%), Gaps = 0/52 (0%)
+ Frame = +3
+
+Query  146484  LLGLHLVADIFCECCDTYLGWKYEEAFEPSQKYKEGKYIIELAHLIKDNGWS  146639
+               L G H VAD+ C  C++ LGWKYE AFE SQ+YKEGK+IIELAHLIK+N W+
+Sbjct  65      LTGQHRVADLHCAGCNSLLGWKYERAFEASQRYKEGKFIIELAHLIKENRWT  116
+
+
+> HDID_0000878601-mRNA-1 transcript=HDID_0000878601-mRNA-1 gene=HDID_0000878601
+Length=107
+
+ Score = 85.9 bits (211),  Expect = 8e-18, Method: Compositional matrix adjust.
+ Identities = 49/65 (75%), Positives = 51/65 (78%), Gaps = 4/65 (6%)
+ Frame = +2
+
+Query  437  IMYTHPTPVLSPLLKMLYNLPLP----HSKTLFNLPPHLLACLDPNSLALVAAEELTFLL  604
+            IMYTHP  VLSP LK+ YNLPLP    HSKTL NLPPHLLA LDPNSLAL+  EELT L 
+Sbjct  40   IMYTHPILVLSPPLKIPYNLPLPQSSPHSKTLLNLPPHLLASLDPNSLALIEVEELTSLP  99
+
+Query  605  DWPIM  619
+            DWPIM
+Sbjct  100  DWPIM  104
+
+
+> HDID_0000683601-mRNA-1 transcript=HDID_0000683601-mRNA-1 gene=HDID_0000683601
+Length=103
+
+ Score = 47.4 bits (111),  Expect(2) = 3e-09, Method: Compositional matrix adjust.
+ Identities = 26/50 (52%), Positives = 32/50 (64%), Gaps = 4/50 (8%)
+ Frame = -2
+
+Query  4180  rrlsclvvgvlv**stsV*VSMYKHTAGPPVDTVVEILSPVNHF*SLGAD  4031
+             RR  C+++G  +     + V + K TAGPPVDTVVE LS VNHF S G D
+Sbjct  43    RRSLCVMIGACL----DIYVQIDKQTAGPPVDTVVETLSSVNHFHSPGVD  88
+
+
+ Score = 29.6 bits (65),  Expect(2) = 3e-09, Method: Compositional matrix adjust.
+ Identities = 17/48 (35%), Positives = 25/48 (52%), Gaps = 3/48 (6%)
+ Frame = -3
+
+Query  4374  LQLYQSVPDYCVYVIT*KNYRDYTDRLDGIIQVTHVATSVRRWQRSQS  4231
+             + L+++   YC  V   + Y  + DR+DGI Q THV  S     R +S
+Sbjct  1     MTLFENAGPYCNNV---EVYWGHIDRIDGIGQATHVVRSTSAVSRRRS  45
+
+
+> HDID_0000277601-mRNA-1 transcript=HDID_0000277601-mRNA-1 gene=HDID_0000277601
+Length=323
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 36/134 (27%), Positives = 62/134 (46%), Gaps = 1/134 (1%)
+ Frame = +1
+
+Query  74182  KEEGLRGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEENAFLWRTSVYLAASAS  74361
+              + EG+RG  RG  P  FG S  G  +F  YE F++ Y+G          +   YL     
+Sbjct  188    QSEGIRGFYRGILPGMFGVS-SGALQFLLYEQFRNQYNGYYQRPIDTHLKAPEYLLMGII  246
+
+Query  74362  AEFFADIMLCPMEALKVRIQTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQIPYT  74541
+              ++  +  +  P + ++ R+Q      ++L      +   EGI G+YKG++P   R  P  
+Sbjct  247    SKGLSTTLTYPFQVVRTRLQEQHRTYSSLSCVLKSIWKFEGIRGYYKGLLPNVLRTAPAC  306
+
+Query  74542  MMKFACFERTVEAL  74583
+               + F  +E +++ L
+Sbjct  307    GLMFVVYENSLKYL  320
+
+
+> HDID_0000016301-mRNA-1 transcript=HDID_0000016301-mRNA-1 gene=HDID_0000016301
+Length=1784
+
+ Score = 53.1 bits (126),  Expect = 5e-08, Method: Compositional matrix adjust.
+ Identities = 29/68 (43%), Positives = 42/68 (62%), Gaps = 1/68 (1%)
+ Frame = +2
+
+Query  57869  IRRFCHFVVNLRYFDLFimiviasssislaaEDPVNEKNPR-NIILEYFDHAFTGVFTME  58045
+              +R+ C+++V  RYF+ FI ++I  SS +LA ED      PR  + L+Y D  FT +F ME
+Sbjct  1081   LRQSCYYIVENRYFESFIFLMIIISSGTLALEDKNLPSRPRLKMALDYMDKIFTFIFLME  1140
+
+Query  58046  MILKVLCF  58069
+              MILK   +
+Sbjct  1141   MILKWFAY  1148
+
+
+> HDID_0000502601-mRNA-1 transcript=HDID_0000502601-mRNA-1 gene=HDID_0000502601
+Length=293
+
+ Score = 52.8 bits (125),  Expect = 7e-08, Method: Compositional matrix adjust.
+ Identities = 23/54 (43%), Positives = 37/54 (69%), Gaps = 1/54 (2%)
+ Frame = +3
+
+Query  141999  ERTYSCIHCRAHLARHEDLISKSFQGTQGRAYLFDSVVNVTCGKPEERLLLTGK  142160
+               ER + C HC+  L   ++L+S  F G+ GRA+LF  VVNVT  + ++R+++TG+
+Sbjct  12      ERVFVC-HCQTPLTNRDELLSTRFTGSTGRAFLFHRVVNVTFSEIQDRVMITGR  64
+
+
+> HDID_0000057301-mRNA-1 transcript=HDID_0000057301-mRNA-1 gene=HDID_0000057301
+Length=295
+
+ Score = 50.4 bits (119),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 52/206 (25%), Positives = 88/206 (43%), Gaps = 17/206 (8%)
+ Frame = +1
+
+Query  74029  SPKFYALCGLGGILSCGTTHTAIVPLDLVKCRLQVDKAKYGSLTRGFRVSI----KEEGL  74196
+              +P    LCG+G  +        + P++ VK +   D+       RGF   +    KE GL
+Sbjct  96     TPARKLLCGMGAGVCEAIL--VVTPMETVKVKFINDQVSPNPHYRGFIHGVHSISKEFGL  153
+
+Query  74197  RGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEE--NAFLWR--TSVYLAASASA  74364
+               GL +G  PT F        +F   E  K  Y     +   N  + +  T ++   +  A
+Sbjct  154    SGLYKGVTPTIFKQGTNQAIRFFTMESLKEVYRKHRGDTAPNQPVPKLITGLFGIVAGVA  213
+
+Query  74365  EFFADIMLCPMEALKVRIQTMPG--FANTLREGFPKMVAAEGIAGFYKGIVPLWGRQIPY  74538
+                + +    P++ +K R+Q +    + NT  +   K++ +EG   FYKG VP  GR    
+Sbjct  214    SVYGNT---PLDVIKTRMQGLDAHRYKNTF-DCARKILRSEGPFAFYKGAVPRLGRVCLD  269
+
+Query  74539  TMMKFACFERTVEALYK-YVVPKPRS  74613
+                + F  ++  +E   K +  PKP++
+Sbjct  270    VCISFMIYDSFMEYFTKVWPSPKPKA  295
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.3
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 504,709
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.4
+           1,127 sequences; 502,378 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000746701-mRNA-1 transcript=HDID_0000746701-mRNA-1 gene=H...   509    1e-173
+  HDID_0000473701-mRNA-1 transcript=HDID_0000473701-mRNA-1 gene=H...  53.5    4e-08 
+
+
+> HDID_0000746701-mRNA-1 transcript=HDID_0000746701-mRNA-1 gene=HDID_0000746701
+Length=315
+
+ Score =  509 bits (1311),  Expect(2) = 1e-173, Method: Compositional matrix adjust.
+ Identities = 262/278 (94%), Positives = 262/278 (94%), Gaps = 16/278 (6%)
+ Frame = +1
+
+Query  73993  MSTESEFSCEFASPKFYALCGLGGILSCGTTHTAIVPLDLVKCRLQVDKAKYGSLTRGFR  74172
+              MSTESEFSCEFASPKFYALCGLGGILSCGTTHTAIVPLDLVKCRLQVDKAKYGSLTRGFR
+Sbjct  1      MSTESEFSCEFASPKFYALCGLGGILSCGTTHTAIVPLDLVKCRLQVDKAKYGSLTRGFR  60
+
+Query  74173  VSIKEEGLRGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEENAFLWRTSVYLAA  74352
+              VSIKEEGLRGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEENAFLWRTSVYLAA
+Sbjct  61     VSIKEEGLRGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEENAFLWRTSVYLAA  120
+
+Query  74353  SASAEFFADIMLCPMEALKVRIQTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQI  74532
+              SASAEFFADIMLCPMEALKVRIQTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQI
+Sbjct  121    SASAEFFADIMLCPMEALKVRIQTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQI  180
+
+Query  74533  PYTMMKFACFERTVEALYKYVVPKPRSECSKGEQLIVTFAAGYIGKIFIFVSK*LPLLFV  74712
+              PYTMMKFACFERTVEALYKYVVPKPRSECSKGEQLIVTFAAGYI                
+Sbjct  181    PYTMMKFACFERTVEALYKYVVPKPRSECSKGEQLIVTFAAGYI----------------  224
+
+Query  74713  AGIFCAIVSHPPDTIVSKLNKDPNAKLMEVARNLGLRG  74826
+              AGIFCAIVSHPPDTIVSKLNKDPNAKLMEVARNLGLRG
+Sbjct  225    AGIFCAIVSHPPDTIVSKLNKDPNAKLMEVARNLGLRG  262
+
+
+ Score =  117 bits (292),  Expect(2) = 1e-173, Method: Compositional matrix adjust.
+ Identities = 54/54 (100%), Positives = 54/54 (100%), Gaps = 0/54 (0%)
+ Frame = +2
+
+Query  74882  GMWTGLGPRIIMIGTLTALQWFIYDGFKVImrlprppppvmpESLRVKLESQQH  75043
+              GMWTGLGPRIIMIGTLTALQWFIYDGFKVIMRLPRPPPPVMPESLRVKLESQQH
+Sbjct  262    GMWTGLGPRIIMIGTLTALQWFIYDGFKVIMRLPRPPPPVMPESLRVKLESQQH  315
+
+
+> HDID_0000473701-mRNA-1 transcript=HDID_0000473701-mRNA-1 gene=HDID_0000473701
+Length=268
+
+ Score = 53.5 bits (127),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 44/169 (26%), Positives = 74/169 (44%), Gaps = 23/169 (14%)
+ Frame = +1
+
+Query  74092  AIVPLDLVKCRLQVDKAKYGSLTRGFRVSIKEEGLRGLARGWAPTFFGYSLQGLGKFGFY  74271
+              A+ PLD +K RLQ               S+K  G   L  G     FG +      F  Y
+Sbjct  23     AVYPLDTIKTRLQ-----------SMAQSVKPAGHLHLFAGLPAVLFGSAPSAALFFCAY  71
+
+Query  74272  EIFKHTYSGMLSEENAFLWRTSVYLAASASAEFFADIMLCPMEALKVRIQTMP--GFANT  74445
+              E+ K+  +     E    W +S  + A+   E  A ++  P E +K R Q  P  G A  
+Sbjct  72     EVTKNRTTS----EGILPWFSS--MMAACVGELVACVIRVPCETIKQRAQAQPHLGIAGV  125
+
+Query  74446  LREGFPKMVAAEGIAGFYKGIVPLWGRQIPYTMMKFACFERTVEALYKY  74592
+                  F   + +EG+AG Y+G +    R++P++++++  +E    ++ +Y
+Sbjct  126    ----FSDSLRSEGLAGLYRGYLSTIFRELPFSLIQYPIWEALKRSMQRY  170
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.4
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 502,378
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.5
+           1,127 sequences; 481,645 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000746801-mRNA-1 transcript=HDID_0000746801-mRNA-1 gene=H...   139    2e-59
+  HDID_0000991801-mRNA-1 transcript=HDID_0000991801-mRNA-1 gene=H...  73.6    4e-14
+  HDID_0000179501-mRNA-1 transcript=HDID_0000179501-mRNA-1 gene=H...  55.1    3e-13
+  HDID_0001065801-mRNA-1 transcript=HDID_0001065801-mRNA-1 gene=H...  51.6    2e-07
+  HDID_0000265801-mRNA-1 transcript=HDID_0000265801-mRNA-1 gene=H...  51.2    2e-07
+
+
+> HDID_0000746801-mRNA-1 transcript=HDID_0000746801-mRNA-1 gene=HDID_0000746801
+Length=118
+
+ Score =  139 bits (350),  Expect(2) = 2e-59, Method: Compositional matrix adjust.
+ Identities = 66/67 (99%), Positives = 66/67 (99%), Gaps = 0/67 (0%)
+ Frame = -1
+
+Query  91907  mvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKF  91728
+              MVEKCAKCKKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKF
+Sbjct  1      MVEKCAKCKKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKF  60
+
+Query  91727  DPTCAVC  91707
+              DPTCA C
+Sbjct  61     DPTCAKC  67
+
+
+ Score =  106 bits (264),  Expect(2) = 2e-59, Method: Compositional matrix adjust.
+ Identities = 53/53 (100%), Positives = 53/53 (100%), Gaps = 0/53 (0%)
+ Frame = -3
+
+Query  91632  KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAHKK  91474
+              KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAHKK
+Sbjct  66     KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAHKK  118
+
+
+ Score =  100 bits (248),  Expect = 4e-22, Method: Compositional matrix adjust.
+ Identities = 51/102 (50%), Positives = 64/102 (63%), Gaps = 3/102 (3%)
+ Frame = -2
+
+Query  107503  MAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKF  107324
+               M EKC+KC KDI G +V A+ KKWHNECF C GC+ PL G+ F  KDG+ YCI+CR+EKF
+Sbjct  1       MVEKCAKCKKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKF  60
+
+Query  107323  DPTCA-VSKIFIASYHYLICFSSLLRILCFSLAE--MPQEDR  107207
+               DPTCA   K    +  Y I         CF+ +E   P +D+
+Sbjct  61      DPTCAKCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDK  102
+
+
+ Score = 80.5 bits (197),  Expect = 3e-16, Method: Compositional matrix adjust.
+ Identities = 36/51 (71%), Positives = 42/51 (82%), Gaps = 0/51 (0%)
+ Frame = -3
+
+Query  107226  KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH  107074
+               KC KKIDPTIKYSIY DK++HRDCFTC++C  P+D KKFV KDG + CA H
+Sbjct  66      KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAH  116
+
+
+ Score = 50.1 bits (118),  Expect = 4e-07, Method: Composition-based stats.
+ Identities = 25/61 (41%), Positives = 35/61 (57%), Gaps = 1/61 (2%)
+ Frame = +2
+
+Query  127541  CTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSYRPN  127720
+               C KC + I     V A+NK+WH  CFVC GC+C L  ++F +   AP+C  C  + + P 
+Sbjct  5       CAKCKKDIDGT-IVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFDPT  63
+
+Query  127721  C  127723
+               C
+Sbjct  64      C  64
+
+
+> HDID_0000991801-mRNA-1 transcript=HDID_0000991801-mRNA-1 gene=HDID_0000991801
+Length=331
+
+ Score = 73.6 bits (179),  Expect = 4e-14, Method: Compositional matrix adjust.
+ Identities = 40/52 (77%), Positives = 46/52 (88%), Gaps = 0/52 (0%)
+ Frame = +3
+
+Query  20268  GLQVVLKSLIKAMAPllqigllvlfgivvlaivglEFYGGGFHLTCFDEREF  20423
+               LQ+VLKS+ +AMAPLLQIGLL+LF I + AIVGLEFY GGFH+TCFDEREF
+Sbjct  254    SLQIVLKSIFRAMAPLLQIGLLLLFAITIFAIVGLEFYSGGFHMTCFDEREF  305
+
+
+ Score = 67.4 bits (163),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 37/47 (79%), Gaps = 0/47 (0%)
+ Frame = +3
+
+Query  16314  EFLENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG  16454
+              E  E YFLGIF  EA+LKI ALGF+L  GAYLR++WN++DF VV TG
+Sbjct  151    EQTEKYFLGIFCVEALLKIAALGFVLNEGAYLRSIWNIIDFVVVATG  197
+
+
+> HDID_0000179501-mRNA-1 transcript=HDID_0000179501-mRNA-1 gene=HDID_0000179501
+Length=530
+
+ Score = 55.1 bits (131),  Expect(2) = 3e-13, Method: Compositional matrix adjust.
+ Identities = 28/70 (40%), Positives = 36/70 (51%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQ  91737
+              ++K  ++C+KC + I    VT     WH ECF CT C   LAG  F +KD  PYC  C  
+Sbjct  408    EQKYAQRCSKCSEVIRRGGVTYKGNPWHKECFTCTSCGKQLAGLKFTSKDEQPYCADCFG  467
+
+Query  91736  EKFDPTCAVC  91707
+              + F   C  C
+Sbjct  468    DLFAKKCTKC  477
+
+
+ Score = 35.4 bits (80),  Expect(2) = 3e-13, Method: Compositional matrix adjust.
+ Identities = 16/51 (31%), Positives = 29/51 (57%), Gaps = 2/51 (4%)
+ Frame = -3
+
+Query  91632  KCGKKIDP--TIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCA  91486
+              KCGK I      K+  ++D+ +H +CF CS+CN  +  + F+  + +  C+
+Sbjct  476    KCGKPITGFGGCKFISFEDRHWHSECFACSKCNTNLVGRGFLTNEDQIMCS  526
+
+
+ Score = 45.4 bits (106),  Expect(2) = 2e-10, Method: Compositional matrix adjust.
+ Identities = 23/72 (32%), Positives = 35/72 (49%), Gaps = 2/72 (3%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDI--DGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKC  91743
+              + K    C +CK+ I  D   ++   + WH +CF C+ C+  LA + F  KD   +C  C
+Sbjct  286    EAKFANTCEQCKEKIGCDSKDLSFKERHWHEKCFKCSACNTSLADRPFATKDDQLFCSDC  345
+
+Query  91742  RQEKFDPTCAVC  91707
+                E+F   C  C
+Sbjct  346    YDERFAARCDGC  357
+
+
+ Score = 35.8 bits (81),  Expect(2) = 2e-10, Method: Compositional matrix adjust.
+ Identities = 12/35 (34%), Positives = 21/35 (60%), Gaps = 0/35 (0%)
+ Frame = -3
+
+Query  91590  YQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCA  91486
+              Y+ + +H +CF C EC +PI  K F+ ++ +  C 
+Sbjct  370    YRGQQWHEECFVCVECKQPIGAKSFIPRENQVVCV  404
+
+
+ Score = 43.1 bits (100),  Expect(2) = 9e-10, Method: Compositional matrix adjust.
+ Identities = 26/83 (31%), Positives = 38/83 (46%), Gaps = 6/83 (7%)
+ Frame = -2
+
+Query  107506  KMAEKCSKCFKDI--TGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRK  107333
+               K A  C +C + I    + +    + WH +CF C+ CNT L  + F  KD   +C +C  
+Sbjct  288     KFANTCEQCKEKIGCDSKDLSFKERHWHEKCFKCSACNTSLADRPFATKDDQLFCSDCYD  347
+
+Query  107332  EKFDPTC----AVSKIFIASYHY  107276
+               E+F   C     V K  +  Y Y
+Sbjct  348     ERFAARCDGCQGVFKAGMRKYEY  370
+
+
+ Score = 35.4 bits (80),  Expect(2) = 9e-10, Method: Compositional matrix adjust.
+ Identities = 12/34 (35%), Positives = 20/34 (59%), Gaps = 0/34 (0%)
+ Frame = -3
+
+Query  107184  YHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVC  107083
+               Y  + +H +CF C +CK P+  K F+ ++   VC
+Sbjct  370     YRGQQWHEECFVCVECKQPIGAKSFIPRENQVVC  403
+
+
+ Score = 43.5 bits (101),  Expect(2) = 4e-09, Method: Compositional matrix adjust.
+ Identities = 22/76 (29%), Positives = 36/76 (47%), Gaps = 10/76 (13%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTIVTAMNK------KWHNECFVCTGCHCPLAGQSFHNKDGAPY  91755
+              D++   +C  C+    G     M K      +WH ECFVC  C  P+  +SF  ++    
+Sbjct  347    DERFAARCDGCQ----GVFKAGMRKYEYRGQQWHEECFVCVECKQPIGAKSFIPRENQVV  402
+
+Query  91754  CIKCRQEKFDPTCAVC  91707
+              C+ C ++K+   C+ C
+Sbjct  403    CVPCYEQKYAQRCSKC  418
+
+
+ Score = 33.1 bits (74),  Expect(2) = 4e-09, Method: Compositional matrix adjust.
+ Identities = 14/36 (39%), Positives = 21/36 (58%), Gaps = 0/36 (0%)
+ Frame = -3
+
+Query  91593  IYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCA  91486
+               Y+   +H++CFTC+ C K +   KF  KD +  CA
+Sbjct  428    TYKGNPWHKECFTCTSCGKQLAGLKFTSKDEQPYCA  463
+
+
+ Score = 40.4 bits (93),  Expect(2) = 6e-09, Method: Compositional matrix adjust.
+ Identities = 18/51 (35%), Positives = 27/51 (53%), Gaps = 0/51 (0%)
+ Frame = -1
+
+Query  91859  VTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFDPTCAVC  91707
+              + AM+++ H   F C  C   L GQ +  +D  P+C+ C + KF  TC  C
+Sbjct  246    IRAMDQEHHTGHFACRSCDVSLTGQRYILRDEEPHCLACYEAKFANTCEQC  296
+
+
+ Score = 35.0 bits (79),  Expect(2) = 6e-09, Method: Compositional matrix adjust.
+ Identities = 16/49 (33%), Positives = 27/49 (55%), Gaps = 0/49 (0%)
+ Frame = -3
+
+Query  91632  KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCA  91486
+              +C +KI    K   ++++ +H  CF CS CN  + D+ F  KD +  C+
+Sbjct  295    QCKEKIGCDSKDLSFKERHWHEKCFKCSACNTSLADRPFATKDDQLFCS  343
+
+
+ Score = 41.6 bits (96),  Expect(2) = 1e-08, Method: Compositional matrix adjust.
+ Identities = 15/45 (33%), Positives = 25/45 (56%), Gaps = 0/45 (0%)
+ Frame = -2
+
+Query  107443  GKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKFDPTCA  107309
+               G++WH ECF C  C  P+  K F  ++    C+ C ++K+   C+
+Sbjct  372     GQQWHEECFVCVECKQPIGAKSFIPRENQVVCVPCYEQKYAQRCS  416
+
+
+ Score = 33.1 bits (74),  Expect(2) = 1e-08, Method: Compositional matrix adjust.
+ Identities = 18/52 (35%), Positives = 27/52 (52%), Gaps = 1/52 (2%)
+ Frame = -3
+
+Query  107232  SQKCHKKIDPTIKYSI-YHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCA  107080
+               +Q+C K  +   +  + Y    +H++CFTC  C   L G KF +KD    CA
+Sbjct  412     AQRCSKCSEVIRRGGVTYKGNPWHKECFTCTSCGKQLAGLKFTSKDEQPYCA  463
+
+
+ Score = 50.1 bits (118),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 26/66 (39%), Positives = 32/66 (48%), Gaps = 0/66 (0%)
+ Frame = -2
+
+Query  107506  KMAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEK  107327
+               K A++CSKC + I    V   G  WH ECF C  C   L G +F  KD   YC +C  + 
+Sbjct  410     KYAQRCSKCSEVIRRGGVTYKGNPWHKECFTCTSCGKQLAGLKFTSKDEQPYCADCFGDL  469
+
+Query  107326  FDPTCA  107309
+               F   C 
+Sbjct  470     FAKKCT  475
+
+
+> HDID_0001065801-mRNA-1 transcript=HDID_0001065801-mRNA-1 gene=HDID_0001065801
+Length=321
+
+ Score = 51.6 bits (122),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 41/126 (33%), Positives = 61/126 (48%), Gaps = 12/126 (10%)
+ Frame = +3
+
+Query  69828  MNMPVDDTDCVRFNTTLFALIRESLGIKM----GPASVMDIKDAELRDTIKEMWPLQAKK  69995
+              MNMP+     V FN TLFAL+R +L IK+         +D  + ELR  IK++W   + K
+Sbjct  1      MNMPLQSDGTVFFNATLFALVRRNLRIKVPEDDEKEKSLDQLNEELRTVIKKIWKRTSPK  60
+
+Query  69996  MLNLLVPNDEG*HECLFIINLSEPTNLMVSFD---SELTCGKMTTGKIYAGLLIYEAWLA  70166
+              +L+ ++P        L +  L E   ++ +     SEL    +T GK YA  LI + W  
+Sbjct  61     LLDQILPPKG--KNRLLMRYLKESWFMLANLSMLLSELDV--VTVGKFYATFLI-QNWFR  115
+
+Query  70167  NGKLNK  70184
+                +  K
+Sbjct  116    EWQKRK  121
+
+
+> HDID_0000265801-mRNA-1 transcript=HDID_0000265801-mRNA-1 gene=HDID_0000265801
+Length=127
+
+ Score = 51.2 bits (121),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 26/53 (49%), Positives = 38/53 (72%), Gaps = 0/53 (0%)
+ Frame = +1
+
+Query  47560  EKLNEKQLKGVQNTARRIFLGLFSKRQMSAKILRENLTEGNFPMQirr*rlnl  47718
+              EK+ +K++K VQN A+RI LGL S+RQMSA++L E +   NF  Q+++  LN 
+Sbjct  33     EKVYDKKVKTVQNAAQRIMLGLHSRRQMSAQVLAEEVHLRNFSAQLQKRGLNF  85
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.5
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 481,645
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.6
+           1,127 sequences; 483,111 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000746901-mRNA-1 transcript=HDID_0000746901-mRNA-1 gene=H...  98.6    2e-38
+  HDID_0000865901-mRNA-1 transcript=HDID_0000865901-mRNA-1 gene=H...  54.3    2e-08
+
+
+> HDID_0000746901-mRNA-1 transcript=HDID_0000746901-mRNA-1 gene=HDID_0000746901
+Length=116
+
+ Score = 98.6 bits (244),  Expect(2) = 2e-38, Method: Compositional matrix adjust.
+ Identities = 44/68 (65%), Positives = 53/68 (78%), Gaps = 0/68 (0%)
+ Frame = -1
+
+Query  91907  mvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKF  91728
+              M EKC+KC KDI G +V A+ KKWHNECF C GC+ PL G+ F  KDG+ YCI+CR+EKF
+Sbjct  1      MAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKF  60
+
+Query  91727  DPTCAVCY  91704
+              DPTCA C+
+Sbjct  61     DPTCAKCH  68
+
+
+ Score = 76.6 bits (187),  Expect(2) = 2e-38, Method: Compositional matrix adjust.
+ Identities = 36/51 (71%), Positives = 42/51 (82%), Gaps = 0/51 (0%)
+ Frame = -3
+
+Query  91632  KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAH  91480
+              KC KKIDPTIKYSIY DK++HRDCFTC++C  P+D KKFV KDG + CA H
+Sbjct  66     KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH  116
+
+
+ Score =  140 bits (352),  Expect = 3e-34, Method: Compositional matrix adjust.
+ Identities = 71/94 (76%), Positives = 74/94 (79%), Gaps = 1/94 (1%)
+ Frame = -2
+
+Query  107503  MAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKF  107324
+               MAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKF
+Sbjct  1       MAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKF  60
+
+Query  107323  DPTCA-VSKIFIASYHYLICFSSLLRILCFSLAE  107225
+               DPTCA   K    +  Y I         CF+ A+
+Sbjct  61      DPTCAKCHKKIDPTIKYSIYHDKTFHRDCFTCAQ  94
+
+
+ Score =  106 bits (264),  Expect = 5e-24, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+ Frame = -3
+
+Query  107226  KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH  107074
+               KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH
+Sbjct  66      KCHKKIDPTIKYSIYHDKTFHRDCFTCAQCKIPLDGKKFVNKDGVFVCAHH  116
+
+
+> HDID_0000865901-mRNA-1 transcript=HDID_0000865901-mRNA-1 gene=HDID_0000865901
+Length=426
+
+ Score = 54.3 bits (129),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 24/53 (45%), Positives = 31/53 (58%), Gaps = 0/53 (0%)
+ Frame = -2
+
+Query  107506  KMAEKCSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYC  107348
+               K AE+C  C K IT   + AL + WH ECF C  C   L+G+ FF ++G  YC
+Sbjct  305     KFAERCGGCRKPITDAYITALDQPWHEECFKCKDCGLNLKGRNFFPENGYLYC  357
+
+
+ Score = 53.1 bits (126),  Expect = 6e-08, Method: Compositional matrix adjust.
+ Identities = 23/66 (35%), Positives = 35/66 (53%), Gaps = 0/66 (0%)
+ Frame = -1
+
+Query  91904  vekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFD  91725
+              +  C  C + + G ++TA+   WH E F C+ C   +  + F+  +GAPYC +C    F 
+Sbjct  188    ISLCLHCNQPVVGKVITALGGVWHPEHFNCSYCGKNVVEEYFYEHEGAPYCTECHLSLFA  247
+
+Query  91724  PTCAVC  91707
+              P CA C
+Sbjct  248    PKCAFC  253
+
+
+ Score = 52.0 bits (123),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 24/68 (35%), Positives = 35/68 (51%), Gaps = 0/68 (0%)
+ Frame = -1
+
+Query  91910  kmvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEK  91731
+              K  E+C  C+K I    +TA+++ WH ECF C  C   L G++F  ++G  YC    +  
+Sbjct  305    KFAERCGGCRKPITDAYITALDQPWHEECFKCKDCGLNLKGRNFFPENGYLYCELHHRRN  364
+
+Query  91730  FDPTCAVC  91707
+                  CA C
+Sbjct  365    SGMVCAAC  372
+
+
+ Score = 51.2 bits (121),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 23/61 (38%), Positives = 34/61 (56%), Gaps = 0/61 (0%)
+ Frame = -2
+
+Query  107491  CSKCFKDITGQVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKFDPTC  107312
+               C  C + + G+V+ ALG  WH E F C+ C   +  + F++ +G+ YC EC    F P C
+Sbjct  191     CLHCNQPVVGKVITALGGVWHPEHFNCSYCGKNVVEEYFYEHEGAPYCTECHLSLFAPKC  250
+
+Query  107311  A  107309
+               A
+Sbjct  251     A  251
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.6
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 483,111
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.7
+           1,127 sequences; 495,531 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000253701-mRNA-1 transcript=HDID_0000253701-mRNA-1 gene=H...   117    1e-36
+  HDID_0000747001-mRNA-1 transcript=HDID_0000747001-mRNA-1 gene=H...   139    5e-34
+  HDID_0001112101-mRNA-1 transcript=HDID_0001112101-mRNA-1 gene=H...  47.8    1e-16
+  HDID_0000992001-mRNA-1 transcript=HDID_0000992001-mRNA-1 gene=H...  57.8    3e-09
+  HDID_0000053701-mRNA-1 transcript=HDID_0000053701-mRNA-1 gene=H...  50.8    3e-07
+  HDID_0000179701-mRNA-1 transcript=HDID_0000179701-mRNA-1 gene=H...  50.1    4e-07
+
+
+> HDID_0000253701-mRNA-1 transcript=HDID_0000253701-mRNA-1 gene=HDID_0000253701
+Length=1362
+
+ Score =  117 bits (294),  Expect(3) = 1e-36, Method: Compositional matrix adjust.
+ Identities = 58/111 (52%), Positives = 73/111 (66%), Gaps = 16/111 (14%)
+ Frame = +2
+
+Query  69242  RCSTGESWQELMLSCDFPQRCAVMTGTNAKYEEDgsgvsgggsllggYNCGSAGTYLYFV  69421
+              R +TGESW E+ML+C   ++C   T  + + EE             G NCGS   Y YF+
+Sbjct  1229   RSATGESWHEIMLACIPGKKC---TADSEEKEE-------------GMNCGSMLAYAYFI  1272
+
+Query  69422  SFIFLCTFLMLNLFVAVIMDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAA  69574
+              +F   C+F+++NLFVAVIMDNFDYLTRD SILG HHL+EF+  WAEYDP A
+Sbjct  1273   TFYLFCSFVIINLFVAVIMDNFDYLTRDWSILGPHHLDEFVTRWAEYDPEA  1323
+
+
+ Score = 45.4 bits (106),  Expect(3) = 1e-36, Method: Composition-based stats.
+ Identities = 18/36 (50%), Positives = 24/36 (67%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  69642  RGRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYRVSS  69749
+              +GR+ H D+  ML K+ PP+GFG  CP+  A  VSS
+Sbjct  1324   KGRVRHLDVVTMLGKISPPLGFGSMCPHTRACHVSS  1359
+
+
+ Score = 26.2 bits (56),  Expect(3) = 1e-36, Method: Composition-based stats.
+ Identities = 16/48 (33%), Positives = 23/48 (48%), Gaps = 7/48 (15%)
+ Frame = +1
+
+Query  69046  FVSQATFFQVFGTIAVDDPTSQ-------ITVQTNFRTFGNALLLLFR  69168
+              F+      Q+FG I+++ P          I    NFR F  +LL+LFR
+Sbjct  1182   FIFAVIGMQLFGKISLEQPGQDPPWEDGIIHRSNNFRNFFYSLLVLFR  1229
+
+
+ Score = 89.4 bits (220),  Expect(2) = 6e-21, Method: Compositional matrix adjust.
+ Identities = 51/129 (40%), Positives = 73/129 (57%), Gaps = 34/129 (26%)
+ Frame = +2
+
+Query  64784  F*NYFRDRWNIFDFITVIGSITDVLVTSSQVSITYL*LISSNDKFSYARSLLFKDTSfln  64963
+              F +YF D WN+ DF+ V+GS  D++V+ +                       F++ S +N
+Sbjct  1085   FRHYFGDLWNVIDFLIVLGSYIDIIVSKAG----------------------FENASKIN  1122
+
+Query  64964  lgflrlfraarlVKMLRQGYTIRILLWTFIQSFK------------ALPYVCLLIAMLFF  65107
+              + F RL R  RLVK+L +  +IR LLWTF++S +            ALPYV LLIAMLFF
+Sbjct  1123   INFFRLVRVMRLVKLLSKEESIRKLLWTFVKSLQVSQACYNLLEAWALPYVALLIAMLFF  1182
+
+Query  65108  IYAIVGMQV  65134
+              I+A++GMQ+
+Sbjct  1183   IFAVIGMQL  1191
+
+
+ Score = 27.3 bits (59),  Expect(2) = 6e-21, Method: Composition-based stats.
+ Identities = 13/31 (42%), Positives = 20/31 (65%), Gaps = 0/31 (0%)
+ Frame = +3
+
+Query  64653  SYCASLMYLNTAFTGMFTIECLLKILAFGPR  64745
+              ++ + L   N  FT +FT+E +LK+ AFG R
+Sbjct  1056   TFSSVLDGFNYFFTAVFTVEFILKLSAFGFR  1086
+
+
+ Score = 94.0 bits (232),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 52/146 (36%), Positives = 82/146 (56%), Gaps = 26/146 (18%)
+ Frame = +2
+
+Query  64076  IMKNSIDATEVNRGPKTDYRQHvaifyvvffivfpfffvnifvALIIITFKEQGENELVD  64255
+              I+   ID+ E + G   D+R+++A++++++ IV  FF VNIFV  II+TF+ +GE E  +
+Sbjct  930    ILYYGIDSNEEDMGRLHDHRKYIALYFILYLIVASFFMVNIFVGFIIVTFQREGEREYKN  989
+
+Query  64256  HELDKNQV*LWQSLTPSGLFKRLFIDDVDL*KQCIDFAIHARPLCRYMPEDPKSLKYRIW  64435
+               EL+KNQ                        ++CI++A+ ARP  RY+P+    L+Y+IW
+Sbjct  990    CELNKNQ------------------------RKCIEYALKARPRRRYIPKG--HLQYKIW  1023
+
+Query  64436  QLVVSGPFEYFIMTMIALNTLILMMK  64513
+               +VVS   E  I   I +NT+ L  K
+Sbjct  1024   SMVVSKKMEMTIFFFIFMNTVTLACK  1049
+
+
+ Score = 70.1 bits (170),  Expect = 5e-13, Method: Compositional matrix adjust.
+ Identities = 42/112 (38%), Positives = 59/112 (53%), Gaps = 26/112 (23%)
+ Frame = +3
+
+Query  60867  LLLFSKNLGTIKSLRVLRVLRPLKTIRRVPKLKVYCQDYY*LIRAENilslsali*li*a  61046
+               +L +  +  +K LRVLRVLRPL+ I R   LK   Q                       
+Sbjct  796    FMLENGAISAVKILRVLRVLRPLRAINRAKGLKNVVQ-----------------------  832
+
+Query  61047  VFDCVVSSLKNVFNILIVYILFQLMFGVVAVQLFQGKFFACSDLSKETREEC  61202
+                 CVV++LK++ NIL+V IL + +F V+ VQLF+GK+  C+D SK T + C
+Sbjct  833    ---CVVTALKSIGNILLVTILIEFVFAVIGVQLFKGKYVQCNDPSKLTEQTC  881
+
+
+ Score = 62.4 bits (150),  Expect = 8e-11, Method: Compositional matrix adjust.
+ Identities = 30/47 (64%), Positives = 36/47 (77%), Gaps = 0/47 (0%)
+ Frame = +3
+
+Query  16314  EFLENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG  16454
+              E  E  FL IFT EA+LKIIA GF+L P AYLRN WN+LDF++V+ G
+Sbjct  62     ERTELVFLVIFTVEAVLKIIAYGFVLHPDAYLRNFWNVLDFSIVVIG  108
+
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 37/97 (38%), Positives = 49/97 (51%), Gaps = 15/97 (15%)
+ Frame = +3
+
+Query  23850  HLILFTLPTGNPQELPDSIPTVPRLVPCVITNDSHSGSKSTLPGAFVCPDGYVCKGY---  24020
+              H+ L  +       + D +   PR  PC     S+S SK     A V PD YVC+     
+Sbjct  141    HIFLLVIFLITVYAIIDIMMDDPR--PC-----SNSTSKMAFNCASVGPD-YVCRDLPPE  192
+
+Query  24021  ----WEGPNFGITSFDNIGYSMLTVFQCITMEGWTDI  24119
+                  + GP  G+ +FDN  Y+MLTVF C+TMEGWT +
+Sbjct  193    LGERYPGPEDGLINFDNFLYAMLTVFTCVTMEGWTSV  229
+
+
+ Score = 51.6 bits (122),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 23/50 (46%), Positives = 28/50 (56%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  63056  QPSRGYYISYENSDLPEVRPRVWSARAFNYDNIGYAMLTLFTVTTGEGWP  63205
+              Q   G +I Y+N     V  R+W     N+DN+  AMLTLF V T EGWP
+Sbjct  879    QTCVGSFIEYQNGRPANVVQRIWIQNELNFDNVANAMLTLFVVLTFEGWP  928
+
+
+> HDID_0000747001-mRNA-1 transcript=HDID_0000747001-mRNA-1 gene=HDID_0000747001
+Length=117
+
+ Score =  139 bits (350),  Expect = 5e-34, Method: Compositional matrix adjust.
+ Identities = 66/70 (94%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+ Frame = +2
+
+Query  127532  MLNCTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSY  127711
+               MLNCTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSY
+Sbjct  1       MLNCTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSY  60
+
+Query  127712  RPNCKVTLHP  127741
+               RPNCK    P
+Sbjct  61      RPNCKKCSQP  70
+
+
+ Score =  110 bits (275),  Expect = 3e-25, Method: Compositional matrix adjust.
+ Identities = 52/53 (98%), Positives = 53/53 (100%), Gaps = 0/53 (0%)
+ Frame = +2
+
+Query  130748  QKCSQPIVSDQKYAVIGGKPFHATCFVCEVCQKSLYGGKYADRKGRITCLAHR  130906
+               +KCSQPIVSDQKYAVIGGKPFHATCFVCEVCQKSLYGGKYADRKGRITCLAHR
+Sbjct  65      KKCSQPIVSDQKYAVIGGKPFHATCFVCEVCQKSLYGGKYADRKGRITCLAHR  117
+
+
+ Score = 53.9 bits (128),  Expect(2) = 2e-13, Method: Compositional matrix adjust.
+ Identities = 27/65 (42%), Positives = 39/65 (60%), Gaps = 3/65 (5%)
+ Frame = -1
+
+Query  91895  cakckKDIDGTI--VTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQEKFDP  91722
+              C KC + I G++  V A+NK+WH  CFVC GC+C L  ++F +   AP+C  C  + + P
+Sbjct  4      CTKCMQPI-GSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSYRP  62
+
+Query  91721  TCAVC  91707
+               C  C
+Sbjct  63     NCKKC  67
+
+
+ Score = 37.4 bits (85),  Expect(2) = 2e-13, Method: Compositional matrix adjust.
+ Identities = 17/52 (33%), Positives = 26/52 (50%), Gaps = 0/52 (0%)
+ Frame = -3
+
+Query  91632  KCGKKIDPTIKYSIYQDKSYHRDCFTCSECNKPIDDKKFVIKDGKYCCAAHK  91477
+              KC + I    KY++   K +H  CF C  C K +   K+  + G+  C AH+
+Sbjct  66     KCSQPIVSDQKYAVIGGKPFHATCFVCEVCQKSLYGGKYADRKGRITCLAHR  117
+
+
+ Score = 50.1 bits (118),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 28/87 (32%), Positives = 40/87 (46%), Gaps = 2/87 (2%)
+ Frame = -2
+
+Query  107491  CSKCFKDITG-QVVLALGKKWHNECFACAGCNTPLQGKQFFQKDGSNYCIECRKEKFDPT  107315
+               C+KC + I   + VLAL K+WH  CF C GCN  L  K F     + +C  C  + + P 
+Sbjct  4       CTKCMQPIGSVEPVLALNKRWHPGCFVCEGCNCNLVDKNFSSNMNAPFCETCFNKSYRPN  63
+
+Query  107314  C-AVSKIFIASYHYLICFSSLLRILCF  107237
+               C   S+  ++   Y +         CF
+Sbjct  64      CKKCSQPIVSDQKYAVIGGKPFHATCF  90
+
+
+> HDID_0001112101-mRNA-1 transcript=HDID_0001112101-mRNA-1 gene=HDID_0001112101
+Length=125
+
+ Score = 47.8 bits (112),  Expect(3) = 1e-16, Method: Compositional matrix adjust.
+ Identities = 21/28 (75%), Positives = 23/28 (82%), Gaps = 0/28 (0%)
+ Frame = -1
+
+Query  4118  NVQTHSGTACGHCSGDFVASQSFLIARC  4035
+             N QTHSGTA  HCSGD +A+QSF IARC
+Sbjct  97    NTQTHSGTAREHCSGDLIANQSFQIARC  124
+
+
+ Score = 43.1 bits (100),  Expect(3) = 1e-16, Method: Compositional matrix adjust.
+ Identities = 21/29 (72%), Positives = 24/29 (83%), Gaps = 0/29 (0%)
+ Frame = -2
+
+Query  4330  NVKELSGLHRSIRWNNSSHSCRHISSEVA  4244
+             + ++LSG HRS RWNNSSHSCR ISS VA
+Sbjct  51    SYEDLSGPHRSNRWNNSSHSCRRISSMVA  79
+
+
+ Score = 31.2 bits (69),  Expect(3) = 1e-16, Method: Compositional matrix adjust.
+ Identities = 14/22 (64%), Positives = 16/22 (73%), Gaps = 0/22 (0%)
+ Frame = -3
+
+Query  4167  VSSLVS*CDDRHLFRYQCTNTQ  4102
+             V+  VS  DDRH F+YQC NTQ
+Sbjct  78    VAPQVSRRDDRHPFKYQCANTQ  99
+
+
+> HDID_0000992001-mRNA-1 transcript=HDID_0000992001-mRNA-1 gene=HDID_0000992001
+Length=127
+
+ Score = 57.8 bits (138),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 33/40 (83%), Gaps = 0/40 (0%)
+ Frame = +3
+
+Query  37287  LDYAEFVFLGLFLAEMQLKLFALGPVMYFHSSFNIFDCVV  37406
+              L YAE+VFLGLF+ EM LK++ LG  +YF S+FNIFDCVV
+Sbjct  57     LYYAEYVFLGLFMTEMLLKMYGLGFRLYFQSAFNIFDCVV  96
+
+
+ Score = 54.3 bits (129),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 28/54 (52%), Positives = 34/54 (63%), Gaps = 2/54 (4%)
+ Frame = +2
+
+Query  34442  RCKCRVLIKSQAFYLIVLTVVFLNAICIAIEHYGQPDWLSNFL--RKFYFAALF  34597
+              R   R L KSQ  Y  V+ +VFLN IC+ IEHYGQP WL+ FL   ++ F  LF
+Sbjct  15     RYAVRRLAKSQLAYWSVIVLVFLNTICVTIEHYGQPVWLTTFLYYAEYVFLGLF  68
+
+
+> HDID_0000053701-mRNA-1 transcript=HDID_0000053701-mRNA-1 gene=HDID_0000053701
+Length=359
+
+ Score = 50.8 bits (120),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 25/70 (36%), Positives = 33/70 (47%), Gaps = 0/70 (0%)
+ Frame = -1
+
+Query  91916  DkkmvekcakckKDIDGTIVTAMNKKWHNECFVCTGCHCPLAGQSFHNKDGAPYCIKCRQ  91737
+              DK  +  C  C++ I+  +V A+ K WH E FVC  C  P  G   + K G  YC    Q
+Sbjct  222    DKMGIPICGACRRPIEERVVHALGKTWHVEHFVCARCEKPFLGSRHYEKKGLAYCELHYQ  281
+
+Query  91736  EKFDPTCAVC  91707
+              + F   C  C
+Sbjct  282    QLFGMLCYSC  291
+
+
+> HDID_0000179701-mRNA-1 transcript=HDID_0000179701-mRNA-1 gene=HDID_0000179701
+Length=296
+
+ Score = 50.1 bits (118),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 43/163 (26%), Positives = 66/163 (40%), Gaps = 11/163 (7%)
+ Frame = +1
+
+Query  74101  PLDLVKCRLQVDKAKYGSLTRGFRVSI-------KEEGLRGLARGWAPTFFGYSLQGLGK  74259
+              P D+V  R+Q D     +  R ++ ++       +EEG   L  G + T         G+
+Sbjct  121    PGDMVNVRMQNDVKVPAAQRRNYKHAVDGLIRVAREEGFGALFNGVSMTATRAMFMTFGQ  180
+
+Query  74260  FGFYEIFKHTYSGMLSEENAFLWRTSVYLAASASAEFFADIMLCPMEALKVRIQTMPGFA  74439
+                FY+ FK     ML     F      + +AS  A   A  M  P + +K R+   P   
+Sbjct  181    LAFYDTFKT----MLLSTGLFQDNPITHFSASIGAAGVATCMTQPFDVMKTRLMNAPPGK  236
+
+Query  74440  NTLREGFPKMVAAEGIAGFYKGIVPLWGRQIPYTMMKFACFER  74568
+               +        V   G  GF+KG+VP + R  P T++ F   E+
+Sbjct  237    YSGLAACGLDVMRTGPLGFFKGLVPAFIRLGPQTVLTFIFLEQ  279
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.7
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 495,531
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.8
+           1,127 sequences; 497,464 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000747101-mRNA-1 transcript=HDID_0000747101-mRNA-1 gene=H...   189    4e-49
+  HDID_0000565101-mRNA-1 transcript=HDID_0000565101-mRNA-1 gene=H...  64.3    7e-12
+  HDID_0000084801-mRNA-1 transcript=HDID_0000084801-mRNA-1 gene=H...  65.9    8e-12
+  HDID_0000698101-mRNA-1 transcript=HDID_0000698101-mRNA-1 gene=H...  55.1    2e-08
+  HDID_0001098201-mRNA-1 transcript=HDID_0001098201-mRNA-1 gene=H...  52.4    1e-07
+
+
+> HDID_0000747101-mRNA-1 transcript=HDID_0000747101-mRNA-1 gene=HDID_0000747101
+Length=159
+
+ Score =  189 bits (481),  Expect = 4e-49, Method: Compositional matrix adjust.
+ Identities = 105/121 (87%), Positives = 108/121 (89%), Gaps = 0/121 (0%)
+ Frame = +3
+
+Query  141855  MVFLISNMVKTFQVYLGSHsggasrcsstgssgstespdgssgsgVVDERTYSCIHCRAH  142034
+               MVFLISNMVKTFQVYLGSHSGGASRCSSTGSSGSTESPDGSSGSGVVDERTYSCIHCRAH
+Sbjct  1       MVFLISNMVKTFQVYLGSHSGGASRCSSTGSSGSTESPDGSSGSGVVDERTYSCIHCRAH  60
+
+Query  142035  LARHEDLISKSFQGTQGRAYLFDSVVNVTCGKPEERLLLTGKKHFAYIFLIFVDILFTFR  142214
+               LARHEDLISKSFQGTQGRAYLFDSVVNVTCGKPEERLLLTG    A IF    D    ++
+Sbjct  61      LARHEDLISKSFQGTQGRAYLFDSVVNVTCGKPEERLLLTGLHLVADIFCECCDTYLGWK  120
+
+Query  142215  F  142217
+               +
+Sbjct  121     Y  121
+
+
+ Score =  132 bits (331),  Expect = 9e-32, Method: Compositional matrix adjust.
+ Identities = 60/61 (98%), Positives = 60/61 (98%), Gaps = 0/61 (0%)
+ Frame = +3
+
+Query  146484  LLGLHLVADIFCECCDTYLGWKYEEAFEPSQKYKEGKYIIELAHLIKDNGWSWSTLPPRP  146663
+               L GLHLVADIFCECCDTYLGWKYEEAFEPSQKYKEGKYIIELAHLIKDNGWSWSTLPPRP
+Sbjct  99      LTGLHLVADIFCECCDTYLGWKYEEAFEPSQKYKEGKYIIELAHLIKDNGWSWSTLPPRP  158
+
+Query  146664  Y  146666
+               Y
+Sbjct  159     Y  159
+
+
+> HDID_0000565101-mRNA-1 transcript=HDID_0000565101-mRNA-1 gene=HDID_0000565101
+Length=162
+
+ Score = 64.3 bits (155),  Expect(2) = 7e-12, Method: Compositional matrix adjust.
+ Identities = 38/66 (58%), Positives = 47/66 (71%), Gaps = 2/66 (3%)
+ Frame = +3
+
+Query  120678  SFSYNRPDQLKLAYNYILMRVLIQSVDYK*PSMRYTRHTQQGTLARPTHLP*LNPSPPIL  120857
+               SF++NR DQ K AY+Y+ MRVL QSVD K PS+R+T HT +  L +   LP L P+PP L
+Sbjct  2       SFAHNRIDQSKHAYSYVFMRVLTQSVDDKEPSLRHT-HTLEPYLLKNA-LPLLKPAPPSL  59
+
+Query  120858  YFPLRL  120875
+               Y PLRL
+Sbjct  60      YVPLRL  65
+
+
+ Score = 21.6 bits (44),  Expect(2) = 7e-12, Method: Compositional matrix adjust.
+ Identities = 11/21 (52%), Positives = 13/21 (62%), Gaps = 6/21 (29%)
+ Frame = +1
+
+Query  120949  LPLQTGDS------RQISDPD  120993
+               LPLQTGDS      RQ+  P+
+Sbjct  67      LPLQTGDSVKGSTTRQLVKPN  87
+
+
+> HDID_0000084801-mRNA-1 transcript=HDID_0000084801-mRNA-1 gene=HDID_0000084801
+Length=1207
+
+ Score = 65.9 bits (159),  Expect = 8e-12, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 37/47 (79%), Gaps = 0/47 (0%)
+ Frame = +3
+
+Query  16314  EFLENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVVITG  16454
+              E +EN F+ IFT E  LKIIALGF++ PGAYLRN WN+LDFT+V  G
+Sbjct  211    EKVENVFIVIFTIECFLKIIALGFVMHPGAYLRNGWNILDFTIVCLG  257
+
+
+ Score = 65.5 bits (158),  Expect = 1e-11, Method: Compositional matrix adjust.
+ Identities = 33/69 (48%), Positives = 45/69 (65%), Gaps = 0/69 (0%)
+ Frame = +2
+
+Query  64073  SIMKNSIDATEVNRGPKTDYRQHvaifyvvffivfpfffvnifvALIIITFKEQGENELV  64252
+              S++  SID+   + G   + R  VAIFYV + +V  FF VNIFV  +I+TF+++GE E  
+Sbjct  1138   SLLYQSIDSYSEDHGKVYNCRPVVAIFYVAYIVVVAFFMVNIFVGFVIVTFQQEGEQEYK  1197
+
+Query  64253  DHELDKNQV  64279
+                ELDKNQV
+Sbjct  1198   GCELDKNQV  1206
+
+
+ Score = 59.3 bits (142),  Expect = 8e-10, Method: Compositional matrix adjust.
+ Identities = 28/48 (58%), Positives = 35/48 (73%), Gaps = 0/48 (0%)
+ Frame = +3
+
+Query  20268  GLQVVLKSLIKAMAPllqigllvlfgivvlaivglEFYGGGFHLTCFD  20411
+               LQVVL ++I+AM PLL I LLV+F I + AIVGLE + G  H TC+D
+Sbjct  294    SLQVVLNAIIRAMVPLLHIALLVIFVITMYAIVGLELFSGKLHATCYD  341
+
+
+ Score = 55.8 bits (133),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 40/107 (37%), Positives = 55/107 (51%), Gaps = 26/107 (24%)
+ Frame = +3
+
+Query  60897  IKSLRVLRVLRPLKTIRRVPKLKVYCQDYY*LIRAENilslsali*li*aVFDCVVSSLK  61076
+              +K LRV RVLRPL+ I R   LK                           V  CVV ++K
+Sbjct  1015   VKILRVSRVLRPLRAINRAKGLK--------------------------HVVQCVVVAVK  1048
+
+Query  61077  NVFNILIVYILFQLMFGVVAVQLFQGKFFACSDLSKETREECQ*VPY  61217
+              ++ NI++V  L + MF V+ VQLF GKF  C+D ++  +EECQ + Y
+Sbjct  1049   SIGNIMLVTFLLEFMFAVIGVQLFAGKFQYCNDEARFFKEECQFIRY  1095
+
+
+ Score = 50.1 bits (118),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 36/44 (82%), Positives = 39/44 (89%), Gaps = 0/44 (0%)
+ Frame = +1
+
+Query  42460  RYWAslrnlmlsllnsmrsIVSllfllflfmvifallGMQLFGG  42591
+              RYW SLRNL+ SLL SMRSI SLL LLFLF+VIFALLGMQ+FGG
+Sbjct  699    RYWNSLRNLVGSLLASMRSIASLLVLLFLFIVIFALLGMQIFGG  742
+
+
+ Score = 48.9 bits (115),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 20/36 (56%), Positives = 26/36 (72%), Gaps = 0/36 (0%)
+ Frame = +2
+
+Query  34460  LIKSQAFYLIVLTVVFLNAICIAIEHYGQPDWLSNF  34567
+              ++KSQAFY  V+ +VFLN   +  EHYGQP WL +F
+Sbjct  587    MVKSQAFYWTVIVLVFLNTGVLTSEHYGQPKWLDHF  622
+
+
+> HDID_0000698101-mRNA-1 transcript=HDID_0000698101-mRNA-1 gene=HDID_0000698101
+Length=338
+
+ Score = 55.1 bits (131),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 56/227 (25%), Positives = 90/227 (40%), Gaps = 27/227 (12%)
+ Frame = +1
+
+Query  74074  CGTTHTAIVPLDLVKCRLQV---------DKAKYGSLTRGFRVSIKEEGLRGLARG-WAP  74223
+              CG     + PLD+VK R Q+         + AKY S+ +  +   KEEG     +G  + 
+Sbjct  27     CG--RACVQPLDVVKVRFQLQVEPISAVQESAKYRSVFQAIKCIAKEEGFGAFWKGHLSS  84
+
+Query  74224  TFFGYSLQGLGKFGFYEIFKHTYSGML-----SEENAFLWRTSVYLAASASAEFFADIML  74388
+                   S  G+ +F  +E+F   Y+ +        E      ++V       A   A    
+Sbjct  85     QILAVSYSGI-QFTSFELFTRWYTYLTRGIQGDPETRQFIASAVNFICGCLAGVTAATCT  143
+
+Query  74389  CPMEALKVRI--QTMPGFANTLREGFPKMVAAEGIAGFYKGIVPLWGRQIPYTMMKFACF  74562
+               P++ LK R   Q  P   N +RE    +   EG  GF++G+ P      P T + FA +
+Sbjct  144    QPLDVLKTRFIAQGEPRIYNNIREAIVSIAKKEGFQGFFRGLSPSILLTAPQTGLNFAVY  203
+
+Query  74563  ERTVE--ALYKYVV-----PKPRSECSKGEQLIVTFAAGYIGKIFIF  74682
+              + TV    L+   V       P ++ S    +     AG + K  ++
+Sbjct  204    KLTVNLFELWDTRVLGRLPTDPSADTSMVRSVTAGSVAGMVSKCLVY  250
+
+
+> HDID_0001098201-mRNA-1 transcript=HDID_0001098201-mRNA-1 gene=HDID_0001098201
+Length=142
+
+ Score = 52.4 bits (124),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 45/110 (41%), Positives = 57/110 (52%), Gaps = 11/110 (10%)
+ Frame = -2
+
+Query  86515  FPSSHNRLVSSK*YICARVLASP*PSDSYEAIFVP*MLFPTQ*QTMPVSYQFLRFLLISL  86336
+              FPS +N L S K +I A  LA P PSD ++A  V    FP   +   V        L+S 
+Sbjct  43     FPSFYNLLASHKKHITAHALAWPYPSDLHKATLV----FPDN-KHWSVRTPTRPVHLLSS  97
+
+Query  86335  FPQHP-ALSISPSLTRFKPIVASLNTFGLINSWCSAPQLWLALTQTAMNW  86189
+                + P +L +S +   F   +     FG +NSWCSA QL LALTQTA NW
+Sbjct  98     SARSPLSLPLSVTHCGFLEYI-----FGQLNSWCSASQLLLALTQTATNW  142
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.8
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 497,464
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
+BLASTX 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.9
+           1,127 sequences; 466,718 total letters
+
+
+
+Query= HDID_scaffold0000062 length=164009 masked CHUNK number:0 size:164009
+offset:0
+
+Length=164009
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  HDID_0000164901-mRNA-1 transcript=HDID_0000164901-mRNA-1 gene=H...   177    3e-86
+  HDID_0000527201-mRNA-1 transcript=HDID_0000527201-mRNA-1 gene=H...  74.3    2e-14
+  HDID_0000530201-mRNA-1 transcript=HDID_0000530201-mRNA-1 gene=H...  52.8    8e-08
+
+
+> HDID_0000164901-mRNA-1 transcript=HDID_0000164901-mRNA-1 gene=HDID_0000164901
+Length=1306
+
+ Score =  177 bits (448),  Expect(3) = 3e-86, Method: Compositional matrix adjust.
+ Identities = 92/173 (53%), Positives = 106/173 (61%), Gaps = 48/173 (28%)
+ Frame = +3
+
+Query  69642  RGRIHHTDMYEMLRKLEPPVGFGKKCPYRLAYRVSSSICTAEMYQQAFQLHI*VLCLQKL  69821
+              RGRIHH+DMYEMLR +EPPVGFGKKCPYRLAYR                         KL
+Sbjct  670    RGRIHHSDMYEMLRNMEPPVGFGKKCPYRLAYR-------------------------KL  704
+
+Query  69822  IRMNMPVDDTDCVRFNTTLFALIRESLGIKMGPASVMDIKDAELRDTIKEMWPLQAKKML  70001
+              IRMNMPVDD   V F TTLFALIRESLGIKMGPA +MD +D ELR ++ ++WP+Q K+M+
+Sbjct  705    IRMNMPVDDNGTVHFTTTLFALIRESLGIKMGPAEIMDQRDNELRYSLHKLWPVQTKRMI  764
+
+Query  70002  NLLVPNDEG*HECLFIINLSEPTNLMVSFDSELTCGKMTTGKIYAGLLIYEAW  70160
+              N+LVP                        DSEL   KMT GKIYAG+LI E +
+Sbjct  765    NILVPP-----------------------DSELVYQKMTVGKIYAGMLILENY  794
+
+
+ Score =  140 bits (354),  Expect(3) = 3e-86, Method: Compositional matrix adjust.
+ Identities = 69/111 (62%), Positives = 78/111 (70%), Gaps = 22/111 (20%)
+ Frame = +2
+
+Query  69242  RCSTGESWQELMLSCDFPQRCAVMTGTNAKYEEDgsgvsgggsllggYNCGSAGTYLYFV  69421
+              RC+TGE+WQE+ML CD  + C            +GSG S          CGS  TYLYFV
+Sbjct  581    RCATGENWQEVMLDCDAGREC------------EGSGTS----------CGSKTTYLYFV  618
+
+Query  69422  SFIFLCTFLMLNLFVAVIMDNFDYLTRDSSILGSHHLEEFIRVWAEYDPAA  69574
+              +FIF  TFLMLNLFVAVIMDNFDYLTRDSSILG HHL+E++RVWAEYDP A
+Sbjct  619    TFIFFSTFLMLNLFVAVIMDNFDYLTRDSSILGPHHLDEYVRVWAEYDPTA  669
+
+
+ Score = 38.9 bits (89),  Expect(3) = 3e-86, Method: Compositional matrix adjust.
+ Identities = 18/34 (53%), Positives = 24/34 (71%), Gaps = 1/34 (3%)
+ Frame = +1
+
+Query  69067  FQVFGTIAVDDPTSQITVQTNFRTFGNALLLLFR  69168
+               QVFG I  +DP +Q+    NF+TFG+ +LLLFR
+Sbjct  549    MQVFGNIK-NDPMTQMNNHNNFQTFGSGILLLFR  581
+
+
+ Score =  152 bits (385),  Expect(2) = 1e-49, Method: Compositional matrix adjust.
+ Identities = 91/147 (62%), Positives = 110/147 (75%), Gaps = 24/147 (16%)
+ Frame = +2
+
+Query  64073  SIMKNSIDATEVNRGPKTDYRQHvaifyvvffivfpfffvnifvALIIITFKEQGENELV  64252
+               ++KNS+DAT  N+GP  DY+Q +AIFY+ FF+VFPFFFVNIFVALIIITF++QGENEL+
+Sbjct  233    GVLKNSMDATHQNQGPIEDYQQRMAIFYITFFVVFPFFFVNIFVALIIITFQKQGENELI  292
+
+Query  64253  DHELDKNQV*LWQSLTPSGLFKRLFIDDVDL*KQCIDFAIHARPLCRYMPEDPKSLKYRI  64432
+              D ELDKNQ                        K+C+DFAI+A PLCRYMP++ +S KYRI
+Sbjct  293    DLELDKNQ------------------------KRCVDFAINAHPLCRYMPKNKRSWKYRI  328
+
+Query  64433  WQLVVSGPFEYFIMTMIALNTLILMMK  64513
+              W+LVVS PFEY+IM MIALNTLILMMK
+Sbjct  329    WRLVVSTPFEYYIMVMIALNTLILMMK  355
+
+
+ Score = 60.5 bits (145),  Expect(2) = 1e-49, Method: Compositional matrix adjust.
+ Identities = 40/110 (36%), Positives = 61/110 (55%), Gaps = 12/110 (11%)
+ Frame = +3
+
+Query  64572  LFFCQYHRPENSLLSTLEADDNTKAYESYCASLMYLNTAFTGMFTIECLLKILAFGPR--  64745
+              +   +YHR E         D   + Y +YC +L++LN+AFT MF++EC+LKI+AFGP+  
+Sbjct  351    ILMMKYHRQERRPSVATNIDTAQQNYHNYCNTLIFLNSAFTIMFSVECILKIMAFGPKYF  410
+
+Query  64746  ----VGQNL--TFLNHLMS-FRTTLEI-DGISlisllllgallmyllQVR  64871
+                  V  NL   F++   + FR    I D I++I  +    +L+  LQVR
+Sbjct  411    LFTVVNSNLYRIFVHQFQNYFRDRWNIFDFITVIGSIT--DVLVSELQVR  458
+
+
+ Score =  156 bits (394),  Expect = 5e-39, Method: Compositional matrix adjust.
+ Identities = 83/127 (65%), Positives = 97/127 (76%), Gaps = 8/127 (6%)
+ Frame = +2
+
+Query  64778  HVF*NYFRDRWNIFDFITVIGSITDVLVTSSQV----SITYL*LISSNDKFSYARS----  64933
+              H F NYFRDRWNIFDFITVIGSITDVLV+  QV      ++  ++ S   F         
+Sbjct  425    HQFQNYFRDRWNIFDFITVIGSITDVLVSELQVRAILQFSFDAIVQSYVCFKENTVNDFV  484
+
+Query  64934  LLFKDTSflnlgflrlfraarlVKMLRQGYTIRILLWTFIQSFKALPYVCLLIAMLFFIY  65113
+              L F+ ++FL+LGFLRLFRAARL+K+LRQGYT+RILLWTFIQS KALPYVCLLI +LFFIY
+Sbjct  485    LCFQQSAFLSLGFLRLFRAARLIKLLRQGYTVRILLWTFIQSVKALPYVCLLIVILFFIY  544
+
+Query  65114  AIVGMQV  65134
+               I+GMQV
+Sbjct  545    CIIGMQV  551
+
+
+ Score =  147 bits (372),  Expect = 2e-36, Method: Compositional matrix adjust.
+ Identities = 98/220 (45%), Positives = 114/220 (52%), Gaps = 81/220 (37%)
+ Frame = +3
+
+Query  60567  lidlgvflHPHSYFRDPWNfldavvvlgalvaffk*vssslskvfYLLCIRIEIFSN*FY  60746
+              +IDLGV LHP +Y RDPWN LDA+VV  ALVAF                           
+Sbjct  54     VIDLGVVLHPGAYCRDPWNILDAIVVFCALVAF---------------------------  86
+
+Query  60747  FSVGRQTVELELAEKPRGNYSWLKTSGNDQF*SNLI*FEILLLFSKNLGTIKSLRVLRVL  60926
+               ++ R  + L    KP  + S                       +KNL TIKSLRVLRVL
+Sbjct  87     -TMNRNALRLG---KPATSAS-----------------------AKNLNTIKSLRVLRVL  119
+
+Query  60927  RPLKTIRRVPKLKVYCQDYY*LIRAENilslsali*li*aVFDCVVSSLKNVFNILIVYI  61106
+              RPLKTI+RVPKLK                          AVFDCV+SSL+NV NILIV++
+Sbjct  120    RPLKTIKRVPKLK--------------------------AVFDCVLSSLRNVLNILIVFV  153
+
+Query  61107  LFQLMFGVVAVQLFQGKFFACSDLSKETREECQ*VPYFHF  61226
+              LFQ +F V+AVQLFQGKFF C+D SK T EECQ   YF F
+Sbjct  154    LFQFIFAVIAVQLFQGKFFYCNDASKLTPEECQ-GQYFDF  192
+
+
+ Score = 86.3 bits (212),  Expect = 6e-18, Method: Compositional matrix adjust.
+ Identities = 41/55 (75%), Positives = 50/55 (91%), Gaps = 0/55 (0%)
+ Frame = +2
+
+Query  57899  LRYFDLFimiviasssislaaEDPVNEKNPRNIILEYFDHAFTGVFTMEMILKVL  58063
+              LRYFDLFIMIVI +SSI+LAAEDPV E + +N ILE+FD+AFTGVFT+EM+LKV+
+Sbjct  1      LRYFDLFIMIVICASSIALAAEDPVAENSTKNKILEHFDYAFTGVFTVEMVLKVI  55
+
+
+ Score = 63.2 bits (152),  Expect = 5e-11, Method: Compositional matrix adjust.
+ Identities = 27/47 (57%), Positives = 31/47 (66%), Gaps = 0/47 (0%)
+ Frame = +2
+
+Query  63065  RGYYISYENSDLPEVRPRVWSARAFNYDNIGYAMLTLFTVTTGEGWP  63205
+              +G Y  +    +P    R W A  FNYDN+ YAMLTLFTVTTGEGWP
+Sbjct  186    QGQYFDFNADGIPTTVWREWKAHGFNYDNVFYAMLTLFTVTTGEGWP  232
+
+
+ Score = 53.5 bits (127),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 23/44 (52%), Positives = 30/44 (68%), Gaps = 0/44 (0%)
+ Frame = +3
+
+Query  16314  EFLENYFLGIFTCEAILKIIALGFLLQPGAYLRNVWNLLDFTVV  16445
+              E  +  F G+FT E +LK+I LG +L PGAY R+ WN+LD  VV
+Sbjct  36     EHFDYAFTGVFTVEMVLKVIDLGVVLHPGAYCRDPWNILDAIVV  79
+
+
+> HDID_0000527201-mRNA-1 transcript=HDID_0000527201-mRNA-1 gene=HDID_0000527201
+Length=119
+
+ Score = 74.3 bits (181),  Expect = 2e-14, Method: Compositional matrix adjust.
+ Identities = 42/70 (60%), Positives = 45/70 (64%), Gaps = 4/70 (6%)
+ Frame = +1
+
+Query  421  pfvspDNVHTSNTRAQSSSKDAVQPSTPSLQ----DTV*PTTPSSCMSRSELSRTGCGRR  588
+            P V PDNVH  NTRAQ  SKD +QPS   +Q    DTV  TTP SC SR + SRT CGRR
+Sbjct  48   PVVPPDNVHPPNTRAQYPSKDTIQPSASPVQSSSQDTVKSTTPPSCASRHKHSRTCCGRR  107
+
+Query  589  VNFPSRLADY  618
+            V  PSR  DY
+Sbjct  108  VTLPSRRVDY  117
+
+
+> HDID_0000530201-mRNA-1 transcript=HDID_0000530201-mRNA-1 gene=HDID_0000530201
+Length=171
+
+ Score = 52.8 bits (125),  Expect = 8e-08, Method: Compositional matrix adjust.
+ Identities = 43/161 (27%), Positives = 66/161 (41%), Gaps = 18/161 (11%)
+ Frame = +1
+
+Query  74134  DKAKYGSLTRGFRVSIKEEGLRGLARGWAPTFFGYSLQGLGKFGFYEIFKHTYSGMLSEE  74313
+              ++  Y ++       +KEEGL  L RG  PT    ++  + +   Y  FK          
+Sbjct  5      ERRNYKNVFNALYRILKEEGLSALWRGAVPTMGRAAVVNVAQLVSYSQFKQAILENKLMR  64
+
+Query  74314  NAFLWRTSVYLAASASAEFFADIMLCPMEALKVRIQTM---------PGFANTLREGFPK  74466
+              + F     V+L AS  +         P++  K RIQ M          G  + LR    +
+Sbjct  65     DGF----GVHLTASMCSALITTTASLPVDIAKTRIQNMRTINGRPEYSGIFDVLR----R  116
+
+Query  74467  MVAAEGIAGFYKGIVPLWGRQIPYTMMKFACFERTVEALYK  74589
+               V +EGI   +KG  P   R  P+T++ F   E+ + ALY 
+Sbjct  117    TVKSEGITALWKGFTPYLFRIGPHTVLTFVILEQ-LNALYN  156
+
+
+
+Lambda      K        H
+   0.318    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 500000000
+
+
+  Database: /tmp/maker_0J7ElM/0/blastprep/hymenolepis_diminuta%2EPRJEB507%2EWBPS
+10%2Eprotein%2Efa.mpi.10.9
+    Posted date:  Mar 9, 2022  8:40 PM
+  Number of letters in database: 466,718
+  Number of sequences in database:  1,127
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40
