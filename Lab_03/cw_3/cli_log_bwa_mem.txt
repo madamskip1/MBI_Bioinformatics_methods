@@ -1,0 +1,6 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 284259 sequences (21468824 bp)...
+[M::mem_process_seqs] Processed 284259 reads in 18.813 CPU sec, 4.756 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 4 -o /data/coriell_chr1.sam /data/chr1.fa /data/coriell_chr1.fq
+[main] Real time: 5.912 sec; CPU: 19.426 sec
