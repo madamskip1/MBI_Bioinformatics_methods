@@ -1,0 +1,3 @@
+$ summary(apply(Y_ac, 2, median))
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  21.06   24.04   25.29   27.37   27.08   76.03
